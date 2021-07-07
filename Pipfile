@@ -6,8 +6,11 @@ name = "pypi"
 [packages]
 pandas = "*"
 numpy = "*"
+census = "*"
+us = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.9"
