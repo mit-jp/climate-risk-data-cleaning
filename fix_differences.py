@@ -11,7 +11,6 @@ def fix(tbl, tblix, refix):
                 x = input(prompt)
                 if x == '1':
                     tblout = pd.concat([tblout[0:i], pd.DataFrame([], index=[i]), tblout[i:]])
-                    i += 1
                 elif x == '2':
                     tblout = pd.concat([tblout[0:i], tblout[i+1:]])
                     #tblout = tblout[0:i].append([tblout[i+1:tblout.shape[0]]])
