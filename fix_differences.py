@@ -1,9 +1,9 @@
 def fix(tbl, tblix, refix, sorting):
     import pandas as pd
     tblout = tbl
-    ref = pd.read_csv(r'/Users/ShelliOrzach/ShelliOrzach1/Documents/DOE MATLAB Updated/Cypress Output Python/Copy of name_ID_match.csv')
+    ref = pd.read_csv(r'Parsed Data/ID match.csv')
     if sorting == 2:
-        ref = pd.read_csv(r'/Users/ShelliOrzach/ShelliOrzach1/Documents/DOE MATLAB Updated/Cypress Output Python/Copy of name_ID_match_resorted.csv')
+        ref = pd.read_csv(r'Parsed data/ID match resorted.csv')
     i = 0
     while i < ref.shape[0]:
         if refix == 1:

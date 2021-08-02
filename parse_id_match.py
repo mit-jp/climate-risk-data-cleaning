@@ -6,4 +6,4 @@ df = df[:3142]
 df['county_State'] = df['county_State'].str.lower()
 df['county_State'] = df['county_State'].str.replace(' county', '')
 df['county_State'] = df['county_State'].str.replace(' city', '')
-df.to_csv(r'/Users/ShelliOrzach/ShelliOrzach1/Documents/DOE MATLAB Updated/Cypress Output Python/Copy of name_ID_match.csv', index = False)
+df.to_csv(r'Parsed data/ID match.csv', index = False)
