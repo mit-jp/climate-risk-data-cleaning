@@ -1,0 +1,3143 @@
+STATEFP,COUNTYFP,county_State
+1,1,autauga_alabama
+1,3,baldwin_alabama
+1,5,barbour_alabama
+1,7,bibb_alabama
+1,9,blount_alabama
+1,11,bullock_alabama
+1,13,butler_alabama
+1,15,calhoun_alabama
+1,17,chambers_alabama
+1,19,cherokee_alabama
+1,21,chilton_alabama
+1,23,choctaw_alabama
+1,25,clarke_alabama
+1,27,clay_alabama
+1,29,cleburne_alabama
+1,31,coffee_alabama
+1,33,colbert_alabama
+1,35,conecuh_alabama
+1,37,coosa_alabama
+1,39,covington_alabama
+1,41,crenshaw_alabama
+1,43,cullman_alabama
+1,45,dale_alabama
+1,47,dallas_alabama
+1,49,dekalb_alabama
+1,51,elmore_alabama
+1,53,escambia_alabama
+1,55,etowah_alabama
+1,57,fayette_alabama
+1,59,franklin_alabama
+1,61,geneva_alabama
+1,63,greene_alabama
+1,65,hale_alabama
+1,67,henry_alabama
+1,69,houston_alabama
+1,71,jackson_alabama
+1,73,jefferson_alabama
+1,75,lamar_alabama
+1,77,lauderdale_alabama
+1,79,lawrence_alabama
+1,81,lee_alabama
+1,83,limestone_alabama
+1,85,lowndes_alabama
+1,87,macon_alabama
+1,89,madison_alabama
+1,91,marengo_alabama
+1,93,marion_alabama
+1,95,marshall_alabama
+1,97,mobile_alabama
+1,99,monroe_alabama
+1,101,montgomery_alabama
+1,103,morgan_alabama
+1,105,perry_alabama
+1,107,pickens_alabama
+1,109,pike_alabama
+1,111,randolph_alabama
+1,113,russell_alabama
+1,115,st. clair_alabama
+1,117,shelby_alabama
+1,119,sumter_alabama
+1,121,talladega_alabama
+1,123,tallapoosa_alabama
+1,125,tuscaloosa_alabama
+1,127,walker_alabama
+1,129,washington_alabama
+1,131,wilcox_alabama
+1,133,winston_alabama
+2,13,aleutians east_alaska
+2,16,aleutians west_alaska
+2,20,anchorage_alaska
+2,50,bethel_alaska
+2,60,bristol bay_alaska
+2,68,denali_alaska
+2,70,dillingham_alaska
+2,90,fairbanks north star_alaska
+2,100,haines_alaska
+2,105,hoonah-angoon_alaska
+2,110,juneau_alaska
+2,122,kenai peninsula_alaska
+2,130,ketchikan gateway_alaska
+2,150,kodiak island_alaska
+2,158,kusilvak_alaska
+2,164,lake and peninsula_alaska
+2,170,matanuska-susitna_alaska
+2,180,nome_alaska
+2,185,north slope_alaska
+2,188,northwest arctic_alaska
+2,195,petersburg_alaska
+2,198,prince of wales-hyder_alaska
+2,220,sitka_alaska
+2,230,skagway_alaska
+2,240,southeast fairbanks_alaska
+2,261,valdez-cordova_alaska
+2,275,wrangell_alaska
+2,282,yakutat_alaska
+2,290,yukon-koyukuk_alaska
+4,1,apache_arizona
+4,3,cochise_arizona
+4,5,coconino_arizona
+4,7,gila_arizona
+4,9,graham_arizona
+4,11,greenlee_arizona
+4,12,la paz_arizona
+4,13,maricopa_arizona
+4,15,mohave_arizona
+4,17,navajo_arizona
+4,19,pima_arizona
+4,21,pinal_arizona
+4,23,santa cruz_arizona
+4,25,yavapai_arizona
+4,27,yuma_arizona
+5,1,arkansas_arkansas
+5,3,ashley_arkansas
+5,5,baxter_arkansas
+5,7,benton_arkansas
+5,9,boone_arkansas
+5,11,bradley_arkansas
+5,13,calhoun_arkansas
+5,15,carroll_arkansas
+5,17,chicot_arkansas
+5,19,clark_arkansas
+5,21,clay_arkansas
+5,23,cleburne_arkansas
+5,25,cleveland_arkansas
+5,27,columbia_arkansas
+5,29,conway_arkansas
+5,31,craighead_arkansas
+5,33,crawford_arkansas
+5,35,crittenden_arkansas
+5,37,cross_arkansas
+5,39,dallas_arkansas
+5,41,desha_arkansas
+5,43,drew_arkansas
+5,45,faulkner_arkansas
+5,47,franklin_arkansas
+5,49,fulton_arkansas
+5,51,garland_arkansas
+5,53,grant_arkansas
+5,55,greene_arkansas
+5,57,hempstead_arkansas
+5,59,hot spring_arkansas
+5,61,howard_arkansas
+5,63,independence_arkansas
+5,65,izard_arkansas
+5,67,jackson_arkansas
+5,69,jefferson_arkansas
+5,71,johnson_arkansas
+5,73,lafayette_arkansas
+5,75,lawrence_arkansas
+5,77,lee_arkansas
+5,79,lincoln_arkansas
+5,81,little river_arkansas
+5,83,logan_arkansas
+5,85,lonoke_arkansas
+5,87,madison_arkansas
+5,89,marion_arkansas
+5,91,miller_arkansas
+5,93,mississippi_arkansas
+5,95,monroe_arkansas
+5,97,montgomery_arkansas
+5,99,nevada_arkansas
+5,101,newton_arkansas
+5,103,ouachita_arkansas
+5,105,perry_arkansas
+5,107,phillips_arkansas
+5,109,pike_arkansas
+5,111,poinsett_arkansas
+5,113,polk_arkansas
+5,115,pope_arkansas
+5,117,prairie_arkansas
+5,119,pulaski_arkansas
+5,121,randolph_arkansas
+5,123,st. francis_arkansas
+5,125,saline_arkansas
+5,127,scott_arkansas
+5,129,searcy_arkansas
+5,131,sebastian_arkansas
+5,133,sevier_arkansas
+5,135,sharp_arkansas
+5,137,stone_arkansas
+5,139,union_arkansas
+5,141,van buren_arkansas
+5,143,washington_arkansas
+5,145,white_arkansas
+5,147,woodruff_arkansas
+5,149,yell_arkansas
+6,1,alameda_california
+6,3,alpine_california
+6,5,amador_california
+6,7,butte_california
+6,9,calaveras_california
+6,11,colusa_california
+6,13,contra costa_california
+6,15,del norte_california
+6,17,el dorado_california
+6,19,fresno_california
+6,21,glenn_california
+6,23,humboldt_california
+6,25,imperial_california
+6,27,inyo_california
+6,29,kern_california
+6,31,kings_california
+6,33,lake_california
+6,35,lassen_california
+6,37,los angeles_california
+6,39,madera_california
+6,41,marin_california
+6,43,mariposa_california
+6,45,mendocino_california
+6,47,merced_california
+6,49,modoc_california
+6,51,mono_california
+6,53,monterey_california
+6,55,napa_california
+6,57,nevada_california
+6,59,orange_california
+6,61,placer_california
+6,63,plumas_california
+6,65,riverside_california
+6,67,sacramento_california
+6,69,san benito_california
+6,71,san bernardino_california
+6,73,san diego_california
+6,75,san francisco_california
+6,77,san joaquin_california
+6,79,san luis obispo_california
+6,81,san mateo_california
+6,83,santa barbara_california
+6,85,santa clara_california
+6,87,santa cruz_california
+6,89,shasta_california
+6,91,sierra_california
+6,93,siskiyou_california
+6,95,solano_california
+6,97,sonoma_california
+6,99,stanislaus_california
+6,101,sutter_california
+6,103,tehama_california
+6,105,trinity_california
+6,107,tulare_california
+6,109,tuolumne_california
+6,111,ventura_california
+6,113,yolo_california
+6,115,yuba_california
+8,1,adams_colorado
+8,3,alamosa_colorado
+8,5,arapahoe_colorado
+8,7,archuleta_colorado
+8,9,baca_colorado
+8,11,bent_colorado
+8,13,boulder_colorado
+8,14,broomfield_colorado
+8,15,chaffee_colorado
+8,17,cheyenne_colorado
+8,19,clear creek_colorado
+8,21,conejos_colorado
+8,23,costilla_colorado
+8,25,crowley_colorado
+8,27,custer_colorado
+8,29,delta_colorado
+8,31,denver_colorado
+8,33,dolores_colorado
+8,35,douglas_colorado
+8,37,eagle_colorado
+8,39,elbert_colorado
+8,41,el paso_colorado
+8,43,fremont_colorado
+8,45,garfield_colorado
+8,47,gilpin_colorado
+8,49,grand_colorado
+8,51,gunnison_colorado
+8,53,hinsdale_colorado
+8,55,huerfano_colorado
+8,57,jackson_colorado
+8,59,jefferson_colorado
+8,61,kiowa_colorado
+8,63,kit carson_colorado
+8,65,lake_colorado
+8,67,la plata_colorado
+8,69,larimer_colorado
+8,71,las animas_colorado
+8,73,lincoln_colorado
+8,75,logan_colorado
+8,77,mesa_colorado
+8,79,mineral_colorado
+8,81,moffat_colorado
+8,83,montezuma_colorado
+8,85,montrose_colorado
+8,87,morgan_colorado
+8,89,otero_colorado
+8,91,ouray_colorado
+8,93,park_colorado
+8,95,phillips_colorado
+8,97,pitkin_colorado
+8,99,prowers_colorado
+8,101,pueblo_colorado
+8,103,rio blanco_colorado
+8,105,rio grande_colorado
+8,107,routt_colorado
+8,109,saguache_colorado
+8,111,san juan_colorado
+8,113,san miguel_colorado
+8,115,sedgwick_colorado
+8,117,summit_colorado
+8,119,teller_colorado
+8,121,washington_colorado
+8,123,weld_colorado
+8,125,yuma_colorado
+9,1,fairfield_connecticut
+9,3,hartford_connecticut
+9,5,litchfield_connecticut
+9,7,middlesex_connecticut
+9,9,new haven_connecticut
+9,11,new london_connecticut
+9,13,tolland_connecticut
+9,15,windham_connecticut
+10,1,kent_delaware
+10,3,new castle_delaware
+10,5,sussex_delaware
+11,1,district of columbia_district of columbia
+12,1,alachua_florida
+12,3,baker_florida
+12,5,bay_florida
+12,7,bradford_florida
+12,9,brevard_florida
+12,11,broward_florida
+12,13,calhoun_florida
+12,15,charlotte_florida
+12,17,citrus_florida
+12,19,clay_florida
+12,21,collier_florida
+12,23,columbia_florida
+12,27,desoto_florida
+12,29,dixie_florida
+12,31,duval_florida
+12,33,escambia_florida
+12,35,flagler_florida
+12,37,franklin_florida
+12,39,gadsden_florida
+12,41,gilchrist_florida
+12,43,glades_florida
+12,45,gulf_florida
+12,47,hamilton_florida
+12,49,hardee_florida
+12,51,hendry_florida
+12,53,hernando_florida
+12,55,highlands_florida
+12,57,hillsborough_florida
+12,59,holmes_florida
+12,61,indian river_florida
+12,63,jackson_florida
+12,65,jefferson_florida
+12,67,lafayette_florida
+12,69,lake_florida
+12,71,lee_florida
+12,73,leon_florida
+12,75,levy_florida
+12,77,liberty_florida
+12,79,madison_florida
+12,81,manatee_florida
+12,83,marion_florida
+12,85,martin_florida
+12,86,miami-dade_florida
+12,87,monroe_florida
+12,89,nassau_florida
+12,91,okaloosa_florida
+12,93,okeechobee_florida
+12,95,orange_florida
+12,97,osceola_florida
+12,99,palm beach_florida
+12,101,pasco_florida
+12,103,pinellas_florida
+12,105,polk_florida
+12,107,putnam_florida
+12,109,st. johns_florida
+12,111,st. lucie_florida
+12,113,santa rosa_florida
+12,115,sarasota_florida
+12,117,seminole_florida
+12,119,sumter_florida
+12,121,suwannee_florida
+12,123,taylor_florida
+12,125,union_florida
+12,127,volusia_florida
+12,129,wakulla_florida
+12,131,walton_florida
+12,133,washington_florida
+13,1,appling_georgia
+13,3,atkinson_georgia
+13,5,bacon_georgia
+13,7,baker_georgia
+13,9,baldwin_georgia
+13,11,banks_georgia
+13,13,barrow_georgia
+13,15,bartow_georgia
+13,17,ben hill_georgia
+13,19,berrien_georgia
+13,21,bibb_georgia
+13,23,bleckley_georgia
+13,25,brantley_georgia
+13,27,brooks_georgia
+13,29,bryan_georgia
+13,31,bulloch_georgia
+13,33,burke_georgia
+13,35,butts_georgia
+13,37,calhoun_georgia
+13,39,camden_georgia
+13,43,candler_georgia
+13,45,carroll_georgia
+13,47,catoosa_georgia
+13,49,charlton_georgia
+13,51,chatham_georgia
+13,53,chattahoochee_georgia
+13,55,chattooga_georgia
+13,57,cherokee_georgia
+13,59,clarke_georgia
+13,61,clay_georgia
+13,63,clayton_georgia
+13,65,clinch_georgia
+13,67,cobb_georgia
+13,69,coffee_georgia
+13,71,colquitt_georgia
+13,73,columbia_georgia
+13,75,cook_georgia
+13,77,coweta_georgia
+13,79,crawford_georgia
+13,81,crisp_georgia
+13,83,dade_georgia
+13,85,dawson_georgia
+13,87,decatur_georgia
+13,89,dekalb_georgia
+13,91,dodge_georgia
+13,93,dooly_georgia
+13,95,dougherty_georgia
+13,97,douglas_georgia
+13,99,early_georgia
+13,101,echols_georgia
+13,103,effingham_georgia
+13,105,elbert_georgia
+13,107,emanuel_georgia
+13,109,evans_georgia
+13,111,fannin_georgia
+13,113,fayette_georgia
+13,115,floyd_georgia
+13,117,forsyth_georgia
+13,119,franklin_georgia
+13,121,fulton_georgia
+13,123,gilmer_georgia
+13,125,glascock_georgia
+13,127,glynn_georgia
+13,129,gordon_georgia
+13,131,grady_georgia
+13,133,greene_georgia
+13,135,gwinnett_georgia
+13,137,habersham_georgia
+13,139,hall_georgia
+13,141,hancock_georgia
+13,143,haralson_georgia
+13,145,harris_georgia
+13,147,hart_georgia
+13,149,heard_georgia
+13,151,henry_georgia
+13,153,houston_georgia
+13,155,irwin_georgia
+13,157,jackson_georgia
+13,159,jasper_georgia
+13,161,jeff davis_georgia
+13,163,jefferson_georgia
+13,165,jenkins_georgia
+13,167,johnson_georgia
+13,169,jones_georgia
+13,171,lamar_georgia
+13,173,lanier_georgia
+13,175,laurens_georgia
+13,177,lee_georgia
+13,179,liberty_georgia
+13,181,lincoln_georgia
+13,183,long_georgia
+13,185,lowndes_georgia
+13,187,lumpkin_georgia
+13,189,mcduffie_georgia
+13,191,mcintosh_georgia
+13,193,macon_georgia
+13,195,madison_georgia
+13,197,marion_georgia
+13,199,meriwether_georgia
+13,201,miller_georgia
+13,205,mitchell_georgia
+13,207,monroe_georgia
+13,209,montgomery_georgia
+13,211,morgan_georgia
+13,213,murray_georgia
+13,215,muscogee_georgia
+13,217,newton_georgia
+13,219,oconee_georgia
+13,221,oglethorpe_georgia
+13,223,paulding_georgia
+13,225,peach_georgia
+13,227,pickens_georgia
+13,229,pierce_georgia
+13,231,pike_georgia
+13,233,polk_georgia
+13,235,pulaski_georgia
+13,237,putnam_georgia
+13,239,quitman_georgia
+13,241,rabun_georgia
+13,243,randolph_georgia
+13,245,richmond_georgia
+13,247,rockdale_georgia
+13,249,schley_georgia
+13,251,screven_georgia
+13,253,seminole_georgia
+13,255,spalding_georgia
+13,257,stephens_georgia
+13,259,stewart_georgia
+13,261,sumter_georgia
+13,263,talbot_georgia
+13,265,taliaferro_georgia
+13,267,tattnall_georgia
+13,269,taylor_georgia
+13,271,telfair_georgia
+13,273,terrell_georgia
+13,275,thomas_georgia
+13,277,tift_georgia
+13,279,toombs_georgia
+13,281,towns_georgia
+13,283,treutlen_georgia
+13,285,troup_georgia
+13,287,turner_georgia
+13,289,twiggs_georgia
+13,291,union_georgia
+13,293,upson_georgia
+13,295,walker_georgia
+13,297,walton_georgia
+13,299,ware_georgia
+13,301,warren_georgia
+13,303,washington_georgia
+13,305,wayne_georgia
+13,307,webster_georgia
+13,309,wheeler_georgia
+13,311,white_georgia
+13,313,whitfield_georgia
+13,315,wilcox_georgia
+13,317,wilkes_georgia
+13,319,wilkinson_georgia
+13,321,worth_georgia
+15,1,hawaii_hawaii
+15,3,honolulu_hawaii
+15,5,kalawao_hawaii
+15,7,kauai_hawaii
+15,9,maui_hawaii
+16,1,ada_idaho
+16,3,adams_idaho
+16,5,bannock_idaho
+16,7,bear lake_idaho
+16,9,benewah_idaho
+16,11,bingham_idaho
+16,13,blaine_idaho
+16,15,boise_idaho
+16,17,bonner_idaho
+16,19,bonneville_idaho
+16,21,boundary_idaho
+16,23,butte_idaho
+16,25,camas_idaho
+16,27,canyon_idaho
+16,29,caribou_idaho
+16,31,cassia_idaho
+16,33,clark_idaho
+16,35,clearwater_idaho
+16,37,custer_idaho
+16,39,elmore_idaho
+16,41,franklin_idaho
+16,43,fremont_idaho
+16,45,gem_idaho
+16,47,gooding_idaho
+16,49,idaho_idaho
+16,51,jefferson_idaho
+16,53,jerome_idaho
+16,55,kootenai_idaho
+16,57,latah_idaho
+16,59,lemhi_idaho
+16,61,lewis_idaho
+16,63,lincoln_idaho
+16,65,madison_idaho
+16,67,minidoka_idaho
+16,69,nez perce_idaho
+16,71,oneida_idaho
+16,73,owyhee_idaho
+16,75,payette_idaho
+16,77,power_idaho
+16,79,shoshone_idaho
+16,81,teton_idaho
+16,83,twin falls_idaho
+16,85,valley_idaho
+16,87,washington_idaho
+17,1,adams_illinois
+17,3,alexander_illinois
+17,5,bond_illinois
+17,7,boone_illinois
+17,9,brown_illinois
+17,11,bureau_illinois
+17,13,calhoun_illinois
+17,15,carroll_illinois
+17,17,cass_illinois
+17,19,champaign_illinois
+17,21,christian_illinois
+17,23,clark_illinois
+17,25,clay_illinois
+17,27,clinton_illinois
+17,29,coles_illinois
+17,31,cook_illinois
+17,33,crawford_illinois
+17,35,cumberland_illinois
+17,37,dekalb_illinois
+17,39,de witt_illinois
+17,41,douglas_illinois
+17,43,dupage_illinois
+17,45,edgar_illinois
+17,47,edwards_illinois
+17,49,effingham_illinois
+17,51,fayette_illinois
+17,53,ford_illinois
+17,55,franklin_illinois
+17,57,fulton_illinois
+17,59,gallatin_illinois
+17,61,greene_illinois
+17,63,grundy_illinois
+17,65,hamilton_illinois
+17,67,hancock_illinois
+17,69,hardin_illinois
+17,71,henderson_illinois
+17,73,henry_illinois
+17,75,iroquois_illinois
+17,77,jackson_illinois
+17,79,jasper_illinois
+17,81,jefferson_illinois
+17,83,jersey_illinois
+17,85,jo daviess_illinois
+17,87,johnson_illinois
+17,89,kane_illinois
+17,91,kankakee_illinois
+17,93,kendall_illinois
+17,95,knox_illinois
+17,97,lake_illinois
+17,99,lasalle_illinois
+17,101,lawrence_illinois
+17,103,lee_illinois
+17,105,livingston_illinois
+17,107,logan_illinois
+17,109,mcdonough_illinois
+17,111,mchenry_illinois
+17,113,mclean_illinois
+17,115,macon_illinois
+17,117,macoupin_illinois
+17,119,madison_illinois
+17,121,marion_illinois
+17,123,marshall_illinois
+17,125,mason_illinois
+17,127,massac_illinois
+17,129,menard_illinois
+17,131,mercer_illinois
+17,133,monroe_illinois
+17,135,montgomery_illinois
+17,137,morgan_illinois
+17,139,moultrie_illinois
+17,141,ogle_illinois
+17,143,peoria_illinois
+17,145,perry_illinois
+17,147,piatt_illinois
+17,149,pike_illinois
+17,151,pope_illinois
+17,153,pulaski_illinois
+17,155,putnam_illinois
+17,157,randolph_illinois
+17,159,richland_illinois
+17,161,rock island_illinois
+17,163,st. clair_illinois
+17,165,saline_illinois
+17,167,sangamon_illinois
+17,169,schuyler_illinois
+17,171,scott_illinois
+17,173,shelby_illinois
+17,175,stark_illinois
+17,177,stephenson_illinois
+17,179,tazewell_illinois
+17,181,union_illinois
+17,183,vermilion_illinois
+17,185,wabash_illinois
+17,187,warren_illinois
+17,189,washington_illinois
+17,191,wayne_illinois
+17,193,white_illinois
+17,195,whiteside_illinois
+17,197,will_illinois
+17,199,williamson_illinois
+17,201,winnebago_illinois
+17,203,woodford_illinois
+18,1,adams_indiana
+18,3,allen_indiana
+18,5,bartholomew_indiana
+18,7,benton_indiana
+18,9,blackford_indiana
+18,11,boone_indiana
+18,13,brown_indiana
+18,15,carroll_indiana
+18,17,cass_indiana
+18,19,clark_indiana
+18,21,clay_indiana
+18,23,clinton_indiana
+18,25,crawford_indiana
+18,27,daviess_indiana
+18,29,dearborn_indiana
+18,31,decatur_indiana
+18,33,dekalb_indiana
+18,35,delaware_indiana
+18,37,dubois_indiana
+18,39,elkhart_indiana
+18,41,fayette_indiana
+18,43,floyd_indiana
+18,45,fountain_indiana
+18,47,franklin_indiana
+18,49,fulton_indiana
+18,51,gibson_indiana
+18,53,grant_indiana
+18,55,greene_indiana
+18,57,hamilton_indiana
+18,59,hancock_indiana
+18,61,harrison_indiana
+18,63,hendricks_indiana
+18,65,henry_indiana
+18,67,howard_indiana
+18,69,huntington_indiana
+18,71,jackson_indiana
+18,73,jasper_indiana
+18,75,jay_indiana
+18,77,jefferson_indiana
+18,79,jennings_indiana
+18,81,johnson_indiana
+18,83,knox_indiana
+18,85,kosciusko_indiana
+18,87,lagrange_indiana
+18,89,lake_indiana
+18,91,laporte_indiana
+18,93,lawrence_indiana
+18,95,madison_indiana
+18,97,marion_indiana
+18,99,marshall_indiana
+18,101,martin_indiana
+18,103,miami_indiana
+18,105,monroe_indiana
+18,107,montgomery_indiana
+18,109,morgan_indiana
+18,111,newton_indiana
+18,113,noble_indiana
+18,115,ohio_indiana
+18,117,orange_indiana
+18,119,owen_indiana
+18,121,parke_indiana
+18,123,perry_indiana
+18,125,pike_indiana
+18,127,porter_indiana
+18,129,posey_indiana
+18,131,pulaski_indiana
+18,133,putnam_indiana
+18,135,randolph_indiana
+18,137,ripley_indiana
+18,139,rush_indiana
+18,141,st. joseph_indiana
+18,143,scott_indiana
+18,145,shelby_indiana
+18,147,spencer_indiana
+18,149,starke_indiana
+18,151,steuben_indiana
+18,153,sullivan_indiana
+18,155,switzerland_indiana
+18,157,tippecanoe_indiana
+18,159,tipton_indiana
+18,161,union_indiana
+18,163,vanderburgh_indiana
+18,165,vermillion_indiana
+18,167,vigo_indiana
+18,169,wabash_indiana
+18,171,warren_indiana
+18,173,warrick_indiana
+18,175,washington_indiana
+18,177,wayne_indiana
+18,179,wells_indiana
+18,181,white_indiana
+18,183,whitley_indiana
+19,1,adair_iowa
+19,3,adams_iowa
+19,5,allamakee_iowa
+19,7,appanoose_iowa
+19,9,audubon_iowa
+19,11,benton_iowa
+19,13,black hawk_iowa
+19,15,boone_iowa
+19,17,bremer_iowa
+19,19,buchanan_iowa
+19,21,buena vista_iowa
+19,23,butler_iowa
+19,25,calhoun_iowa
+19,27,carroll_iowa
+19,29,cass_iowa
+19,31,cedar_iowa
+19,33,cerro gordo_iowa
+19,35,cherokee_iowa
+19,37,chickasaw_iowa
+19,39,clarke_iowa
+19,41,clay_iowa
+19,43,clayton_iowa
+19,45,clinton_iowa
+19,47,crawford_iowa
+19,49,dallas_iowa
+19,51,davis_iowa
+19,53,decatur_iowa
+19,55,delaware_iowa
+19,57,des moines_iowa
+19,59,dickinson_iowa
+19,61,dubuque_iowa
+19,63,emmet_iowa
+19,65,fayette_iowa
+19,67,floyd_iowa
+19,69,franklin_iowa
+19,71,fremont_iowa
+19,73,greene_iowa
+19,75,grundy_iowa
+19,77,guthrie_iowa
+19,79,hamilton_iowa
+19,81,hancock_iowa
+19,83,hardin_iowa
+19,85,harrison_iowa
+19,87,henry_iowa
+19,89,howard_iowa
+19,91,humboldt_iowa
+19,93,ida_iowa
+19,95,iowa_iowa
+19,97,jackson_iowa
+19,99,jasper_iowa
+19,101,jefferson_iowa
+19,103,johnson_iowa
+19,105,jones_iowa
+19,107,keokuk_iowa
+19,109,kossuth_iowa
+19,111,lee_iowa
+19,113,linn_iowa
+19,115,louisa_iowa
+19,117,lucas_iowa
+19,119,lyon_iowa
+19,121,madison_iowa
+19,123,mahaska_iowa
+19,125,marion_iowa
+19,127,marshall_iowa
+19,129,mills_iowa
+19,131,mitchell_iowa
+19,133,monona_iowa
+19,135,monroe_iowa
+19,137,montgomery_iowa
+19,139,muscatine_iowa
+19,141,o'brien_iowa
+19,143,osceola_iowa
+19,145,page_iowa
+19,147,palo alto_iowa
+19,149,plymouth_iowa
+19,151,pocahontas_iowa
+19,153,polk_iowa
+19,155,pottawattamie_iowa
+19,157,poweshiek_iowa
+19,159,ringgold_iowa
+19,161,sac_iowa
+19,163,scott_iowa
+19,165,shelby_iowa
+19,167,sioux_iowa
+19,169,story_iowa
+19,171,tama_iowa
+19,173,taylor_iowa
+19,175,union_iowa
+19,177,van buren_iowa
+19,179,wapello_iowa
+19,181,warren_iowa
+19,183,washington_iowa
+19,185,wayne_iowa
+19,187,webster_iowa
+19,189,winnebago_iowa
+19,191,winneshiek_iowa
+19,193,woodbury_iowa
+19,195,worth_iowa
+19,197,wright_iowa
+20,1,allen_kansas
+20,3,anderson_kansas
+20,5,atchison_kansas
+20,7,barber_kansas
+20,9,barton_kansas
+20,11,bourbon_kansas
+20,13,brown_kansas
+20,15,butler_kansas
+20,17,chase_kansas
+20,19,chautauqua_kansas
+20,21,cherokee_kansas
+20,23,cheyenne_kansas
+20,25,clark_kansas
+20,27,clay_kansas
+20,29,cloud_kansas
+20,31,coffey_kansas
+20,33,comanche_kansas
+20,35,cowley_kansas
+20,37,crawford_kansas
+20,39,decatur_kansas
+20,41,dickinson_kansas
+20,43,doniphan_kansas
+20,45,douglas_kansas
+20,47,edwards_kansas
+20,49,elk_kansas
+20,51,ellis_kansas
+20,53,ellsworth_kansas
+20,55,finney_kansas
+20,57,ford_kansas
+20,59,franklin_kansas
+20,61,geary_kansas
+20,63,gove_kansas
+20,65,graham_kansas
+20,67,grant_kansas
+20,69,gray_kansas
+20,71,greeley_kansas
+20,73,greenwood_kansas
+20,75,hamilton_kansas
+20,77,harper_kansas
+20,79,harvey_kansas
+20,81,haskell_kansas
+20,83,hodgeman_kansas
+20,85,jackson_kansas
+20,87,jefferson_kansas
+20,89,jewell_kansas
+20,91,johnson_kansas
+20,93,kearny_kansas
+20,95,kingman_kansas
+20,97,kiowa_kansas
+20,99,labette_kansas
+20,101,lane_kansas
+20,103,leavenworth_kansas
+20,105,lincoln_kansas
+20,107,linn_kansas
+20,109,logan_kansas
+20,111,lyon_kansas
+20,113,mcpherson_kansas
+20,115,marion_kansas
+20,117,marshall_kansas
+20,119,meade_kansas
+20,121,miami_kansas
+20,123,mitchell_kansas
+20,125,montgomery_kansas
+20,127,morris_kansas
+20,129,morton_kansas
+20,131,nemaha_kansas
+20,133,neosho_kansas
+20,135,ness_kansas
+20,137,norton_kansas
+20,139,osage_kansas
+20,141,osborne_kansas
+20,143,ottawa_kansas
+20,145,pawnee_kansas
+20,147,phillips_kansas
+20,149,pottawatomie_kansas
+20,151,pratt_kansas
+20,153,rawlins_kansas
+20,155,reno_kansas
+20,157,republic_kansas
+20,159,rice_kansas
+20,161,riley_kansas
+20,163,rooks_kansas
+20,165,rush_kansas
+20,167,russell_kansas
+20,169,saline_kansas
+20,171,scott_kansas
+20,173,sedgwick_kansas
+20,175,seward_kansas
+20,177,shawnee_kansas
+20,179,sheridan_kansas
+20,181,sherman_kansas
+20,183,smith_kansas
+20,185,stafford_kansas
+20,187,stanton_kansas
+20,189,stevens_kansas
+20,191,sumner_kansas
+20,193,thomas_kansas
+20,195,trego_kansas
+20,197,wabaunsee_kansas
+20,199,wallace_kansas
+20,201,washington_kansas
+20,203,wichita_kansas
+20,205,wilson_kansas
+20,207,woodson_kansas
+20,209,wyandotte_kansas
+21,1,adair_kentucky
+21,3,allen_kentucky
+21,5,anderson_kentucky
+21,7,ballard_kentucky
+21,9,barren_kentucky
+21,11,bath_kentucky
+21,13,bell_kentucky
+21,15,boone_kentucky
+21,17,bourbon_kentucky
+21,19,boyd_kentucky
+21,21,boyle_kentucky
+21,23,bracken_kentucky
+21,25,breathitt_kentucky
+21,27,breckinridge_kentucky
+21,29,bullitt_kentucky
+21,31,butler_kentucky
+21,33,caldwell_kentucky
+21,35,calloway_kentucky
+21,37,campbell_kentucky
+21,39,carlisle_kentucky
+21,41,carroll_kentucky
+21,43,carter_kentucky
+21,45,casey_kentucky
+21,47,christian_kentucky
+21,49,clark_kentucky
+21,51,clay_kentucky
+21,53,clinton_kentucky
+21,55,crittenden_kentucky
+21,57,cumberland_kentucky
+21,59,daviess_kentucky
+21,61,edmonson_kentucky
+21,63,elliott_kentucky
+21,65,estill_kentucky
+21,67,fayette_kentucky
+21,69,fleming_kentucky
+21,71,floyd_kentucky
+21,73,franklin_kentucky
+21,75,fulton_kentucky
+21,77,gallatin_kentucky
+21,79,garrard_kentucky
+21,81,grant_kentucky
+21,83,graves_kentucky
+21,85,grayson_kentucky
+21,87,green_kentucky
+21,89,greenup_kentucky
+21,91,hancock_kentucky
+21,93,hardin_kentucky
+21,95,harlan_kentucky
+21,97,harrison_kentucky
+21,99,hart_kentucky
+21,101,henderson_kentucky
+21,103,henry_kentucky
+21,105,hickman_kentucky
+21,107,hopkins_kentucky
+21,109,jackson_kentucky
+21,111,jefferson_kentucky
+21,113,jessamine_kentucky
+21,115,johnson_kentucky
+21,117,kenton_kentucky
+21,119,knott_kentucky
+21,121,knox_kentucky
+21,123,larue_kentucky
+21,125,laurel_kentucky
+21,127,lawrence_kentucky
+21,129,lee_kentucky
+21,131,leslie_kentucky
+21,133,letcher_kentucky
+21,135,lewis_kentucky
+21,137,lincoln_kentucky
+21,139,livingston_kentucky
+21,141,logan_kentucky
+21,143,lyon_kentucky
+21,145,mccracken_kentucky
+21,147,mccreary_kentucky
+21,149,mclean_kentucky
+21,151,madison_kentucky
+21,153,magoffin_kentucky
+21,155,marion_kentucky
+21,157,marshall_kentucky
+21,159,martin_kentucky
+21,161,mason_kentucky
+21,163,meade_kentucky
+21,165,menifee_kentucky
+21,167,mercer_kentucky
+21,169,metcalfe_kentucky
+21,171,monroe_kentucky
+21,173,montgomery_kentucky
+21,175,morgan_kentucky
+21,177,muhlenberg_kentucky
+21,179,nelson_kentucky
+21,181,nicholas_kentucky
+21,183,ohio_kentucky
+21,185,oldham_kentucky
+21,187,owen_kentucky
+21,189,owsley_kentucky
+21,191,pendleton_kentucky
+21,193,perry_kentucky
+21,195,pike_kentucky
+21,197,powell_kentucky
+21,199,pulaski_kentucky
+21,201,robertson_kentucky
+21,203,rockcastle_kentucky
+21,205,rowan_kentucky
+21,207,russell_kentucky
+21,209,scott_kentucky
+21,211,shelby_kentucky
+21,213,simpson_kentucky
+21,215,spencer_kentucky
+21,217,taylor_kentucky
+21,219,todd_kentucky
+21,221,trigg_kentucky
+21,223,trimble_kentucky
+21,225,union_kentucky
+21,227,warren_kentucky
+21,229,washington_kentucky
+21,231,wayne_kentucky
+21,233,webster_kentucky
+21,235,whitley_kentucky
+21,237,wolfe_kentucky
+21,239,woodford_kentucky
+22,1,acadia_louisiana
+22,3,allen_louisiana
+22,5,ascension_louisiana
+22,7,assumption_louisiana
+22,9,avoyelles_louisiana
+22,11,beauregard_louisiana
+22,13,bienville_louisiana
+22,15,bossier_louisiana
+22,17,caddo_louisiana
+22,19,calcasieu_louisiana
+22,21,caldwell_louisiana
+22,23,cameron_louisiana
+22,25,catahoula_louisiana
+22,27,claiborne_louisiana
+22,29,concordia_louisiana
+22,31,de soto_louisiana
+22,33,east baton rouge_louisiana
+22,35,east carroll_louisiana
+22,37,east feliciana_louisiana
+22,39,evangeline_louisiana
+22,41,franklin_louisiana
+22,43,grant_louisiana
+22,45,iberia_louisiana
+22,47,iberville_louisiana
+22,49,jackson_louisiana
+22,51,jefferson_louisiana
+22,53,jefferson davis_louisiana
+22,55,lafayette_louisiana
+22,57,lafourche_louisiana
+22,59,la salle_louisiana
+22,61,lincoln_louisiana
+22,63,livingston_louisiana
+22,65,madison_louisiana
+22,67,morehouse_louisiana
+22,69,natchitoches_louisiana
+22,71,orleans_louisiana
+22,73,ouachita_louisiana
+22,75,plaquemines_louisiana
+22,77,pointe coupee_louisiana
+22,79,rapides_louisiana
+22,81,red river_louisiana
+22,83,richland_louisiana
+22,85,sabine_louisiana
+22,87,st. bernard_louisiana
+22,89,st. charles_louisiana
+22,91,st. helena_louisiana
+22,93,st. james_louisiana
+22,95,st. john the baptist_louisiana
+22,97,st. landry_louisiana
+22,99,st. martin_louisiana
+22,101,st. mary_louisiana
+22,103,st. tammany_louisiana
+22,105,tangipahoa_louisiana
+22,107,tensas_louisiana
+22,109,terrebonne_louisiana
+22,111,union_louisiana
+22,113,vermilion_louisiana
+22,115,vernon_louisiana
+22,117,washington_louisiana
+22,119,webster_louisiana
+22,121,west baton rouge_louisiana
+22,123,west carroll_louisiana
+22,125,west feliciana_louisiana
+22,127,winn_louisiana
+23,1,androscoggin_maine
+23,3,aroostook_maine
+23,5,cumberland_maine
+23,7,franklin_maine
+23,9,hancock_maine
+23,11,kennebec_maine
+23,13,knox_maine
+23,15,lincoln_maine
+23,17,oxford_maine
+23,19,penobscot_maine
+23,21,piscataquis_maine
+23,23,sagadahoc_maine
+23,25,somerset_maine
+23,27,waldo_maine
+23,29,washington_maine
+23,31,york_maine
+24,1,allegany_maryland
+24,3,anne arundel_maryland
+24,5,baltimore_maryland
+24,9,calvert_maryland
+24,11,caroline_maryland
+24,13,carroll_maryland
+24,15,cecil_maryland
+24,17,charles_maryland
+24,19,dorchester_maryland
+24,21,frederick_maryland
+24,23,garrett_maryland
+24,25,harford_maryland
+24,27,howard_maryland
+24,29,kent_maryland
+24,31,montgomery_maryland
+24,33,prince george's_maryland
+24,35,queen anne's_maryland
+24,37,st. mary's_maryland
+24,39,somerset_maryland
+24,41,talbot_maryland
+24,43,washington_maryland
+24,45,wicomico_maryland
+24,47,worcester_maryland
+24,510,baltimore_maryland
+25,1,barnstable_massachusetts
+25,3,berkshire_massachusetts
+25,5,bristol_massachusetts
+25,7,dukes_massachusetts
+25,9,essex_massachusetts
+25,11,franklin_massachusetts
+25,13,hampden_massachusetts
+25,15,hampshire_massachusetts
+25,17,middlesex_massachusetts
+25,19,nantucket_massachusetts
+25,21,norfolk_massachusetts
+25,23,plymouth_massachusetts
+25,25,suffolk_massachusetts
+25,27,worcester_massachusetts
+26,1,alcona_michigan
+26,3,alger_michigan
+26,5,allegan_michigan
+26,7,alpena_michigan
+26,9,antrim_michigan
+26,11,arenac_michigan
+26,13,baraga_michigan
+26,15,barry_michigan
+26,17,bay_michigan
+26,19,benzie_michigan
+26,21,berrien_michigan
+26,23,branch_michigan
+26,25,calhoun_michigan
+26,27,cass_michigan
+26,29,charlevoix_michigan
+26,31,cheboygan_michigan
+26,33,chippewa_michigan
+26,35,clare_michigan
+26,37,clinton_michigan
+26,39,crawford_michigan
+26,41,delta_michigan
+26,43,dickinson_michigan
+26,45,eaton_michigan
+26,47,emmet_michigan
+26,49,genesee_michigan
+26,51,gladwin_michigan
+26,53,gogebic_michigan
+26,55,grand traverse_michigan
+26,57,gratiot_michigan
+26,59,hillsdale_michigan
+26,61,houghton_michigan
+26,63,huron_michigan
+26,65,ingham_michigan
+26,67,ionia_michigan
+26,69,iosco_michigan
+26,71,iron_michigan
+26,73,isabella_michigan
+26,75,jackson_michigan
+26,77,kalamazoo_michigan
+26,79,kalkaska_michigan
+26,81,kent_michigan
+26,83,keweenaw_michigan
+26,85,lake_michigan
+26,87,lapeer_michigan
+26,89,leelanau_michigan
+26,91,lenawee_michigan
+26,93,livingston_michigan
+26,95,luce_michigan
+26,97,mackinac_michigan
+26,99,macomb_michigan
+26,101,manistee_michigan
+26,103,marquette_michigan
+26,105,mason_michigan
+26,107,mecosta_michigan
+26,109,menominee_michigan
+26,111,midland_michigan
+26,113,missaukee_michigan
+26,115,monroe_michigan
+26,117,montcalm_michigan
+26,119,montmorency_michigan
+26,121,muskegon_michigan
+26,123,newaygo_michigan
+26,125,oakland_michigan
+26,127,oceana_michigan
+26,129,ogemaw_michigan
+26,131,ontonagon_michigan
+26,133,osceola_michigan
+26,135,oscoda_michigan
+26,137,otsego_michigan
+26,139,ottawa_michigan
+26,141,presque isle_michigan
+26,143,roscommon_michigan
+26,145,saginaw_michigan
+26,147,st. clair_michigan
+26,149,st. joseph_michigan
+26,151,sanilac_michigan
+26,153,schoolcraft_michigan
+26,155,shiawassee_michigan
+26,157,tuscola_michigan
+26,159,van buren_michigan
+26,161,washtenaw_michigan
+26,163,wayne_michigan
+26,165,wexford_michigan
+27,1,aitkin_minnesota
+27,3,anoka_minnesota
+27,5,becker_minnesota
+27,7,beltrami_minnesota
+27,9,benton_minnesota
+27,11,big stone_minnesota
+27,13,blue earth_minnesota
+27,15,brown_minnesota
+27,17,carlton_minnesota
+27,19,carver_minnesota
+27,21,cass_minnesota
+27,23,chippewa_minnesota
+27,25,chisago_minnesota
+27,27,clay_minnesota
+27,29,clearwater_minnesota
+27,31,cook_minnesota
+27,33,cottonwood_minnesota
+27,35,crow wing_minnesota
+27,37,dakota_minnesota
+27,39,dodge_minnesota
+27,41,douglas_minnesota
+27,43,faribault_minnesota
+27,45,fillmore_minnesota
+27,47,freeborn_minnesota
+27,49,goodhue_minnesota
+27,51,grant_minnesota
+27,53,hennepin_minnesota
+27,55,houston_minnesota
+27,57,hubbard_minnesota
+27,59,isanti_minnesota
+27,61,itasca_minnesota
+27,63,jackson_minnesota
+27,65,kanabec_minnesota
+27,67,kandiyohi_minnesota
+27,69,kittson_minnesota
+27,71,koochiching_minnesota
+27,73,lac qui parle_minnesota
+27,75,lake_minnesota
+27,77,lake of the woods_minnesota
+27,79,le sueur_minnesota
+27,81,lincoln_minnesota
+27,83,lyon_minnesota
+27,85,mcleod_minnesota
+27,87,mahnomen_minnesota
+27,89,marshall_minnesota
+27,91,martin_minnesota
+27,93,meeker_minnesota
+27,95,mille lacs_minnesota
+27,97,morrison_minnesota
+27,99,mower_minnesota
+27,101,murray_minnesota
+27,103,nicollet_minnesota
+27,105,nobles_minnesota
+27,107,norman_minnesota
+27,109,olmsted_minnesota
+27,111,otter tail_minnesota
+27,113,pennington_minnesota
+27,115,pine_minnesota
+27,117,pipestone_minnesota
+27,119,polk_minnesota
+27,121,pope_minnesota
+27,123,ramsey_minnesota
+27,125,red lake_minnesota
+27,127,redwood_minnesota
+27,129,renville_minnesota
+27,131,rice_minnesota
+27,133,rock_minnesota
+27,135,roseau_minnesota
+27,137,st. louis_minnesota
+27,139,scott_minnesota
+27,141,sherburne_minnesota
+27,143,sibley_minnesota
+27,145,stearns_minnesota
+27,147,steele_minnesota
+27,149,stevens_minnesota
+27,151,swift_minnesota
+27,153,todd_minnesota
+27,155,traverse_minnesota
+27,157,wabasha_minnesota
+27,159,wadena_minnesota
+27,161,waseca_minnesota
+27,163,washington_minnesota
+27,165,watonwan_minnesota
+27,167,wilkin_minnesota
+27,169,winona_minnesota
+27,171,wright_minnesota
+27,173,yellow medicine_minnesota
+28,1,adams_mississippi
+28,3,alcorn_mississippi
+28,5,amite_mississippi
+28,7,attala_mississippi
+28,9,benton_mississippi
+28,11,bolivar_mississippi
+28,13,calhoun_mississippi
+28,15,carroll_mississippi
+28,17,chickasaw_mississippi
+28,19,choctaw_mississippi
+28,21,claiborne_mississippi
+28,23,clarke_mississippi
+28,25,clay_mississippi
+28,27,coahoma_mississippi
+28,29,copiah_mississippi
+28,31,covington_mississippi
+28,33,desoto_mississippi
+28,35,forrest_mississippi
+28,37,franklin_mississippi
+28,39,george_mississippi
+28,41,greene_mississippi
+28,43,grenada_mississippi
+28,45,hancock_mississippi
+28,47,harrison_mississippi
+28,49,hinds_mississippi
+28,51,holmes_mississippi
+28,53,humphreys_mississippi
+28,55,issaquena_mississippi
+28,57,itawamba_mississippi
+28,59,jackson_mississippi
+28,61,jasper_mississippi
+28,63,jefferson_mississippi
+28,65,jefferson davis_mississippi
+28,67,jones_mississippi
+28,69,kemper_mississippi
+28,71,lafayette_mississippi
+28,73,lamar_mississippi
+28,75,lauderdale_mississippi
+28,77,lawrence_mississippi
+28,79,leake_mississippi
+28,81,lee_mississippi
+28,83,leflore_mississippi
+28,85,lincoln_mississippi
+28,87,lowndes_mississippi
+28,89,madison_mississippi
+28,91,marion_mississippi
+28,93,marshall_mississippi
+28,95,monroe_mississippi
+28,97,montgomery_mississippi
+28,99,neshoba_mississippi
+28,101,newton_mississippi
+28,103,noxubee_mississippi
+28,105,oktibbeha_mississippi
+28,107,panola_mississippi
+28,109,pearl river_mississippi
+28,111,perry_mississippi
+28,113,pike_mississippi
+28,115,pontotoc_mississippi
+28,117,prentiss_mississippi
+28,119,quitman_mississippi
+28,121,rankin_mississippi
+28,123,scott_mississippi
+28,125,sharkey_mississippi
+28,127,simpson_mississippi
+28,129,smith_mississippi
+28,131,stone_mississippi
+28,133,sunflower_mississippi
+28,135,tallahatchie_mississippi
+28,137,tate_mississippi
+28,139,tippah_mississippi
+28,141,tishomingo_mississippi
+28,143,tunica_mississippi
+28,145,union_mississippi
+28,147,walthall_mississippi
+28,149,warren_mississippi
+28,151,washington_mississippi
+28,153,wayne_mississippi
+28,155,webster_mississippi
+28,157,wilkinson_mississippi
+28,159,winston_mississippi
+28,161,yalobusha_mississippi
+28,163,yazoo_mississippi
+29,1,adair_missouri
+29,3,andrew_missouri
+29,5,atchison_missouri
+29,7,audrain_missouri
+29,9,barry_missouri
+29,11,barton_missouri
+29,13,bates_missouri
+29,15,benton_missouri
+29,17,bollinger_missouri
+29,19,boone_missouri
+29,21,buchanan_missouri
+29,23,butler_missouri
+29,25,caldwell_missouri
+29,27,callaway_missouri
+29,29,camden_missouri
+29,31,cape girardeau_missouri
+29,33,carroll_missouri
+29,35,carter_missouri
+29,37,cass_missouri
+29,39,cedar_missouri
+29,41,chariton_missouri
+29,43,christian_missouri
+29,45,clark_missouri
+29,47,clay_missouri
+29,49,clinton_missouri
+29,51,cole_missouri
+29,53,cooper_missouri
+29,55,crawford_missouri
+29,57,dade_missouri
+29,59,dallas_missouri
+29,61,daviess_missouri
+29,63,dekalb_missouri
+29,65,dent_missouri
+29,67,douglas_missouri
+29,69,dunklin_missouri
+29,71,franklin_missouri
+29,73,gasconade_missouri
+29,75,gentry_missouri
+29,77,greene_missouri
+29,79,grundy_missouri
+29,81,harrison_missouri
+29,83,henry_missouri
+29,85,hickory_missouri
+29,87,holt_missouri
+29,89,howard_missouri
+29,91,howell_missouri
+29,93,iron_missouri
+29,95,jackson_missouri
+29,97,jasper_missouri
+29,99,jefferson_missouri
+29,101,johnson_missouri
+29,103,knox_missouri
+29,105,laclede_missouri
+29,107,lafayette_missouri
+29,109,lawrence_missouri
+29,111,lewis_missouri
+29,113,lincoln_missouri
+29,115,linn_missouri
+29,117,livingston_missouri
+29,119,mcdonald_missouri
+29,121,macon_missouri
+29,123,madison_missouri
+29,125,maries_missouri
+29,127,marion_missouri
+29,129,mercer_missouri
+29,131,miller_missouri
+29,133,mississippi_missouri
+29,135,moniteau_missouri
+29,137,monroe_missouri
+29,139,montgomery_missouri
+29,141,morgan_missouri
+29,143,new madrid_missouri
+29,145,newton_missouri
+29,147,nodaway_missouri
+29,149,oregon_missouri
+29,151,osage_missouri
+29,153,ozark_missouri
+29,155,pemiscot_missouri
+29,157,perry_missouri
+29,159,pettis_missouri
+29,161,phelps_missouri
+29,163,pike_missouri
+29,165,platte_missouri
+29,167,polk_missouri
+29,169,pulaski_missouri
+29,171,putnam_missouri
+29,173,ralls_missouri
+29,175,randolph_missouri
+29,177,ray_missouri
+29,179,reynolds_missouri
+29,181,ripley_missouri
+29,183,st. charles_missouri
+29,185,st. clair_missouri
+29,186,ste. genevieve_missouri
+29,187,st. francois_missouri
+29,189,st. louis_missouri
+29,195,saline_missouri
+29,197,schuyler_missouri
+29,199,scotland_missouri
+29,201,scott_missouri
+29,203,shannon_missouri
+29,205,shelby_missouri
+29,207,stoddard_missouri
+29,209,stone_missouri
+29,211,sullivan_missouri
+29,213,taney_missouri
+29,215,texas_missouri
+29,217,vernon_missouri
+29,219,warren_missouri
+29,221,washington_missouri
+29,223,wayne_missouri
+29,225,webster_missouri
+29,227,worth_missouri
+29,229,wright_missouri
+29,510,st. louis_missouri
+30,1,beaverhead_montana
+30,3,big horn_montana
+30,5,blaine_montana
+30,7,broadwater_montana
+30,9,carbon_montana
+30,11,carter_montana
+30,13,cascade_montana
+30,15,chouteau_montana
+30,17,custer_montana
+30,19,daniels_montana
+30,21,dawson_montana
+30,23,deer lodge_montana
+30,25,fallon_montana
+30,27,fergus_montana
+30,29,flathead_montana
+30,31,gallatin_montana
+30,33,garfield_montana
+30,35,glacier_montana
+30,37,golden valley_montana
+30,39,granite_montana
+30,41,hill_montana
+30,43,jefferson_montana
+30,45,judith basin_montana
+30,47,lake_montana
+30,49,lewis and clark_montana
+30,51,liberty_montana
+30,53,lincoln_montana
+30,55,mccone_montana
+30,57,madison_montana
+30,59,meagher_montana
+30,61,mineral_montana
+30,63,missoula_montana
+30,65,musselshell_montana
+30,67,park_montana
+30,69,petroleum_montana
+30,71,phillips_montana
+30,73,pondera_montana
+30,75,powder river_montana
+30,77,powell_montana
+30,79,prairie_montana
+30,81,ravalli_montana
+30,83,richland_montana
+30,85,roosevelt_montana
+30,87,rosebud_montana
+30,89,sanders_montana
+30,91,sheridan_montana
+30,93,silver bow_montana
+30,95,stillwater_montana
+30,97,sweet grass_montana
+30,99,teton_montana
+30,101,toole_montana
+30,103,treasure_montana
+30,105,valley_montana
+30,107,wheatland_montana
+30,109,wibaux_montana
+30,111,yellowstone_montana
+31,1,adams_nebraska
+31,3,antelope_nebraska
+31,5,arthur_nebraska
+31,7,banner_nebraska
+31,9,blaine_nebraska
+31,11,boone_nebraska
+31,13,box butte_nebraska
+31,15,boyd_nebraska
+31,17,brown_nebraska
+31,19,buffalo_nebraska
+31,21,burt_nebraska
+31,23,butler_nebraska
+31,25,cass_nebraska
+31,27,cedar_nebraska
+31,29,chase_nebraska
+31,31,cherry_nebraska
+31,33,cheyenne_nebraska
+31,35,clay_nebraska
+31,37,colfax_nebraska
+31,39,cuming_nebraska
+31,41,custer_nebraska
+31,43,dakota_nebraska
+31,45,dawes_nebraska
+31,47,dawson_nebraska
+31,49,deuel_nebraska
+31,51,dixon_nebraska
+31,53,dodge_nebraska
+31,55,douglas_nebraska
+31,57,dundy_nebraska
+31,59,fillmore_nebraska
+31,61,franklin_nebraska
+31,63,frontier_nebraska
+31,65,furnas_nebraska
+31,67,gage_nebraska
+31,69,garden_nebraska
+31,71,garfield_nebraska
+31,73,gosper_nebraska
+31,75,grant_nebraska
+31,77,greeley_nebraska
+31,79,hall_nebraska
+31,81,hamilton_nebraska
+31,83,harlan_nebraska
+31,85,hayes_nebraska
+31,87,hitchcock_nebraska
+31,89,holt_nebraska
+31,91,hooker_nebraska
+31,93,howard_nebraska
+31,95,jefferson_nebraska
+31,97,johnson_nebraska
+31,99,kearney_nebraska
+31,101,keith_nebraska
+31,103,keya paha_nebraska
+31,105,kimball_nebraska
+31,107,knox_nebraska
+31,109,lancaster_nebraska
+31,111,lincoln_nebraska
+31,113,logan_nebraska
+31,115,loup_nebraska
+31,117,mcpherson_nebraska
+31,119,madison_nebraska
+31,121,merrick_nebraska
+31,123,morrill_nebraska
+31,125,nance_nebraska
+31,127,nemaha_nebraska
+31,129,nuckolls_nebraska
+31,131,otoe_nebraska
+31,133,pawnee_nebraska
+31,135,perkins_nebraska
+31,137,phelps_nebraska
+31,139,pierce_nebraska
+31,141,platte_nebraska
+31,143,polk_nebraska
+31,145,red willow_nebraska
+31,147,richardson_nebraska
+31,149,rock_nebraska
+31,151,saline_nebraska
+31,153,sarpy_nebraska
+31,155,saunders_nebraska
+31,157,scotts bluff_nebraska
+31,159,seward_nebraska
+31,161,sheridan_nebraska
+31,163,sherman_nebraska
+31,165,sioux_nebraska
+31,167,stanton_nebraska
+31,169,thayer_nebraska
+31,171,thomas_nebraska
+31,173,thurston_nebraska
+31,175,valley_nebraska
+31,177,washington_nebraska
+31,179,wayne_nebraska
+31,181,webster_nebraska
+31,183,wheeler_nebraska
+31,185,york_nebraska
+32,1,churchill_nevada
+32,3,clark_nevada
+32,5,douglas_nevada
+32,7,elko_nevada
+32,9,esmeralda_nevada
+32,11,eureka_nevada
+32,13,humboldt_nevada
+32,15,lander_nevada
+32,17,lincoln_nevada
+32,19,lyon_nevada
+32,21,mineral_nevada
+32,23,nye_nevada
+32,27,pershing_nevada
+32,29,storey_nevada
+32,31,washoe_nevada
+32,33,white pine_nevada
+32,510,carson_nevada
+33,1,belknap_new hampshire
+33,3,carroll_new hampshire
+33,5,cheshire_new hampshire
+33,7,coos_new hampshire
+33,9,grafton_new hampshire
+33,11,hillsborough_new hampshire
+33,13,merrimack_new hampshire
+33,15,rockingham_new hampshire
+33,17,strafford_new hampshire
+33,19,sullivan_new hampshire
+34,1,atlantic_new jersey
+34,3,bergen_new jersey
+34,5,burlington_new jersey
+34,7,camden_new jersey
+34,9,cape may_new jersey
+34,11,cumberland_new jersey
+34,13,essex_new jersey
+34,15,gloucester_new jersey
+34,17,hudson_new jersey
+34,19,hunterdon_new jersey
+34,21,mercer_new jersey
+34,23,middlesex_new jersey
+34,25,monmouth_new jersey
+34,27,morris_new jersey
+34,29,ocean_new jersey
+34,31,passaic_new jersey
+34,33,salem_new jersey
+34,35,somerset_new jersey
+34,37,sussex_new jersey
+34,39,union_new jersey
+34,41,warren_new jersey
+35,1,bernalillo_new mexico
+35,3,catron_new mexico
+35,5,chaves_new mexico
+35,6,cibola_new mexico
+35,7,colfax_new mexico
+35,9,curry_new mexico
+35,11,de baca_new mexico
+35,13,dona ana_new mexico
+35,15,eddy_new mexico
+35,17,grant_new mexico
+35,19,guadalupe_new mexico
+35,21,harding_new mexico
+35,23,hidalgo_new mexico
+35,25,lea_new mexico
+35,27,lincoln_new mexico
+35,28,los alamos_new mexico
+35,29,luna_new mexico
+35,31,mckinley_new mexico
+35,33,mora_new mexico
+35,35,otero_new mexico
+35,37,quay_new mexico
+35,39,rio arriba_new mexico
+35,41,roosevelt_new mexico
+35,43,sandoval_new mexico
+35,45,san juan_new mexico
+35,47,san miguel_new mexico
+35,49,santa fe_new mexico
+35,51,sierra_new mexico
+35,53,socorro_new mexico
+35,55,taos_new mexico
+35,57,torrance_new mexico
+35,59,union_new mexico
+35,61,valencia_new mexico
+36,1,albany_new york
+36,3,allegany_new york
+36,5,bronx_new york
+36,7,broome_new york
+36,9,cattaraugus_new york
+36,11,cayuga_new york
+36,13,chautauqua_new york
+36,15,chemung_new york
+36,17,chenango_new york
+36,19,clinton_new york
+36,21,columbia_new york
+36,23,cortland_new york
+36,25,delaware_new york
+36,27,dutchess_new york
+36,29,erie_new york
+36,31,essex_new york
+36,33,franklin_new york
+36,35,fulton_new york
+36,37,genesee_new york
+36,39,greene_new york
+36,41,hamilton_new york
+36,43,herkimer_new york
+36,45,jefferson_new york
+36,47,kings_new york
+36,49,lewis_new york
+36,51,livingston_new york
+36,53,madison_new york
+36,55,monroe_new york
+36,57,montgomery_new york
+36,59,nassau_new york
+36,61,new york_new york
+36,63,niagara_new york
+36,65,oneida_new york
+36,67,onondaga_new york
+36,69,ontario_new york
+36,71,orange_new york
+36,73,orleans_new york
+36,75,oswego_new york
+36,77,otsego_new york
+36,79,putnam_new york
+36,81,queens_new york
+36,83,rensselaer_new york
+36,85,richmond_new york
+36,87,rockland_new york
+36,89,st. lawrence_new york
+36,91,saratoga_new york
+36,93,schenectady_new york
+36,95,schoharie_new york
+36,97,schuyler_new york
+36,99,seneca_new york
+36,101,steuben_new york
+36,103,suffolk_new york
+36,105,sullivan_new york
+36,107,tioga_new york
+36,109,tompkins_new york
+36,111,ulster_new york
+36,113,warren_new york
+36,115,washington_new york
+36,117,wayne_new york
+36,119,westchester_new york
+36,121,wyoming_new york
+36,123,yates_new york
+37,1,alamance_north carolina
+37,3,alexander_north carolina
+37,5,alleghany_north carolina
+37,7,anson_north carolina
+37,9,ashe_north carolina
+37,11,avery_north carolina
+37,13,beaufort_north carolina
+37,15,bertie_north carolina
+37,17,bladen_north carolina
+37,19,brunswick_north carolina
+37,21,buncombe_north carolina
+37,23,burke_north carolina
+37,25,cabarrus_north carolina
+37,27,caldwell_north carolina
+37,29,camden_north carolina
+37,31,carteret_north carolina
+37,33,caswell_north carolina
+37,35,catawba_north carolina
+37,37,chatham_north carolina
+37,39,cherokee_north carolina
+37,41,chowan_north carolina
+37,43,clay_north carolina
+37,45,cleveland_north carolina
+37,47,columbus_north carolina
+37,49,craven_north carolina
+37,51,cumberland_north carolina
+37,53,currituck_north carolina
+37,55,dare_north carolina
+37,57,davidson_north carolina
+37,59,davie_north carolina
+37,61,duplin_north carolina
+37,63,durham_north carolina
+37,65,edgecombe_north carolina
+37,67,forsyth_north carolina
+37,69,franklin_north carolina
+37,71,gaston_north carolina
+37,73,gates_north carolina
+37,75,graham_north carolina
+37,77,granville_north carolina
+37,79,greene_north carolina
+37,81,guilford_north carolina
+37,83,halifax_north carolina
+37,85,harnett_north carolina
+37,87,haywood_north carolina
+37,89,henderson_north carolina
+37,91,hertford_north carolina
+37,93,hoke_north carolina
+37,95,hyde_north carolina
+37,97,iredell_north carolina
+37,99,jackson_north carolina
+37,101,johnston_north carolina
+37,103,jones_north carolina
+37,105,lee_north carolina
+37,107,lenoir_north carolina
+37,109,lincoln_north carolina
+37,111,mcdowell_north carolina
+37,113,macon_north carolina
+37,115,madison_north carolina
+37,117,martin_north carolina
+37,119,mecklenburg_north carolina
+37,121,mitchell_north carolina
+37,123,montgomery_north carolina
+37,125,moore_north carolina
+37,127,nash_north carolina
+37,129,new hanover_north carolina
+37,131,northampton_north carolina
+37,133,onslow_north carolina
+37,135,orange_north carolina
+37,137,pamlico_north carolina
+37,139,pasquotank_north carolina
+37,141,pender_north carolina
+37,143,perquimans_north carolina
+37,145,person_north carolina
+37,147,pitt_north carolina
+37,149,polk_north carolina
+37,151,randolph_north carolina
+37,153,richmond_north carolina
+37,155,robeson_north carolina
+37,157,rockingham_north carolina
+37,159,rowan_north carolina
+37,161,rutherford_north carolina
+37,163,sampson_north carolina
+37,165,scotland_north carolina
+37,167,stanly_north carolina
+37,169,stokes_north carolina
+37,171,surry_north carolina
+37,173,swain_north carolina
+37,175,transylvania_north carolina
+37,177,tyrrell_north carolina
+37,179,union_north carolina
+37,181,vance_north carolina
+37,183,wake_north carolina
+37,185,warren_north carolina
+37,187,washington_north carolina
+37,189,watauga_north carolina
+37,191,wayne_north carolina
+37,193,wilkes_north carolina
+37,195,wilson_north carolina
+37,197,yadkin_north carolina
+37,199,yancey_north carolina
+38,1,adams_north dakota
+38,3,barnes_north dakota
+38,5,benson_north dakota
+38,7,billings_north dakota
+38,9,bottineau_north dakota
+38,11,bowman_north dakota
+38,13,burke_north dakota
+38,15,burleigh_north dakota
+38,17,cass_north dakota
+38,19,cavalier_north dakota
+38,21,dickey_north dakota
+38,23,divide_north dakota
+38,25,dunn_north dakota
+38,27,eddy_north dakota
+38,29,emmons_north dakota
+38,31,foster_north dakota
+38,33,golden valley_north dakota
+38,35,grand forks_north dakota
+38,37,grant_north dakota
+38,39,griggs_north dakota
+38,41,hettinger_north dakota
+38,43,kidder_north dakota
+38,45,lamoure_north dakota
+38,47,logan_north dakota
+38,49,mchenry_north dakota
+38,51,mcintosh_north dakota
+38,53,mckenzie_north dakota
+38,55,mclean_north dakota
+38,57,mercer_north dakota
+38,59,morton_north dakota
+38,61,mountrail_north dakota
+38,63,nelson_north dakota
+38,65,oliver_north dakota
+38,67,pembina_north dakota
+38,69,pierce_north dakota
+38,71,ramsey_north dakota
+38,73,ransom_north dakota
+38,75,renville_north dakota
+38,77,richland_north dakota
+38,79,rolette_north dakota
+38,81,sargent_north dakota
+38,83,sheridan_north dakota
+38,85,sioux_north dakota
+38,87,slope_north dakota
+38,89,stark_north dakota
+38,91,steele_north dakota
+38,93,stutsman_north dakota
+38,95,towner_north dakota
+38,97,traill_north dakota
+38,99,walsh_north dakota
+38,101,ward_north dakota
+38,103,wells_north dakota
+38,105,williams_north dakota
+39,1,adams_ohio
+39,3,allen_ohio
+39,5,ashland_ohio
+39,7,ashtabula_ohio
+39,9,athens_ohio
+39,11,auglaize_ohio
+39,13,belmont_ohio
+39,15,brown_ohio
+39,17,butler_ohio
+39,19,carroll_ohio
+39,21,champaign_ohio
+39,23,clark_ohio
+39,25,clermont_ohio
+39,27,clinton_ohio
+39,29,columbiana_ohio
+39,31,coshocton_ohio
+39,33,crawford_ohio
+39,35,cuyahoga_ohio
+39,37,darke_ohio
+39,39,defiance_ohio
+39,41,delaware_ohio
+39,43,erie_ohio
+39,45,fairfield_ohio
+39,47,fayette_ohio
+39,49,franklin_ohio
+39,51,fulton_ohio
+39,53,gallia_ohio
+39,55,geauga_ohio
+39,57,greene_ohio
+39,59,guernsey_ohio
+39,61,hamilton_ohio
+39,63,hancock_ohio
+39,65,hardin_ohio
+39,67,harrison_ohio
+39,69,henry_ohio
+39,71,highland_ohio
+39,73,hocking_ohio
+39,75,holmes_ohio
+39,77,huron_ohio
+39,79,jackson_ohio
+39,81,jefferson_ohio
+39,83,knox_ohio
+39,85,lake_ohio
+39,87,lawrence_ohio
+39,89,licking_ohio
+39,91,logan_ohio
+39,93,lorain_ohio
+39,95,lucas_ohio
+39,97,madison_ohio
+39,99,mahoning_ohio
+39,101,marion_ohio
+39,103,medina_ohio
+39,105,meigs_ohio
+39,107,mercer_ohio
+39,109,miami_ohio
+39,111,monroe_ohio
+39,113,montgomery_ohio
+39,115,morgan_ohio
+39,117,morrow_ohio
+39,119,muskingum_ohio
+39,121,noble_ohio
+39,123,ottawa_ohio
+39,125,paulding_ohio
+39,127,perry_ohio
+39,129,pickaway_ohio
+39,131,pike_ohio
+39,133,portage_ohio
+39,135,preble_ohio
+39,137,putnam_ohio
+39,139,richland_ohio
+39,141,ross_ohio
+39,143,sandusky_ohio
+39,145,scioto_ohio
+39,147,seneca_ohio
+39,149,shelby_ohio
+39,151,stark_ohio
+39,153,summit_ohio
+39,155,trumbull_ohio
+39,157,tuscarawas_ohio
+39,159,union_ohio
+39,161,van wert_ohio
+39,163,vinton_ohio
+39,165,warren_ohio
+39,167,washington_ohio
+39,169,wayne_ohio
+39,171,williams_ohio
+39,173,wood_ohio
+39,175,wyandot_ohio
+40,1,adair_oklahoma
+40,3,alfalfa_oklahoma
+40,5,atoka_oklahoma
+40,7,beaver_oklahoma
+40,9,beckham_oklahoma
+40,11,blaine_oklahoma
+40,13,bryan_oklahoma
+40,15,caddo_oklahoma
+40,17,canadian_oklahoma
+40,19,carter_oklahoma
+40,21,cherokee_oklahoma
+40,23,choctaw_oklahoma
+40,25,cimarron_oklahoma
+40,27,cleveland_oklahoma
+40,29,coal_oklahoma
+40,31,comanche_oklahoma
+40,33,cotton_oklahoma
+40,35,craig_oklahoma
+40,37,creek_oklahoma
+40,39,custer_oklahoma
+40,41,delaware_oklahoma
+40,43,dewey_oklahoma
+40,45,ellis_oklahoma
+40,47,garfield_oklahoma
+40,49,garvin_oklahoma
+40,51,grady_oklahoma
+40,53,grant_oklahoma
+40,55,greer_oklahoma
+40,57,harmon_oklahoma
+40,59,harper_oklahoma
+40,61,haskell_oklahoma
+40,63,hughes_oklahoma
+40,65,jackson_oklahoma
+40,67,jefferson_oklahoma
+40,69,johnston_oklahoma
+40,71,kay_oklahoma
+40,73,kingfisher_oklahoma
+40,75,kiowa_oklahoma
+40,77,latimer_oklahoma
+40,79,le flore_oklahoma
+40,81,lincoln_oklahoma
+40,83,logan_oklahoma
+40,85,love_oklahoma
+40,87,mcclain_oklahoma
+40,89,mccurtain_oklahoma
+40,91,mcintosh_oklahoma
+40,93,major_oklahoma
+40,95,marshall_oklahoma
+40,97,mayes_oklahoma
+40,99,murray_oklahoma
+40,101,muskogee_oklahoma
+40,103,noble_oklahoma
+40,105,nowata_oklahoma
+40,107,okfuskee_oklahoma
+40,109,oklahoma_oklahoma
+40,111,okmulgee_oklahoma
+40,113,osage_oklahoma
+40,115,ottawa_oklahoma
+40,117,pawnee_oklahoma
+40,119,payne_oklahoma
+40,121,pittsburg_oklahoma
+40,123,pontotoc_oklahoma
+40,125,pottawatomie_oklahoma
+40,127,pushmataha_oklahoma
+40,129,roger mills_oklahoma
+40,131,rogers_oklahoma
+40,133,seminole_oklahoma
+40,135,sequoyah_oklahoma
+40,137,stephens_oklahoma
+40,139,texas_oklahoma
+40,141,tillman_oklahoma
+40,143,tulsa_oklahoma
+40,145,wagoner_oklahoma
+40,147,washington_oklahoma
+40,149,washita_oklahoma
+40,151,woods_oklahoma
+40,153,woodward_oklahoma
+41,1,baker_oregon
+41,3,benton_oregon
+41,5,clackamas_oregon
+41,7,clatsop_oregon
+41,9,columbia_oregon
+41,11,coos_oregon
+41,13,crook_oregon
+41,15,curry_oregon
+41,17,deschutes_oregon
+41,19,douglas_oregon
+41,21,gilliam_oregon
+41,23,grant_oregon
+41,25,harney_oregon
+41,27,hood river_oregon
+41,29,jackson_oregon
+41,31,jefferson_oregon
+41,33,josephine_oregon
+41,35,klamath_oregon
+41,37,lake_oregon
+41,39,lane_oregon
+41,41,lincoln_oregon
+41,43,linn_oregon
+41,45,malheur_oregon
+41,47,marion_oregon
+41,49,morrow_oregon
+41,51,multnomah_oregon
+41,53,polk_oregon
+41,55,sherman_oregon
+41,57,tillamook_oregon
+41,59,umatilla_oregon
+41,61,union_oregon
+41,63,wallowa_oregon
+41,65,wasco_oregon
+41,67,washington_oregon
+41,69,wheeler_oregon
+41,71,yamhill_oregon
+42,1,adams_pennsylvania
+42,3,allegheny_pennsylvania
+42,5,armstrong_pennsylvania
+42,7,beaver_pennsylvania
+42,9,bedford_pennsylvania
+42,11,berks_pennsylvania
+42,13,blair_pennsylvania
+42,15,bradford_pennsylvania
+42,17,bucks_pennsylvania
+42,19,butler_pennsylvania
+42,21,cambria_pennsylvania
+42,23,cameron_pennsylvania
+42,25,carbon_pennsylvania
+42,27,centre_pennsylvania
+42,29,chester_pennsylvania
+42,31,clarion_pennsylvania
+42,33,clearfield_pennsylvania
+42,35,clinton_pennsylvania
+42,37,columbia_pennsylvania
+42,39,crawford_pennsylvania
+42,41,cumberland_pennsylvania
+42,43,dauphin_pennsylvania
+42,45,delaware_pennsylvania
+42,47,elk_pennsylvania
+42,49,erie_pennsylvania
+42,51,fayette_pennsylvania
+42,53,forest_pennsylvania
+42,55,franklin_pennsylvania
+42,57,fulton_pennsylvania
+42,59,greene_pennsylvania
+42,61,huntingdon_pennsylvania
+42,63,indiana_pennsylvania
+42,65,jefferson_pennsylvania
+42,67,juniata_pennsylvania
+42,69,lackawanna_pennsylvania
+42,71,lancaster_pennsylvania
+42,73,lawrence_pennsylvania
+42,75,lebanon_pennsylvania
+42,77,lehigh_pennsylvania
+42,79,luzerne_pennsylvania
+42,81,lycoming_pennsylvania
+42,83,mckean_pennsylvania
+42,85,mercer_pennsylvania
+42,87,mifflin_pennsylvania
+42,89,monroe_pennsylvania
+42,91,montgomery_pennsylvania
+42,93,montour_pennsylvania
+42,95,northampton_pennsylvania
+42,97,northumberland_pennsylvania
+42,99,perry_pennsylvania
+42,101,philadelphia_pennsylvania
+42,103,pike_pennsylvania
+42,105,potter_pennsylvania
+42,107,schuylkill_pennsylvania
+42,109,snyder_pennsylvania
+42,111,somerset_pennsylvania
+42,113,sullivan_pennsylvania
+42,115,susquehanna_pennsylvania
+42,117,tioga_pennsylvania
+42,119,union_pennsylvania
+42,121,venango_pennsylvania
+42,123,warren_pennsylvania
+42,125,washington_pennsylvania
+42,127,wayne_pennsylvania
+42,129,westmoreland_pennsylvania
+42,131,wyoming_pennsylvania
+42,133,york_pennsylvania
+44,1,bristol_rhode island
+44,3,kent_rhode island
+44,5,newport_rhode island
+44,7,providence_rhode island
+44,9,washington_rhode island
+45,1,abbeville_south carolina
+45,3,aiken_south carolina
+45,5,allendale_south carolina
+45,7,anderson_south carolina
+45,9,bamberg_south carolina
+45,11,barnwell_south carolina
+45,13,beaufort_south carolina
+45,15,berkeley_south carolina
+45,17,calhoun_south carolina
+45,19,charleston_south carolina
+45,21,cherokee_south carolina
+45,23,chester_south carolina
+45,25,chesterfield_south carolina
+45,27,clarendon_south carolina
+45,29,colleton_south carolina
+45,31,darlington_south carolina
+45,33,dillon_south carolina
+45,35,dorchester_south carolina
+45,37,edgefield_south carolina
+45,39,fairfield_south carolina
+45,41,florence_south carolina
+45,43,georgetown_south carolina
+45,45,greenville_south carolina
+45,47,greenwood_south carolina
+45,49,hampton_south carolina
+45,51,horry_south carolina
+45,53,jasper_south carolina
+45,55,kershaw_south carolina
+45,57,lancaster_south carolina
+45,59,laurens_south carolina
+45,61,lee_south carolina
+45,63,lexington_south carolina
+45,65,mccormick_south carolina
+45,67,marion_south carolina
+45,69,marlboro_south carolina
+45,71,newberry_south carolina
+45,73,oconee_south carolina
+45,75,orangeburg_south carolina
+45,77,pickens_south carolina
+45,79,richland_south carolina
+45,81,saluda_south carolina
+45,83,spartanburg_south carolina
+45,85,sumter_south carolina
+45,87,union_south carolina
+45,89,williamsburg_south carolina
+45,91,york_south carolina
+46,3,aurora_south dakota
+46,5,beadle_south dakota
+46,7,bennett_south dakota
+46,9,bon homme_south dakota
+46,11,brookings_south dakota
+46,13,brown_south dakota
+46,15,brule_south dakota
+46,17,buffalo_south dakota
+46,19,butte_south dakota
+46,21,campbell_south dakota
+46,23,charles mix_south dakota
+46,25,clark_south dakota
+46,27,clay_south dakota
+46,29,codington_south dakota
+46,31,corson_south dakota
+46,33,custer_south dakota
+46,35,davison_south dakota
+46,37,day_south dakota
+46,39,deuel_south dakota
+46,41,dewey_south dakota
+46,43,douglas_south dakota
+46,45,edmunds_south dakota
+46,47,fall river_south dakota
+46,49,faulk_south dakota
+46,51,grant_south dakota
+46,53,gregory_south dakota
+46,55,haakon_south dakota
+46,57,hamlin_south dakota
+46,59,hand_south dakota
+46,61,hanson_south dakota
+46,63,harding_south dakota
+46,65,hughes_south dakota
+46,67,hutchinson_south dakota
+46,69,hyde_south dakota
+46,71,jackson_south dakota
+46,73,jerauld_south dakota
+46,75,jones_south dakota
+46,77,kingsbury_south dakota
+46,79,lake_south dakota
+46,81,lawrence_south dakota
+46,83,lincoln_south dakota
+46,85,lyman_south dakota
+46,87,mccook_south dakota
+46,89,mcpherson_south dakota
+46,91,marshall_south dakota
+46,93,meade_south dakota
+46,95,mellette_south dakota
+46,97,miner_south dakota
+46,99,minnehaha_south dakota
+46,101,moody_south dakota
+46,102,oglala lakota_south dakota
+46,103,pennington_south dakota
+46,105,perkins_south dakota
+46,107,potter_south dakota
+46,109,roberts_south dakota
+46,111,sanborn_south dakota
+46,115,spink_south dakota
+46,117,stanley_south dakota
+46,119,sully_south dakota
+46,121,todd_south dakota
+46,123,tripp_south dakota
+46,125,turner_south dakota
+46,127,union_south dakota
+46,129,walworth_south dakota
+46,135,yankton_south dakota
+46,137,ziebach_south dakota
+47,1,anderson_tennessee
+47,3,bedford_tennessee
+47,5,benton_tennessee
+47,7,bledsoe_tennessee
+47,9,blount_tennessee
+47,11,bradley_tennessee
+47,13,campbell_tennessee
+47,15,cannon_tennessee
+47,17,carroll_tennessee
+47,19,carter_tennessee
+47,21,cheatham_tennessee
+47,23,chester_tennessee
+47,25,claiborne_tennessee
+47,27,clay_tennessee
+47,29,cocke_tennessee
+47,31,coffee_tennessee
+47,33,crockett_tennessee
+47,35,cumberland_tennessee
+47,37,davidson_tennessee
+47,39,decatur_tennessee
+47,41,dekalb_tennessee
+47,43,dickson_tennessee
+47,45,dyer_tennessee
+47,47,fayette_tennessee
+47,49,fentress_tennessee
+47,51,franklin_tennessee
+47,53,gibson_tennessee
+47,55,giles_tennessee
+47,57,grainger_tennessee
+47,59,greene_tennessee
+47,61,grundy_tennessee
+47,63,hamblen_tennessee
+47,65,hamilton_tennessee
+47,67,hancock_tennessee
+47,69,hardeman_tennessee
+47,71,hardin_tennessee
+47,73,hawkins_tennessee
+47,75,haywood_tennessee
+47,77,henderson_tennessee
+47,79,henry_tennessee
+47,81,hickman_tennessee
+47,83,houston_tennessee
+47,85,humphreys_tennessee
+47,87,jackson_tennessee
+47,89,jefferson_tennessee
+47,91,johnson_tennessee
+47,93,knox_tennessee
+47,95,lake_tennessee
+47,97,lauderdale_tennessee
+47,99,lawrence_tennessee
+47,101,lewis_tennessee
+47,103,lincoln_tennessee
+47,105,loudon_tennessee
+47,107,mcminn_tennessee
+47,109,mcnairy_tennessee
+47,111,macon_tennessee
+47,113,madison_tennessee
+47,115,marion_tennessee
+47,117,marshall_tennessee
+47,119,maury_tennessee
+47,121,meigs_tennessee
+47,123,monroe_tennessee
+47,125,montgomery_tennessee
+47,127,moore_tennessee
+47,129,morgan_tennessee
+47,131,obion_tennessee
+47,133,overton_tennessee
+47,135,perry_tennessee
+47,137,pickett_tennessee
+47,139,polk_tennessee
+47,141,putnam_tennessee
+47,143,rhea_tennessee
+47,145,roane_tennessee
+47,147,robertson_tennessee
+47,149,rutherford_tennessee
+47,151,scott_tennessee
+47,153,sequatchie_tennessee
+47,155,sevier_tennessee
+47,157,shelby_tennessee
+47,159,smith_tennessee
+47,161,stewart_tennessee
+47,163,sullivan_tennessee
+47,165,sumner_tennessee
+47,167,tipton_tennessee
+47,169,trousdale_tennessee
+47,171,unicoi_tennessee
+47,173,union_tennessee
+47,175,van buren_tennessee
+47,177,warren_tennessee
+47,179,washington_tennessee
+47,181,wayne_tennessee
+47,183,weakley_tennessee
+47,185,white_tennessee
+47,187,williamson_tennessee
+47,189,wilson_tennessee
+48,1,anderson_texas
+48,3,andrews_texas
+48,5,angelina_texas
+48,7,aransas_texas
+48,9,archer_texas
+48,11,armstrong_texas
+48,13,atascosa_texas
+48,15,austin_texas
+48,17,bailey_texas
+48,19,bandera_texas
+48,21,bastrop_texas
+48,23,baylor_texas
+48,25,bee_texas
+48,27,bell_texas
+48,29,bexar_texas
+48,31,blanco_texas
+48,33,borden_texas
+48,35,bosque_texas
+48,37,bowie_texas
+48,39,brazoria_texas
+48,41,brazos_texas
+48,43,brewster_texas
+48,45,briscoe_texas
+48,47,brooks_texas
+48,49,brown_texas
+48,51,burleson_texas
+48,53,burnet_texas
+48,55,caldwell_texas
+48,57,calhoun_texas
+48,59,callahan_texas
+48,61,cameron_texas
+48,63,camp_texas
+48,65,carson_texas
+48,67,cass_texas
+48,69,castro_texas
+48,71,chambers_texas
+48,73,cherokee_texas
+48,75,childress_texas
+48,77,clay_texas
+48,79,cochran_texas
+48,81,coke_texas
+48,83,coleman_texas
+48,85,collin_texas
+48,87,collingsworth_texas
+48,89,colorado_texas
+48,91,comal_texas
+48,93,comanche_texas
+48,95,concho_texas
+48,97,cooke_texas
+48,99,coryell_texas
+48,101,cottle_texas
+48,103,crane_texas
+48,105,crockett_texas
+48,107,crosby_texas
+48,109,culberson_texas
+48,111,dallam_texas
+48,113,dallas_texas
+48,115,dawson_texas
+48,117,deaf smith_texas
+48,119,delta_texas
+48,121,denton_texas
+48,123,dewitt_texas
+48,125,dickens_texas
+48,127,dimmit_texas
+48,129,donley_texas
+48,131,duval_texas
+48,133,eastland_texas
+48,135,ector_texas
+48,137,edwards_texas
+48,139,ellis_texas
+48,141,el paso_texas
+48,143,erath_texas
+48,145,falls_texas
+48,147,fannin_texas
+48,149,fayette_texas
+48,151,fisher_texas
+48,153,floyd_texas
+48,155,foard_texas
+48,157,fort bend_texas
+48,159,franklin_texas
+48,161,freestone_texas
+48,163,frio_texas
+48,165,gaines_texas
+48,167,galveston_texas
+48,169,garza_texas
+48,171,gillespie_texas
+48,173,glasscock_texas
+48,175,goliad_texas
+48,177,gonzales_texas
+48,179,gray_texas
+48,181,grayson_texas
+48,183,gregg_texas
+48,185,grimes_texas
+48,187,guadalupe_texas
+48,189,hale_texas
+48,191,hall_texas
+48,193,hamilton_texas
+48,195,hansford_texas
+48,197,hardeman_texas
+48,199,hardin_texas
+48,201,harris_texas
+48,203,harrison_texas
+48,205,hartley_texas
+48,207,haskell_texas
+48,209,hays_texas
+48,211,hemphill_texas
+48,213,henderson_texas
+48,215,hidalgo_texas
+48,217,hill_texas
+48,219,hockley_texas
+48,221,hood_texas
+48,223,hopkins_texas
+48,225,houston_texas
+48,227,howard_texas
+48,229,hudspeth_texas
+48,231,hunt_texas
+48,233,hutchinson_texas
+48,235,irion_texas
+48,237,jack_texas
+48,239,jackson_texas
+48,241,jasper_texas
+48,243,jeff davis_texas
+48,245,jefferson_texas
+48,247,jim hogg_texas
+48,249,jim wells_texas
+48,251,johnson_texas
+48,253,jones_texas
+48,255,karnes_texas
+48,257,kaufman_texas
+48,259,kendall_texas
+48,261,kenedy_texas
+48,263,kent_texas
+48,265,kerr_texas
+48,267,kimble_texas
+48,269,king_texas
+48,271,kinney_texas
+48,273,kleberg_texas
+48,275,knox_texas
+48,277,lamar_texas
+48,279,lamb_texas
+48,281,lampasas_texas
+48,283,la salle_texas
+48,285,lavaca_texas
+48,287,lee_texas
+48,289,leon_texas
+48,291,liberty_texas
+48,293,limestone_texas
+48,295,lipscomb_texas
+48,297,live oak_texas
+48,299,llano_texas
+48,301,loving_texas
+48,303,lubbock_texas
+48,305,lynn_texas
+48,307,mcculloch_texas
+48,309,mclennan_texas
+48,311,mcmullen_texas
+48,313,madison_texas
+48,315,marion_texas
+48,317,martin_texas
+48,319,mason_texas
+48,321,matagorda_texas
+48,323,maverick_texas
+48,325,medina_texas
+48,327,menard_texas
+48,329,midland_texas
+48,331,milam_texas
+48,333,mills_texas
+48,335,mitchell_texas
+48,337,montague_texas
+48,339,montgomery_texas
+48,341,moore_texas
+48,343,morris_texas
+48,345,motley_texas
+48,347,nacogdoches_texas
+48,349,navarro_texas
+48,351,newton_texas
+48,353,nolan_texas
+48,355,nueces_texas
+48,357,ochiltree_texas
+48,359,oldham_texas
+48,361,orange_texas
+48,363,palo pinto_texas
+48,365,panola_texas
+48,367,parker_texas
+48,369,parmer_texas
+48,371,pecos_texas
+48,373,polk_texas
+48,375,potter_texas
+48,377,presidio_texas
+48,379,rains_texas
+48,381,randall_texas
+48,383,reagan_texas
+48,385,real_texas
+48,387,red river_texas
+48,389,reeves_texas
+48,391,refugio_texas
+48,393,roberts_texas
+48,395,robertson_texas
+48,397,rockwall_texas
+48,399,runnels_texas
+48,401,rusk_texas
+48,403,sabine_texas
+48,405,san augustine_texas
+48,407,san jacinto_texas
+48,409,san patricio_texas
+48,411,san saba_texas
+48,413,schleicher_texas
+48,415,scurry_texas
+48,417,shackelford_texas
+48,419,shelby_texas
+48,421,sherman_texas
+48,423,smith_texas
+48,425,somervell_texas
+48,427,starr_texas
+48,429,stephens_texas
+48,431,sterling_texas
+48,433,stonewall_texas
+48,435,sutton_texas
+48,437,swisher_texas
+48,439,tarrant_texas
+48,441,taylor_texas
+48,443,terrell_texas
+48,445,terry_texas
+48,447,throckmorton_texas
+48,449,titus_texas
+48,451,tom green_texas
+48,453,travis_texas
+48,455,trinity_texas
+48,457,tyler_texas
+48,459,upshur_texas
+48,461,upton_texas
+48,463,uvalde_texas
+48,465,val verde_texas
+48,467,van zandt_texas
+48,469,victoria_texas
+48,471,walker_texas
+48,473,waller_texas
+48,475,ward_texas
+48,477,washington_texas
+48,479,webb_texas
+48,481,wharton_texas
+48,483,wheeler_texas
+48,485,wichita_texas
+48,487,wilbarger_texas
+48,489,willacy_texas
+48,491,williamson_texas
+48,493,wilson_texas
+48,495,winkler_texas
+48,497,wise_texas
+48,499,wood_texas
+48,501,yoakum_texas
+48,503,young_texas
+48,505,zapata_texas
+48,507,zavala_texas
+49,1,beaver_utah
+49,3,box elder_utah
+49,5,cache_utah
+49,7,carbon_utah
+49,9,daggett_utah
+49,11,davis_utah
+49,13,duchesne_utah
+49,15,emery_utah
+49,17,garfield_utah
+49,19,grand_utah
+49,21,iron_utah
+49,23,juab_utah
+49,25,kane_utah
+49,27,millard_utah
+49,29,morgan_utah
+49,31,piute_utah
+49,33,rich_utah
+49,35,salt lake_utah
+49,37,san juan_utah
+49,39,sanpete_utah
+49,41,sevier_utah
+49,43,summit_utah
+49,45,tooele_utah
+49,47,uintah_utah
+49,49,utah_utah
+49,51,wasatch_utah
+49,53,washington_utah
+49,55,wayne_utah
+49,57,weber_utah
+50,1,addison_vermont
+50,3,bennington_vermont
+50,5,caledonia_vermont
+50,7,chittenden_vermont
+50,9,essex_vermont
+50,11,franklin_vermont
+50,13,grand isle_vermont
+50,15,lamoille_vermont
+50,17,orange_vermont
+50,19,orleans_vermont
+50,21,rutland_vermont
+50,23,washington_vermont
+50,25,windham_vermont
+50,27,windsor_vermont
+51,1,accomack_virginia
+51,3,albemarle_virginia
+51,5,alleghany_virginia
+51,7,amelia_virginia
+51,9,amherst_virginia
+51,11,appomattox_virginia
+51,13,arlington_virginia
+51,15,augusta_virginia
+51,17,bath_virginia
+51,19,bedford_virginia
+51,21,bland_virginia
+51,23,botetourt_virginia
+51,25,brunswick_virginia
+51,27,buchanan_virginia
+51,29,buckingham_virginia
+51,31,campbell_virginia
+51,33,caroline_virginia
+51,35,carroll_virginia
+51,36,charles_virginia
+51,37,charlotte_virginia
+51,41,chesterfield_virginia
+51,43,clarke_virginia
+51,45,craig_virginia
+51,47,culpeper_virginia
+51,49,cumberland_virginia
+51,51,dickenson_virginia
+51,53,dinwiddie_virginia
+51,57,essex_virginia
+51,59,fairfax_virginia
+51,61,fauquier_virginia
+51,63,floyd_virginia
+51,65,fluvanna_virginia
+51,67,franklin_virginia
+51,69,frederick_virginia
+51,71,giles_virginia
+51,73,gloucester_virginia
+51,75,goochland_virginia
+51,77,grayson_virginia
+51,79,greene_virginia
+51,81,greensville_virginia
+51,83,halifax_virginia
+51,85,hanover_virginia
+51,87,henrico_virginia
+51,89,henry_virginia
+51,91,highland_virginia
+51,93,isle of wight_virginia
+51,95,james_virginia
+51,97,king and queen_virginia
+51,99,king george_virginia
+51,101,king william_virginia
+51,103,lancaster_virginia
+51,105,lee_virginia
+51,107,loudoun_virginia
+51,109,louisa_virginia
+51,111,lunenburg_virginia
+51,113,madison_virginia
+51,115,mathews_virginia
+51,117,mecklenburg_virginia
+51,119,middlesex_virginia
+51,121,montgomery_virginia
+51,125,nelson_virginia
+51,127,new kent_virginia
+51,131,northampton_virginia
+51,133,northumberland_virginia
+51,135,nottoway_virginia
+51,137,orange_virginia
+51,139,page_virginia
+51,141,patrick_virginia
+51,143,pittsylvania_virginia
+51,145,powhatan_virginia
+51,147,prince edward_virginia
+51,149,prince george_virginia
+51,153,prince william_virginia
+51,155,pulaski_virginia
+51,157,rappahannock_virginia
+51,159,richmond_virginia
+51,161,roanoke_virginia
+51,163,rockbridge_virginia
+51,165,rockingham_virginia
+51,167,russell_virginia
+51,169,scott_virginia
+51,171,shenandoah_virginia
+51,173,smyth_virginia
+51,175,southampton_virginia
+51,177,spotsylvania_virginia
+51,179,stafford_virginia
+51,181,surry_virginia
+51,183,sussex_virginia
+51,185,tazewell_virginia
+51,187,warren_virginia
+51,191,washington_virginia
+51,193,westmoreland_virginia
+51,195,wise_virginia
+51,197,wythe_virginia
+51,199,york_virginia
+51,510,alexandria_virginia
+51,520,bristol_virginia
+51,530,buena vista_virginia
+51,540,charlottesville_virginia
+51,550,chesapeake_virginia
+51,570,colonial heights_virginia
+51,580,covington_virginia
+51,590,danville_virginia
+51,595,emporia_virginia
+51,600,fairfax_virginia
+51,610,falls church_virginia
+51,620,franklin_virginia
+51,630,fredericksburg_virginia
+51,640,galax_virginia
+51,650,hampton_virginia
+51,660,harrisonburg_virginia
+51,670,hopewell_virginia
+51,678,lexington_virginia
+51,680,lynchburg_virginia
+51,683,manassas_virginia
+51,685,manassas park_virginia
+51,690,martinsville_virginia
+51,700,newport news_virginia
+51,710,norfolk_virginia
+51,720,norton_virginia
+51,730,petersburg_virginia
+51,735,poquoson_virginia
+51,740,portsmouth_virginia
+51,750,radford_virginia
+51,760,richmond_virginia
+51,770,roanoke_virginia
+51,775,salem_virginia
+51,790,staunton_virginia
+51,800,suffolk_virginia
+51,810,virginia beach_virginia
+51,820,waynesboro_virginia
+51,830,williamsburg_virginia
+51,840,winchester_virginia
+53,1,adams_washington
+53,3,asotin_washington
+53,5,benton_washington
+53,7,chelan_washington
+53,9,clallam_washington
+53,11,clark_washington
+53,13,columbia_washington
+53,15,cowlitz_washington
+53,17,douglas_washington
+53,19,ferry_washington
+53,21,franklin_washington
+53,23,garfield_washington
+53,25,grant_washington
+53,27,grays harbor_washington
+53,29,island_washington
+53,31,jefferson_washington
+53,33,king_washington
+53,35,kitsap_washington
+53,37,kittitas_washington
+53,39,klickitat_washington
+53,41,lewis_washington
+53,43,lincoln_washington
+53,45,mason_washington
+53,47,okanogan_washington
+53,49,pacific_washington
+53,51,pend oreille_washington
+53,53,pierce_washington
+53,55,san juan_washington
+53,57,skagit_washington
+53,59,skamania_washington
+53,61,snohomish_washington
+53,63,spokane_washington
+53,65,stevens_washington
+53,67,thurston_washington
+53,69,wahkiakum_washington
+53,71,walla walla_washington
+53,73,whatcom_washington
+53,75,whitman_washington
+53,77,yakima_washington
+54,1,barbour_west virginia
+54,3,berkeley_west virginia
+54,5,boone_west virginia
+54,7,braxton_west virginia
+54,9,brooke_west virginia
+54,11,cabell_west virginia
+54,13,calhoun_west virginia
+54,15,clay_west virginia
+54,17,doddridge_west virginia
+54,19,fayette_west virginia
+54,21,gilmer_west virginia
+54,23,grant_west virginia
+54,25,greenbrier_west virginia
+54,27,hampshire_west virginia
+54,29,hancock_west virginia
+54,31,hardy_west virginia
+54,33,harrison_west virginia
+54,35,jackson_west virginia
+54,37,jefferson_west virginia
+54,39,kanawha_west virginia
+54,41,lewis_west virginia
+54,43,lincoln_west virginia
+54,45,logan_west virginia
+54,47,mcdowell_west virginia
+54,49,marion_west virginia
+54,51,marshall_west virginia
+54,53,mason_west virginia
+54,55,mercer_west virginia
+54,57,mineral_west virginia
+54,59,mingo_west virginia
+54,61,monongalia_west virginia
+54,63,monroe_west virginia
+54,65,morgan_west virginia
+54,67,nicholas_west virginia
+54,69,ohio_west virginia
+54,71,pendleton_west virginia
+54,73,pleasants_west virginia
+54,75,pocahontas_west virginia
+54,77,preston_west virginia
+54,79,putnam_west virginia
+54,81,raleigh_west virginia
+54,83,randolph_west virginia
+54,85,ritchie_west virginia
+54,87,roane_west virginia
+54,89,summers_west virginia
+54,91,taylor_west virginia
+54,93,tucker_west virginia
+54,95,tyler_west virginia
+54,97,upshur_west virginia
+54,99,wayne_west virginia
+54,101,webster_west virginia
+54,103,wetzel_west virginia
+54,105,wirt_west virginia
+54,107,wood_west virginia
+54,109,wyoming_west virginia
+55,1,adams_wisconsin
+55,3,ashland_wisconsin
+55,5,barron_wisconsin
+55,7,bayfield_wisconsin
+55,9,brown_wisconsin
+55,11,buffalo_wisconsin
+55,13,burnett_wisconsin
+55,15,calumet_wisconsin
+55,17,chippewa_wisconsin
+55,19,clark_wisconsin
+55,21,columbia_wisconsin
+55,23,crawford_wisconsin
+55,25,dane_wisconsin
+55,27,dodge_wisconsin
+55,29,door_wisconsin
+55,31,douglas_wisconsin
+55,33,dunn_wisconsin
+55,35,eau claire_wisconsin
+55,37,florence_wisconsin
+55,39,fond du lac_wisconsin
+55,41,forest_wisconsin
+55,43,grant_wisconsin
+55,45,green_wisconsin
+55,47,green lake_wisconsin
+55,49,iowa_wisconsin
+55,51,iron_wisconsin
+55,53,jackson_wisconsin
+55,55,jefferson_wisconsin
+55,57,juneau_wisconsin
+55,59,kenosha_wisconsin
+55,61,kewaunee_wisconsin
+55,63,la crosse_wisconsin
+55,65,lafayette_wisconsin
+55,67,langlade_wisconsin
+55,69,lincoln_wisconsin
+55,71,manitowoc_wisconsin
+55,73,marathon_wisconsin
+55,75,marinette_wisconsin
+55,77,marquette_wisconsin
+55,78,menominee_wisconsin
+55,79,milwaukee_wisconsin
+55,81,monroe_wisconsin
+55,83,oconto_wisconsin
+55,85,oneida_wisconsin
+55,87,outagamie_wisconsin
+55,89,ozaukee_wisconsin
+55,91,pepin_wisconsin
+55,93,pierce_wisconsin
+55,95,polk_wisconsin
+55,97,portage_wisconsin
+55,99,price_wisconsin
+55,101,racine_wisconsin
+55,103,richland_wisconsin
+55,105,rock_wisconsin
+55,107,rusk_wisconsin
+55,109,st. croix_wisconsin
+55,111,sauk_wisconsin
+55,113,sawyer_wisconsin
+55,115,shawano_wisconsin
+55,117,sheboygan_wisconsin
+55,119,taylor_wisconsin
+55,121,trempealeau_wisconsin
+55,123,vernon_wisconsin
+55,125,vilas_wisconsin
+55,127,walworth_wisconsin
+55,129,washburn_wisconsin
+55,131,washington_wisconsin
+55,133,waukesha_wisconsin
+55,135,waupaca_wisconsin
+55,137,waushara_wisconsin
+55,139,winnebago_wisconsin
+55,141,wood_wisconsin
+56,1,albany_wyoming
+56,3,big horn_wyoming
+56,5,campbell_wyoming
+56,7,carbon_wyoming
+56,9,converse_wyoming
+56,11,crook_wyoming
+56,13,fremont_wyoming
+56,15,goshen_wyoming
+56,17,hot springs_wyoming
+56,19,johnson_wyoming
+56,21,laramie_wyoming
+56,23,lincoln_wyoming
+56,25,natrona_wyoming
+56,27,niobrara_wyoming
+56,29,park_wyoming
+56,31,platte_wyoming
+56,33,sheridan_wyoming
+56,35,sublette_wyoming
+56,37,sweetwater_wyoming
+56,39,teton_wyoming
+56,41,uinta_wyoming
+56,43,washakie_wyoming
+56,45,weston_wyoming

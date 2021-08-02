@@ -1,0 +1,3221 @@
+STATEFP,COUNTYFP,county_State
+29,227,Worth_Missouri
+31,61,Franklin_Nebraska
+36,13,Chautauqua_New York
+37,181,Vance_North Carolina
+47,183,Weakley_Tennessee
+44,3,Kent_Rhode Island
+8,101,Pueblo_Colorado
+17,175,Stark_Illinois
+29,169,Pulaski_Missouri
+19,151,Pocahontas_Iowa
+22,39,Evangeline_Louisiana
+28,49,Hinds_Mississippi
+28,81,Lee_Mississippi
+29,117,Livingston_Missouri
+21,83,Graves_Kentucky
+28,37,Franklin_Mississippi
+40,49,Garvin_Oklahoma
+47,83,Houston_Tennessee
+48,189,Hale_Texas
+51,830,Williamsburg_Virginia
+51,595,Emporia_Virginia
+51,169,Scott_Virginia
+55,69,Lincoln_Wisconsin
+35,43,Sandoval_New Mexico
+27,65,Kanabec_Minnesota
+13,321,Worth_Georgia
+37,145,Person_North Carolina
+31,35,Clay_Nebraska
+31,169,Thayer_Nebraska
+54,83,Randolph_West Virginia
+47,77,Henderson_Tennessee
+48,263,Kent_Texas
+12,81,Manatee_Florida
+16,27,Canyon_Idaho
+17,69,Hardin_Illinois
+21,117,Kenton_Kentucky
+22,91,St. Helena_Louisiana
+27,133,Rock_Minnesota
+29,119,McDonald_Missouri
+40,25,Cimarron_Oklahoma
+39,69,Henry_Ohio
+47,151,Scott_Tennessee
+6,11,Colusa_California
+13,63,Clayton_Georgia
+13,57,Cherokee_Georgia
+18,65,Henry_Indiana
+20,101,Lane_Kansas
+21,215,Spencer_Kentucky
+19,37,Chickasaw_Iowa
+27,5,Becker_Minnesota
+29,85,Hickory_Missouri
+27,61,Itasca_Minnesota
+36,37,Genesee_New York
+31,143,Polk_Nebraska
+40,97,Mayes_Oklahoma
+46,25,Clark_South Dakota
+48,499,Wood_Texas
+48,393,Roberts_Texas
+54,105,Wirt_West Virginia
+18,95,Madison_Indiana
+1,59,Franklin_Alabama
+6,75,San Francisco_California
+13,47,Catoosa_Georgia
+19,191,Winneshiek_Iowa
+28,93,Marshall_Mississippi
+28,87,Lowndes_Mississippi
+29,181,Ripley_Missouri
+36,115,Washington_New York
+46,27,Clay_South Dakota
+53,71,Walla Walla_Washington
+8,87,Morgan_Colorado
+17,53,Ford_Illinois
+19,103,Johnson_Iowa
+20,15,Butler_Kansas
+21,149,McLean_Kentucky
+22,43,Grant_Louisiana
+28,137,Tate_Mississippi
+28,17,Chickasaw_Mississippi
+36,99,Seneca_New York
+28,29,Copiah_Mississippi
+42,75,Lebanon_Pennsylvania
+48,353,Nolan_Texas
+51,775,Salem_Virginia
+54,31,Hardy_West Virginia
+1,29,Cleburne_Alabama
+55,77,Marquette_Wisconsin
+35,15,Eddy_New Mexico
+19,69,Franklin_Iowa
+28,111,Perry_Mississippi
+21,207,Russell_Kentucky
+24,47,Worcester_Maryland
+47,81,Hickman_Tennessee
+48,217,Hill_Texas
+42,45,Delaware_Pennsylvania
+48,129,Donley_Texas
+51,135,Nottoway_Virginia
+13,55,Chattooga_Georgia
+19,109,Kossuth_Iowa
+27,27,Clay_Minnesota
+36,9,Cattaraugus_New York
+6,87,Santa Cruz_California
+24,15,Cecil_Maryland
+26,21,Berrien_Michigan
+28,3,Alcorn_Mississippi
+29,145,Newton_Missouri
+48,215,Hidalgo_Texas
+48,403,Sabine_Texas
+1,9,Blount_Alabama
+8,13,Boulder_Colorado
+13,247,Rockdale_Georgia
+17,27,Clinton_Illinois
+18,55,Greene_Indiana
+20,27,Clay_Kansas
+21,73,Franklin_Kentucky
+28,133,Sunflower_Mississippi
+31,149,Rock_Nebraska
+45,87,Union_South Carolina
+47,113,Madison_Tennessee
+51,740,Portsmouth_Virginia
+51,810,Virginia Beach_Virginia
+55,49,Iowa_Wisconsin
+17,55,Franklin_Illinois
+19,171,Tama_Iowa
+19,101,Jefferson_Iowa
+20,107,Linn_Kansas
+37,83,Halifax_North Carolina
+21,155,Marion_Kentucky
+38,69,Pierce_North Dakota
+17,187,Warren_Illinois
+46,123,Tripp_South Dakota
+42,131,Wyoming_Pennsylvania
+5,21,Clay_Arkansas
+12,47,Hamilton_Florida
+18,43,Floyd_Indiana
+26,57,Gratiot_Michigan
+19,137,Montgomery_Iowa
+27,151,Swift_Minnesota
+27,127,Redwood_Minnesota
+20,23,Cheyenne_Kansas
+21,87,Green_Kentucky
+17,41,Douglas_Illinois
+17,95,Knox_Illinois
+51,590,Danville_Virginia
+55,65,Lafayette_Wisconsin
+48,195,Hansford_Texas
+48,437,Swisher_Texas
+8,95,Phillips_Colorado
+17,67,Hancock_Illinois
+26,101,Manistee_Michigan
+30,75,Powder River_Montana
+31,127,Nemaha_Nebraska
+28,59,Jackson_Mississippi
+48,483,Wheeler_Texas
+46,101,Moody_South Dakota
+45,83,Spartanburg_South Carolina
+4,25,Yavapai_Arizona
+13,67,Cobb_Georgia
+13,43,Candler_Georgia
+31,75,Grant_Nebraska
+19,99,Jasper_Iowa
+21,9,Barren_Kentucky
+19,175,Union_Iowa
+26,143,Roscommon_Michigan
+29,151,Osage_Missouri
+28,85,Lincoln_Mississippi
+39,47,Fayette_Ohio
+47,177,Warren_Tennessee
+48,227,Howard_Texas
+48,151,Fisher_Texas
+48,357,Ochiltree_Texas
+17,115,Macon_Illinois
+8,25,Crowley_Colorado
+19,11,Benton_Iowa
+19,65,Fayette_Iowa
+20,133,Neosho_Kansas
+27,85,McLeod_Minnesota
+13,21,Bibb_Georgia
+38,35,Grand Forks_North Dakota
+22,1,Acadia_Louisiana
+17,117,Macoupin_Illinois
+47,173,Union_Tennessee
+48,31,Blanco_Texas
+48,331,Milam_Texas
+48,67,Cass_Texas
+8,103,Rio Blanco_Colorado
+17,111,McHenry_Illinois
+20,129,Morton_Kansas
+26,139,Ottawa_Michigan
+35,23,Hidalgo_New Mexico
+42,85,Mercer_Pennsylvania
+13,161,Jeff Davis_Georgia
+1,13,Butler_Alabama
+5,97,Montgomery_Arkansas
+8,14,Broomfield_Colorado
+13,269,Taylor_Georgia
+18,181,White_Indiana
+20,31,Coffey_Kansas
+29,175,Randolph_Missouri
+29,187,St. Francois_Missouri
+27,79,Le Sueur_Minnesota
+28,61,Jasper_Mississippi
+42,43,Dauphin_Pennsylvania
+46,57,Hamlin_South Dakota
+47,105,Loudon_Tennessee
+48,297,Live Oak_Texas
+51,680,Lynchburg_Virginia
+55,135,Waupaca_Wisconsin
+54,95,Tyler_West Virginia
+1,93,Marion_Alabama
+55,61,Kewaunee_Wisconsin
+18,137,Ripley_Indiana
+20,115,Marion_Kansas
+28,101,Newton_Mississippi
+13,249,Schley_Georgia
+13,201,Miller_Georgia
+38,9,Bottineau_North Dakota
+51,610,Falls Church_Virginia
+48,493,Wilson_Texas
+42,97,Northumberland_Pennsylvania
+13,179,Liberty_Georgia
+22,71,Orleans_Louisiana
+29,199,Scotland_Missouri
+31,83,Harlan_Nebraska
+36,61,New York_New York
+37,169,Stokes_North Carolina
+38,59,Morton_North Dakota
+42,105,Potter_Pennsylvania
+5,147,Woodruff_Arkansas
+8,89,Otero_Colorado
+18,131,Pulaski_Indiana
+19,91,Humboldt_Iowa
+21,239,Woodford_Kentucky
+20,189,Stevens_Kansas
+29,25,Caldwell_Missouri
+34,13,Essex_New Jersey
+31,19,Buffalo_Nebraska
+40,37,Creek_Oklahoma
+41,3,Benton_Oregon
+46,73,Jerauld_South Dakota
+47,15,Cannon_Tennessee
+48,441,Taylor_Texas
+54,93,Tucker_West Virginia
+50,21,Rutland_Vermont
+1,33,Colbert_Alabama
+8,83,Montezuma_Colorado
+20,97,Kiowa_Kansas
+20,209,Wyandotte_Kansas
+21,179,Nelson_Kentucky
+37,103,Jones_North Carolina
+16,55,Kootenai_Idaho
+47,43,Dickson_Tennessee
+48,155,Foard_Texas
+27,97,Morrison_Minnesota
+51,177,Spotsylvania_Virginia
+37,25,Cabarrus_North Carolina
+42,113,Sullivan_Pennsylvania
+38,45,LaMoure_North Dakota
+39,83,Knox_Ohio
+42,117,Tioga_Pennsylvania
+51,183,Sussex_Virginia
+48,179,Gray_Texas
+37,71,Gaston_North Carolina
+31,69,Garden_Nebraska
+48,191,Hall_Texas
+31,23,Butler_Nebraska
+36,111,Ulster_New York
+51,197,Wythe_Virginia
+38,91,Steele_North Dakota
+5,85,Lonoke_Arkansas
+5,75,Lawrence_Arkansas
+29,161,Phelps_Missouri
+26,71,Iron_Michigan
+27,99,Mower_Minnesota
+36,15,Chemung_New York
+37,159,Rowan_North Carolina
+48,243,Jeff Davis_Texas
+51,520,Bristol_Virginia
+48,261,Kenedy_Texas
+1,45,Dale_Alabama
+5,101,Newton_Arkansas
+13,193,Macon_Georgia
+31,91,Hooker_Nebraska
+18,143,Scott_Indiana
+19,121,Madison_Iowa
+18,79,Jennings_Indiana
+20,135,Ness_Kansas
+21,189,Owsley_Kentucky
+19,75,Grundy_Iowa
+27,153,Todd_Minnesota
+28,153,Wayne_Mississippi
+36,123,Yates_New York
+37,109,Lincoln_North Carolina
+31,115,Loup_Nebraska
+47,119,Maury_Tennessee
+48,103,Crane_Texas
+48,63,Camp_Texas
+51,37,Charlotte_Virginia
+54,15,Clay_West Virginia
+18,117,Orange_Indiana
+19,49,Dallas_Iowa
+19,167,Sioux_Iowa
+12,27,DeSoto_Florida
+21,201,Robertson_Kentucky
+21,29,Bullitt_Kentucky
+13,157,Jackson_Georgia
+16,21,Boundary_Idaho
+31,71,Garfield_Nebraska
+45,89,Williamsburg_South Carolina
+55,123,Vernon_Wisconsin
+45,69,Marlboro_South Carolina
+48,111,Dallam_Texas
+51,670,Hopewell_Virginia
+48,55,Caldwell_Texas
+41,13,Crook_Oregon
+29,43,Christian_Missouri
+27,147,Steele_Minnesota
+55,37,Florence_Wisconsin
+31,185,York_Nebraska
+17,101,Lawrence_Illinois
+37,187,Washington_North Carolina
+17,9,Brown_Illinois
+8,7,Archuleta_Colorado
+47,189,Wilson_Tennessee
+46,107,Potter_South Dakota
+55,15,Calumet_Wisconsin
+18,91,LaPorte_Indiana
+36,67,Onondaga_New York
+19,193,Woodbury_Iowa
+49,53,Washington_Utah
+21,63,Elliott_Kentucky
+19,147,Palo Alto_Iowa
+17,167,Sangamon_Illinois
+35,31,McKinley_New Mexico
+24,13,Carroll_Maryland
+37,79,Greene_North Carolina
+47,65,Hamilton_Tennessee
+17,127,Massac_Illinois
+47,75,Haywood_Tennessee
+19,3,Adams_Iowa
+54,77,Preston_West Virginia
+17,165,Saline_Illinois
+17,163,St. Clair_Illinois
+19,19,Buchanan_Iowa
+19,23,Butler_Iowa
+19,33,Cerro Gordo_Iowa
+21,95,Harlan_Kentucky
+19,41,Clay_Iowa
+42,57,Fulton_Pennsylvania
+20,37,Crawford_Kansas
+20,73,Greenwood_Kansas
+55,131,Washington_Wisconsin
+53,21,Franklin_Washington
+42,41,Cumberland_Pennsylvania
+29,59,Dallas_Missouri
+51,133,Northumberland_Virginia
+21,69,Fleming_Kentucky
+21,79,Garrard_Kentucky
+31,13,Box Butte_Nebraska
+20,57,Ford_Kansas
+17,77,Jackson_Illinois
+12,1,Alachua_Florida
+48,177,Gonzales_Texas
+18,119,Owen_Indiana
+17,25,Clay_Illinois
+18,161,Union_Indiana
+42,77,Lehigh_Pennsylvania
+42,83,McKean_Pennsylvania
+29,125,Maries_Missouri
+26,39,Crawford_Michigan
+27,161,Waseca_Minnesota
+51,683,Manassas_Virginia
+31,87,Hitchcock_Nebraska
+32,11,Eureka_Nevada
+36,5,Bronx_New York
+31,85,Hayes_Nebraska
+27,105,Nobles_Minnesota
+39,23,Clark_Ohio
+35,13,Dona Ana_New Mexico
+26,161,Washtenaw_Michigan
+31,139,Pierce_Nebraska
+26,15,Barry_Michigan
+35,21,Harding_New Mexico
+39,65,Hardin_Ohio
+5,29,Conway_Arkansas
+1,123,Tallapoosa_Alabama
+31,165,Sioux_Nebraska
+55,113,Sawyer_Wisconsin
+55,125,Vilas_Wisconsin
+55,141,Wood_Wisconsin
+38,93,Stutsman_North Dakota
+38,99,Walsh_North Dakota
+39,129,Pickaway_Ohio
+39,131,Pike_Ohio
+46,17,Buffalo_South Dakota
+39,57,Greene_Ohio
+39,49,Franklin_Ohio
+29,165,Platte_Missouri
+48,49,Brown_Texas
+48,135,Ector_Texas
+48,235,Irion_Texas
+49,41,Sevier_Utah
+51,101,King William_Virginia
+53,55,San Juan_Washington
+13,277,Tift_Georgia
+56,41,Uinta_Wyoming
+28,67,Jones_Mississippi
+13,71,Colquitt_Georgia
+48,435,Sutton_Texas
+55,21,Columbia_Wisconsin
+55,127,Walworth_Wisconsin
+51,820,Waynesboro_Virginia
+32,29,Storey_Nevada
+26,27,Cass_Michigan
+12,115,Sarasota_Florida
+20,21,Cherokee_Kansas
+45,41,Florence_South Carolina
+27,17,Carlton_Minnesota
+13,75,Cook_Georgia
+13,155,Irwin_Georgia
+48,65,Carson_Texas
+38,27,Eddy_North Dakota
+20,5,Atchison_Kansas
+51,600,Fairfax County_Virginia
+51,640,Galax_Virginia
+20,13,Brown_Kansas
+29,205,Shelby_Missouri
+51,690,Martinsville_Virginia
+19,1,Adair_Iowa
+48,221,Hood_Texas
+12,15,Charlotte_Florida
+13,77,Coweta_Georgia
+17,11,Bureau_Illinois
+39,173,Wood_Ohio
+48,91,Comal_Texas
+48,133,Eastland_Texas
+48,497,Wise_Texas
+17,139,Moultrie_Illinois
+17,29,Coles_Illinois
+19,67,Floyd_Iowa
+20,49,Elk_Kansas
+19,81,Hancock_Iowa
+26,45,Eaton_Michigan
+19,85,Harrison_Iowa
+47,159,Smith_Tennessee
+48,117,Deaf Smith_Texas
+26,67,Ionia_Michigan
+20,205,Wilson_Kansas
+20,203,Wichita_Kansas
+48,125,Dickens_Texas
+49,31,Piute_Utah
+26,81,Kent_Michigan
+37,85,Harnett_North Carolina
+37,183,Wake_North Carolina
+26,107,Mecosta_Michigan
+27,159,Wadena_Minnesota
+46,37,Day_South Dakota
+21,181,Nicholas_Kentucky
+26,123,Newaygo_Michigan
+21,197,Powell_Kentucky
+47,165,Sumner_Tennessee
+27,51,Grant_Minnesota
+17,49,Effingham_Illinois
+17,61,Greene_Illinois
+21,13,Bell_Kentucky
+27,3,Anoka_Minnesota
+27,15,Brown_Minnesota
+42,1,Adams_Pennsylvania
+46,13,Brown_South Dakota
+46,83,Lincoln_South Dakota
+40,93,Major_Oklahoma
+46,5,Beadle_South Dakota
+21,33,Caldwell_Kentucky
+47,17,Carroll_Tennessee
+46,111,Sanborn_South Dakota
+42,15,Bradford_Pennsylvania
+37,87,Haywood_North Carolina
+48,17,Bailey_Texas
+46,19,Butte_South Dakota
+47,63,Hamblen_Tennessee
+48,25,Bee_Texas
+46,59,Hand_South Dakota
+42,29,Chester_Pennsylvania
+46,99,Minnehaha_South Dakota
+49,1,Beaver_Utah
+27,73,Lac qui Parle_Minnesota
+42,37,Columbia_Pennsylvania
+47,101,Lewis_Tennessee
+31,33,Cheyenne_Nebraska
+51,3,Albemarle_Virginia
+56,3,Big Horn_Wyoming
+55,89,Ozaukee_Wisconsin
+47,161,Stewart_Tennessee
+55,99,Price_Wisconsin
+45,59,Laurens_South Carolina
+45,63,Lexington_South Carolina
+56,19,Johnson_Wyoming
+55,119,Taylor_Wisconsin
+51,89,Henry_Virginia
+44,5,Newport_Rhode Island
+48,447,Throckmorton_Texas
+19,107,Keokuk_Iowa
+17,203,Woodford_Illinois
+13,187,Lumpkin_Georgia
+39,161,Van Wert_Ohio
+12,43,Glades_Florida
+12,51,Hendry_Florida
+48,469,Victoria_Texas
+48,481,Wharton_Texas
+13,219,Oconee_Georgia
+13,225,Peach_Georgia
+13,237,Putnam_Georgia
+13,165,Jenkins_Georgia
+48,239,Jackson_Texas
+24,9,Calvert_Maryland
+13,245,Richmond_Georgia
+13,283,Treutlen_Georgia
+13,273,Terrell_Georgia
+13,289,Twiggs_Georgia
+20,77,Harper_Kansas
+5,25,Cleveland_Arkansas
+19,17,Bremer_Iowa
+48,219,Hockley_Texas
+17,153,Pulaski_Illinois
+39,3,Allen_Ohio
+40,107,Okfuskee_Oklahoma
+27,165,Watonwan_Minnesota
+27,149,Stevens_Minnesota
+39,67,Harrison_Ohio
+28,83,Leflore_Mississippi
+29,39,Cedar_Missouri
+31,155,Saunders_Nebraska
+31,49,Deuel_Nebraska
+27,141,Sherburne_Minnesota
+48,345,Motley_Texas
+13,307,Webster_Georgia
+13,311,White_Georgia
+41,53,Polk_Oregon
+13,167,Johnson_Georgia
+55,57,Juneau_Wisconsin
+55,73,Marathon_Wisconsin
+55,53,Jackson_Wisconsin
+55,35,Eau Claire_Wisconsin
+18,3,Allen_Indiana
+20,45,Douglas_Kansas
+18,33,DeKalb_Indiana
+19,87,Henry_Iowa
+18,11,Boone_Indiana
+18,97,Marion_Indiana
+19,15,Boone_Iowa
+39,91,Logan_Ohio
+29,167,Polk_Missouri
+19,115,Louisa_Iowa
+19,173,Taylor_Iowa
+39,29,Columbiana_Ohio
+20,65,Graham_Kansas
+45,91,York_South Carolina
+55,19,Clark_Wisconsin
+20,123,Mitchell_Kansas
+20,157,Republic_Kansas
+20,201,Washington_Kansas
+38,7,Billings_North Dakota
+40,149,Washita_Oklahoma
+40,101,Muskogee_Oklahoma
+26,35,Clare_Michigan
+1,27,Clay_Alabama
+1,37,Coosa_Alabama
+37,161,Rutherford_North Carolina
+40,39,Custer_Oklahoma
+5,135,Sharp_Arkansas
+37,177,Tyrrell_North Carolina
+51,35,Carroll_Virginia
+19,51,Davis_Iowa
+1,69,Houston_Alabama
+13,23,Bleckley_Georgia
+20,121,Miami_Kansas
+13,285,Troup_Georgia
+37,131,Northampton_North Carolina
+8,121,Washington_Colorado
+8,77,Mesa_Colorado
+48,309,McLennan_Texas
+39,117,Morrow_Ohio
+20,153,Rawlins_Kansas
+17,129,Menard_Illinois
+39,121,Noble_Ohio
+20,193,Thomas_Kansas
+16,57,Latah_Idaho
+48,367,Parker_Texas
+39,135,Preble_Ohio
+13,59,Clarke_Georgia
+19,143,Osceola_Iowa
+39,139,Richland_Ohio
+48,391,Refugio_Texas
+17,181,Union_Illinois
+48,401,Rusk_Texas
+19,181,Warren_Iowa
+19,185,Wayne_Iowa
+31,59,Fillmore_Nebraska
+48,223,Hopkins_Texas
+48,423,Smith_Texas
+48,231,Hunt_Texas
+36,105,Sullivan_New York
+48,313,Madison_Texas
+51,187,Warren_Virginia
+36,17,Chenango_New York
+48,477,Washington_Texas
+48,291,Liberty_Texas
+1,103,Morgan_Alabama
+40,147,Washington_Oklahoma
+51,79,Greene_Virginia
+42,125,Washington_Pennsylvania
+1,105,Perry_Alabama
+54,51,Marshall_West Virginia
+1,107,Pickens_Alabama
+51,69,Frederick_Virginia
+54,65,Morgan_West Virginia
+28,53,Humphreys_Mississippi
+29,63,DeKalb_Missouri
+29,197,Schuyler_Missouri
+51,63,Floyd_Virginia
+54,49,Marion_West Virginia
+54,33,Harrison_West Virginia
+39,51,Fulton_Ohio
+54,21,Gilmer_West Virginia
+29,49,Clinton_Missouri
+47,55,Giles_Tennessee
+54,5,Boone_West Virginia
+28,45,Hancock_Mississippi
+28,99,Neshoba_Mississippi
+26,79,Kalkaska_Michigan
+5,111,Poinsett_Arkansas
+12,35,Flagler_Florida
+12,133,Washington_Florida
+12,107,Putnam_Florida
+12,117,Seminole_Florida
+13,87,Decatur_Georgia
+40,119,Payne_Oklahoma
+28,21,Claiborne_Mississippi
+46,49,Faulk_South Dakota
+28,35,Forrest_Mississippi
+54,67,Nicholas_West Virginia
+18,135,Randolph_Indiana
+54,79,Putnam_West Virginia
+35,49,Santa Fe_New Mexico
+13,275,Thomas_Georgia
+35,41,Roosevelt_New Mexico
+38,75,Renville_North Dakota
+17,57,Fulton_Illinois
+28,9,Benton_Mississippi
+49,57,Weber_Utah
+19,95,Iowa_Iowa
+19,47,Crawford_Iowa
+17,45,Edgar_Illinois
+41,33,Josephine_Oregon
+13,309,Wheeler_Georgia
+35,33,Mora_New Mexico
+51,678,Lexington_Virginia
+38,49,McHenry_North Dakota
+17,183,Vermilion_Illinois
+20,105,Lincoln_Kansas
+1,1,Autauga_Alabama
+26,91,Lenawee_Michigan
+26,1,Alcona_Michigan
+19,9,Audubon_Iowa
+26,111,Midland_Michigan
+18,183,Whitley_Indiana
+20,51,Ellis_Kansas
+17,79,Jasper_Illinois
+26,17,Bay_Michigan
+17,7,Boone_Illinois
+19,43,Clayton_Iowa
+18,87,LaGrange_Indiana
+28,33,DeSoto_Mississippi
+48,53,Burnet_Texas
+28,135,Tallahatchie_Mississippi
+42,93,Montour_Pennsylvania
+48,413,Schleicher_Texas
+18,39,Elkhart_Indiana
+28,109,Pearl River_Mississippi
+13,255,Spalding_Georgia
+19,29,Cass_Iowa
+21,67,Fayette_Kentucky
+48,85,Collin_Texas
+54,63,Monroe_West Virginia
+51,121,Montgomery_Virginia
+19,45,Clinton_Iowa
+36,3,Allegany_New York
+46,47,Fall River_South Dakota
+13,85,Dawson_Georgia
+18,67,Howard_Indiana
+20,81,Haskell_Kansas
+48,397,Rockwall_Texas
+48,185,Grimes_Texas
+20,91,Johnson_Kansas
+38,15,Burleigh_North Dakota
+46,29,Codington_South Dakota
+48,507,Zavala_Texas
+20,75,Hamilton_Kansas
+38,1,Adams_North Dakota
+1,31,Coffee_Alabama
+19,165,Shelby_Iowa
+26,93,Livingston_Michigan
+48,473,Waller_Texas
+38,39,Griggs_North Dakota
+13,111,Fannin_Georgia
+26,13,Baraga_Michigan
+19,63,Emmet_Iowa
+55,25,Dane_Wisconsin
+5,115,Pope_Arkansas
+19,5,Allamakee_Iowa
+29,15,Benton_Missouri
+55,103,Richland_Wisconsin
+5,141,Van Buren_Arkansas
+22,49,Jackson_Louisiana
+55,63,La Crosse_Wisconsin
+37,139,Pasquotank_North Carolina
+29,67,Douglas_Missouri
+48,317,Martin_Texas
+22,65,Madison_Louisiana
+29,101,Johnson_Missouri
+40,11,Blaine_Oklahoma
+40,15,Caddo_Oklahoma
+8,59,Jefferson_Colorado
+29,123,Madison_Missouri
+48,383,Reagan_Texas
+40,137,Stephens_Oklahoma
+29,185,St. Clair_Missouri
+8,47,Gilpin_Colorado
+48,487,Wilbarger_Texas
+8,73,Lincoln_Colorado
+41,11,Coos_Oregon
+8,119,Teller_Colorado
+48,59,Callahan_Texas
+48,259,Kendall_Texas
+48,315,Marion_Texas
+40,1,Adair_Oklahoma
+48,203,Harrison_Texas
+36,95,Schoharie_New York
+48,459,Upshur_Texas
+31,67,Gage_Nebraska
+37,129,New Hanover_North Carolina
+38,63,Nelson_North Dakota
+17,107,Logan_Illinois
+26,49,Genesee_Michigan
+37,137,Pamlico_North Carolina
+48,343,Morris_Texas
+39,41,Delaware_Ohio
+48,451,Tom Green_Texas
+26,43,Dickinson_Michigan
+40,33,Cotton_Oklahoma
+18,105,Monroe_Indiana
+40,83,Logan_Oklahoma
+51,710,Norfolk_Virginia
+36,23,Cortland_New York
+48,375,Potter_Texas
+48,79,Cochran_Texas
+16,3,Adams_Idaho
+40,7,Beaver_Oklahoma
+55,45,Green_Wisconsin
+18,63,Hendricks_Indiana
+18,179,Wells_Indiana
+28,15,Carroll_Mississippi
+46,15,Brule_South Dakota
+51,510,Alexandria_Virginia
+19,117,Lucas_Iowa
+20,89,Jewell_Kansas
+51,25,Brunswick_Virginia
+48,341,Moore_Texas
+27,49,Goodhue_Minnesota
+24,45,Wicomico_Maryland
+42,73,Lawrence_Pennsylvania
+37,197,Yadkin_North Carolina
+46,3,Aurora_South Dakota
+54,1,Barbour_West Virginia
+37,157,Rockingham_North Carolina
+48,211,Hemphill_Texas
+46,121,Todd_South Dakota
+17,121,Marion_Illinois
+42,59,Greene_Pennsylvania
+18,69,Huntington_Indiana
+42,115,Susquehanna_Pennsylvania
+27,103,Nicollet_Minnesota
+36,1,Albany_New York
+20,177,Shawnee_Kansas
+48,127,Dimmit_Texas
+48,319,Mason_Texas
+28,155,Webster_Mississippi
+21,223,Trimble_Kentucky
+12,41,Gilchrist_Florida
+1,87,Macon_Alabama
+40,133,Seminole_Oklahoma
+8,39,Elbert_Colorado
+28,51,Holmes_Mississippi
+37,143,Perquimans_North Carolina
+31,47,Dawson_Nebraska
+19,111,Lee_Iowa
+19,83,Hardin_Iowa
+51,93,Isle of Wight_Virginia
+47,169,Trousdale_Tennessee
+17,185,Wabash_Illinois
+20,93,Kearny_Kansas
+31,167,Stanton_Nebraska
+48,99,Coryell_Texas
+20,79,Harvey_Kansas
+21,219,Todd_Kentucky
+51,49,Cumberland_Virginia
+48,11,Armstrong_Texas
+13,133,Greene_Georgia
+29,79,Grundy_Missouri
+28,69,Kemper_Mississippi
+26,69,Iosco_Michigan
+39,109,Miami_Ohio
+39,149,Shelby_Ohio
+5,43,Drew_Arkansas
+47,35,Cumberland_Tennessee
+20,63,Gove_Kansas
+55,5,Barron_Wisconsin
+29,203,Shannon_Missouri
+20,199,Wallace_Kansas
+51,179,Stafford_Virginia
+8,3,Alamosa_Colorado
+29,135,Moniteau_Missouri
+51,700,Newport News_Virginia
+28,129,Smith_Mississippi
+48,41,Brazos_Texas
+40,55,Greer_Oklahoma
+31,179,Wayne_Nebraska
+51,97,King and Queen_Virginia
+21,37,Campbell_Kentucky
+48,69,Castro_Texas
+24,11,Caroline_Maryland
+17,123,Marshall_Illinois
+47,23,Chester_Tennessee
+27,101,Murray_Minnesota
+18,23,Clinton_Indiana
+16,51,Jefferson_Idaho
+18,149,Starke_Indiana
+22,61,Lincoln_Louisiana
+31,135,Perkins_Nebraska
+26,73,Isabella_Michigan
+38,3,Barnes_North Dakota
+5,59,Hot Spring_Arkansas
+37,81,Guilford_North Carolina
+19,77,Guthrie_Iowa
+19,27,Carroll_Iowa
+26,85,Lake_Michigan
+26,117,Montcalm_Michigan
+17,47,Edwards_Illinois
+40,73,Kingfisher_Oklahoma
+47,21,Cheatham_Tennessee
+46,79,Lake_South Dakota
+45,39,Fairfield_South Carolina
+31,37,Colfax_Nebraska
+56,31,Platte_Wyoming
+39,153,Summit_Ohio
+39,25,Clermont_Ohio
+13,113,Fayette_Georgia
+8,91,Ouray_Colorado
+27,109,Olmsted_Minnesota
+13,209,Montgomery_Georgia
+39,37,Darke_Ohio
+12,67,Lafayette_Florida
+48,21,Bastrop_Texas
+50,19,Orleans_Vermont
+19,131,Mitchell_Iowa
+47,115,Marion_Tennessee
+37,89,Henderson_North Carolina
+18,111,Newton_Indiana
+17,105,Livingston_Illinois
+13,35,Butts_Georgia
+16,81,Teton_Idaho
+13,15,Bartow_Georgia
+48,51,Burleson_Texas
+54,9,Brooke_West Virginia
+28,159,Winston_Mississippi
+54,19,Fayette_West Virginia
+12,45,Gulf_Florida
+53,69,Wahkiakum_Washington
+21,237,Wolfe_Kentucky
+26,147,St. Clair_Michigan
+31,39,Cuming_Nebraska
+38,47,Logan_North Dakota
+37,179,Union_North Carolina
+38,79,Rolette_North Dakota
+13,261,Sumter_Georgia
+29,91,Howell_Missouri
+48,33,Borden_Texas
+22,83,Richland_Louisiana
+48,207,Haskell_Texas
+37,63,Durham_North Carolina
+55,87,Outagamie_Wisconsin
+48,489,Willacy_Texas
+24,29,Kent_Maryland
+28,139,Tippah_Mississippi
+45,25,Chesterfield_South Carolina
+19,179,Wapello_Iowa
+29,51,Cole_Missouri
+53,43,Lincoln_Washington
+48,379,Rains_Texas
+40,57,Harmon_Oklahoma
+17,5,Bond_Illinois
+1,111,Randolph_Alabama
+13,19,Berrien_Georgia
+48,45,Briscoe_Texas
+20,39,Decatur_Kansas
+55,105,Rock_Wisconsin
+31,183,Wheeler_Nebraska
+48,193,Hamilton_Texas
+20,83,Hodgeman_Kansas
+48,233,Hutchinson_Texas
+29,81,Harrison_Missouri
+21,35,Calloway_Kentucky
+20,173,Sedgwick_Kansas
+27,113,Pennington_Minnesota
+28,13,Calhoun_Mississippi
+20,175,Seward_Kansas
+56,11,Crook_Wyoming
+13,143,Haralson_Georgia
+48,389,Reeves_Texas
+17,51,Fayette_Illinois
+31,79,Hall_Nebraska
+40,43,Dewey_Oklahoma
+13,149,Heard_Georgia
+18,177,Wayne_Indiana
+31,95,Jefferson_Nebraska
+54,29,Hancock_West Virginia
+31,17,Brown_Nebraska
+20,9,Barton_Kansas
+22,73,Ouachita_Louisiana
+48,89,Colorado_Texas
+19,139,Muscatine_Iowa
+31,159,Seward_Nebraska
+18,107,Montgomery_Indiana
+18,25,Crawford_Indiana
+5,45,Faulkner_Arkansas
+18,157,Tippecanoe_Indiana
+39,21,Champaign_Ohio
+48,165,Gaines_Texas
+39,81,Jefferson_Ohio
+48,269,King_Texas
+39,43,Erie_Ohio
+17,19,Champaign_Illinois
+35,19,Guadalupe_New Mexico
+40,125,Pottawatomie_Oklahoma
+20,155,Reno_Kansas
+13,11,Banks_Georgia
+48,421,Sherman_Texas
+27,91,Martin_Minnesota
+6,77,San Joaquin_California
+19,123,Mahaska_Iowa
+38,41,Hettinger_North Dakota
+51,770,Roanoke City_Virginia
+36,101,Steuben_New York
+18,47,Franklin_Indiana
+40,105,Nowata_Oklahoma
+5,53,Grant_Arkansas
+18,53,Grant_Indiana
+13,213,Murray_Georgia
+46,7,Bennett_South Dakota
+17,125,Mason_Illinois
+27,33,Cottonwood_Minnesota
+48,279,Lamb_Texas
+19,153,Polk_Iowa
+53,49,Pacific_Washington
+51,111,Lunenburg_Virginia
+47,3,Bedford_Tennessee
+17,119,Madison_Illinois
+6,1,Alameda_California
+6,73,San Diego_California
+18,151,Steuben_Indiana
+18,167,Vigo_Indiana
+20,125,Montgomery_Kansas
+21,55,Crittenden_Kentucky
+26,141,Presque Isle_Michigan
+27,119,Polk_Minnesota
+29,209,Stone_Missouri
+28,103,Noxubee_Mississippi
+31,133,Pawnee_Nebraska
+34,29,Ocean_New Jersey
+36,55,Monroe_New York
+35,7,Colfax_New Mexico
+37,117,Martin_North Carolina
+37,15,Bertie_North Carolina
+37,9,Ashe_North Carolina
+45,3,Aiken_South Carolina
+38,13,Burke_North Dakota
+48,321,Matagorda_Texas
+48,57,Calhoun_Texas
+1,47,Dallas_Alabama
+17,83,Jersey_Illinois
+48,95,Concho_Texas
+20,61,Geary_Kansas
+23,1,Androscoggin_Maine
+41,69,Wheeler_Oregon
+47,1,Anderson_Tennessee
+29,107,Lafayette_Missouri
+6,3,Alpine_California
+29,137,Monroe_Missouri
+39,89,Licking_Ohio
+5,65,Izard_Arkansas
+51,790,Staunton_Virginia
+21,109,Jackson_Kentucky
+20,35,Cowley_Kansas
+37,105,Lee_North Carolina
+37,165,Scotland_North Carolina
+46,11,Brookings_South Dakota
+46,97,Miner_South Dakota
+51,540,Charlottesville_Virginia
+47,171,Unicoi_Tennessee
+55,117,Sheboygan_Wisconsin
+53,3,Asotin_Washington
+17,199,Williamson_Illinois
+39,77,Huron_Ohio
+48,285,Lavaca_Texas
+31,1,Adams_Nebraska
+27,121,Pope_Minnesota
+55,85,Oneida_Wisconsin
+39,115,Morgan_Ohio
+13,65,Clinch_Georgia
+26,25,Calhoun_Michigan
+37,127,Nash_North Carolina
+18,35,Delaware_Indiana
+13,9,Baldwin_Georgia
+20,113,McPherson_Kansas
+48,361,Orange_Texas
+48,399,Runnels_Texas
+36,35,Fulton_New York
+40,121,Pittsburg_Oklahoma
+39,53,Gallia_Ohio
+1,75,Lamar_Alabama
+29,211,Sullivan_Missouri
+12,91,Okaloosa_Florida
+28,23,Clarke_Mississippi
+27,111,Otter Tail_Minnesota
+5,9,Boone_Arkansas
+55,39,Fond du Lac_Wisconsin
+18,57,Hamilton_Indiana
+20,195,Trego_Kansas
+13,197,Marion_Georgia
+36,109,Tompkins_New York
+48,495,Winkler_Texas
+29,213,Taney_Missouri
+55,71,Manitowoc_Wisconsin
+29,141,Morgan_Missouri
+21,115,Johnson_Kentucky
+29,97,Jasper_Missouri
+17,135,Montgomery_Illinois
+51,103,Lancaster_Virginia
+51,43,Clarke_Virginia
+42,5,Armstrong_Pennsylvania
+46,39,Deuel_South Dakota
+17,109,McDonough_Illinois
+13,53,Chattahoochee_Georgia
+55,78,Menominee_Wisconsin
+28,77,Lawrence_Mississippi
+22,3,Allen_Louisiana
+46,35,Davison_South Dakota
+31,117,McPherson_Nebraska
+1,113,Russell_Alabama
+4,23,Santa Cruz_Arizona
+5,17,Chicot_Arkansas
+12,61,Indian River_Florida
+16,69,Nez Perce_Idaho
+19,59,Dickinson_Iowa
+20,99,Labette_Kansas
+22,115,Vernon_Louisiana
+22,85,Sabine_Louisiana
+24,5,Baltimore County_Maryland
+24,3,Anne Arundel_Maryland
+27,25,Chisago_Minnesota
+28,75,Lauderdale_Mississippi
+28,149,Warren_Mississippi
+30,41,Hill_Montana
+29,217,Vernon_Missouri
+29,47,Clay_Missouri
+36,81,Queens_New York
+48,501,Yoakum_Texas
+6,9,Calaveras_California
+13,171,Lamar_Georgia
+47,185,White_Tennessee
+20,141,Osborne_Kansas
+48,145,Falls_Texas
+24,23,Garrett_Maryland
+18,175,Washington_Indiana
+31,101,Keith_Nebraska
+17,35,Cumberland_Illinois
+28,57,Itawamba_Mississippi
+20,53,Ellsworth_Kansas
+29,89,Howard_Missouri
+48,369,Parmer_Texas
+27,67,Kandiyohi_Minnesota
+20,119,Meade_Kansas
+29,23,Butler_Missouri
+39,103,Medina_Ohio
+40,3,Alfalfa_Oklahoma
+12,93,Okeechobee_Florida
+28,131,Stone_Mississippi
+18,31,Decatur_Indiana
+21,235,Whitley_Kentucky
+32,33,White Pine_Nevada
+35,59,Union_New Mexico
+39,79,Jackson_Ohio
+40,71,Kay_Oklahoma
+39,143,Sandusky_Ohio
+41,1,Baker_Oregon
+1,125,Tuscaloosa_Alabama
+1,35,Conecuh_Alabama
+1,95,Marshall_Alabama
+4,21,Pinal_Arizona
+6,89,Shasta_California
+13,141,Hancock_Georgia
+13,223,Paulding_Georgia
+17,147,Piatt_Illinois
+17,103,Lee_Illinois
+2,68,Denali_Alaska
+6,13,Contra Costa_California
+12,19,Clay_Florida
+13,243,Randolph_Georgia
+18,81,Johnson_Indiana
+20,207,Woodson_Kansas
+20,165,Rush_Kansas
+21,229,Washington_Kentucky
+22,55,Lafayette_Louisiana
+26,113,Missaukee_Michigan
+27,171,Wright_Minnesota
+28,73,Lamar_Mississippi
+29,229,Wright_Missouri
+30,103,Treasure_Montana
+31,93,Howard_Nebraska
+31,41,Custer_Nebraska
+21,193,Perry_Kentucky
+37,41,Chowan_North Carolina
+31,141,Platte_Nebraska
+39,31,Coshocton_Ohio
+42,69,Lackawanna_Pennsylvania
+46,93,Meade_South Dakota
+51,47,Culpeper_Virginia
+47,41,DeKalb_Tennessee
+48,335,Mitchell_Texas
+48,43,Brewster_Texas
+51,85,Hanover_Virginia
+54,101,Webster_West Virginia
+51,570,Colonial Heights_Virginia
+51,195,Wise_Virginia
+55,93,Pierce_Wisconsin
+56,25,Natrona_Wyoming
+53,19,Ferry_Washington
+33,17,Strafford_New Hampshire
+26,165,Wexford_Michigan
+36,97,Schuyler_New York
+12,63,Jackson_Florida
+39,71,Highland_Ohio
+36,79,Putnam_New York
+40,115,Ottawa_Oklahoma
+39,85,Lake_Ohio
+41,21,Gilliam_Oregon
+51,27,Buchanan_Virginia
+47,29,Cocke_Tennessee
+1,43,Cullman_Alabama
+2,16,Aleutians West_Alaska
+12,71,Lee_Florida
+12,69,Lake_Florida
+13,305,Wayne_Georgia
+17,17,Cass_Illinois
+18,71,Jackson_Indiana
+19,169,Story_Iowa
+21,137,Lincoln_Kentucky
+21,167,Mercer_Kentucky
+19,105,Jones_Iowa
+19,135,Monroe_Iowa
+29,29,Camden_Missouri
+28,31,Covington_Mississippi
+21,97,Harrison_Kentucky
+29,83,Henry_Missouri
+30,37,Golden Valley_Montana
+31,51,Dixon_Nebraska
+30,49,Lewis and Clark_Montana
+21,127,Lawrence_Kentucky
+40,145,Wagoner_Oklahoma
+42,79,Luzerne_Pennsylvania
+48,275,Knox_Texas
+51,59,Fairfax City_Virginia
+51,157,Rappahannock_Virginia
+51,75,Goochland_Virginia
+51,191,Washington_Virginia
+54,37,Jefferson_West Virginia
+1,3,Baldwin_Alabama
+51,115,Mathews_Virginia
+55,97,Portage_Wisconsin
+54,87,Roane_West Virginia
+6,49,Modoc_California
+36,121,Wyoming_New York
+19,125,Marion_Iowa
+26,33,Chippewa_Michigan
+20,41,Dickinson_Kansas
+39,167,Washington_Ohio
+28,125,Sharkey_Mississippi
+31,163,Sherman_Nebraska
+31,9,Blaine_Nebraska
+31,129,Nuckolls_Nebraska
+5,83,Logan_Arkansas
+42,17,Bucks_Pennsylvania
+46,9,Bon Homme_South Dakota
+46,103,Pennington_South Dakota
+48,175,Goliad_Texas
+18,153,Sullivan_Indiana
+21,101,Henderson_Kentucky
+48,251,Johnson_Texas
+40,87,McClain_Oklahoma
+48,463,Uvalde_Texas
+6,95,Solano_California
+31,145,Red Willow_Nebraska
+22,107,Tensas_Louisiana
+31,7,Banner_Nebraska
+32,17,Lincoln_Nevada
+51,167,Russell_Virginia
+47,131,Obion_Tennessee
+55,27,Dodge_Wisconsin
+48,249,Jim Wells_Texas
+48,445,Terry_Texas
+27,31,Cook_Minnesota
+48,337,Montague_Texas
+5,7,Benton_Arkansas
+6,65,Riverside_California
+6,41,Marin_California
+13,191,McIntosh_Georgia
+13,27,Brooks_Georgia
+17,23,Clark_Illinois
+18,83,Knox_Indiana
+18,171,Warren_Indiana
+21,213,Simpson_Kentucky
+22,37,East Feliciana_Louisiana
+23,17,Oxford_Maine
+26,53,Gogebic_Michigan
+28,141,Tishomingo_Mississippi
+32,3,Clark_Nevada
+29,3,Andrew_Missouri
+38,95,Towner_North Dakota
+38,87,Slope_North Dakota
+17,169,Schuyler_Illinois
+18,93,Lawrence_Indiana
+20,3,Anderson_Kansas
+20,127,Morris_Kansas
+21,49,Clark_Kentucky
+23,9,Hancock_Maine
+22,51,Jefferson_Louisiana
+27,29,Clearwater_Minnesota
+28,89,Madison_Mississippi
+28,105,Oktibbeha_Mississippi
+22,75,Plaquemines_Louisiana
+37,193,Wilkes_North Carolina
+35,1,Bernalillo_New Mexico
+27,95,Mille Lacs_Minnesota
+21,161,Mason_Kentucky
+28,161,Yalobusha_Mississippi
+28,163,Yazoo_Mississippi
+39,27,Clinton_Ohio
+41,71,Yamhill_Oregon
+47,175,Van Buren_Tennessee
+48,293,Limestone_Texas
+48,289,Leon_Texas
+51,61,Fauquier_Virginia
+48,329,Midland_Texas
+48,241,Jasper_Texas
+55,79,Milwaukee_Wisconsin
+1,39,Covington_Alabama
+55,75,Marinette_Wisconsin
+56,39,Teton_Wyoming
+26,55,Grand Traverse_Michigan
+20,47,Edwards_Kansas
+38,43,Kidder_North Dakota
+13,83,Dade_Georgia
+13,317,Wilkes_Georgia
+30,71,Phillips_Montana
+38,23,Divide_North Dakota
+22,41,Franklin_Louisiana
+17,161,Rock Island_Illinois
+51,109,Louisa_Virginia
+46,65,Hughes_South Dakota
+48,161,Freestone_Texas
+40,47,Garfield_Oklahoma
+4,17,Navajo_Arizona
+9,5,Litchfield_Connecticut
+16,75,Payette_Idaho
+16,49,Idaho_Idaho
+19,53,Decatur_Iowa
+20,33,Comanche_Kansas
+22,77,Pointe Coupee_Louisiana
+22,11,Beauregard_Louisiana
+26,151,Sanilac_Michigan
+27,37,Dakota_Minnesota
+29,147,Nodaway_Missouri
+13,173,Lanier_Georgia
+29,87,Holt_Missouri
+30,101,Toole_Montana
+22,125,West Feliciana_Louisiana
+30,91,Sheridan_Montana
+40,75,Kiowa_Oklahoma
+54,81,Raleigh_West Virginia
+55,91,Pepin_Wisconsin
+56,33,Sheridan_Wyoming
+48,115,Dawson_Texas
+40,135,Sequoyah_Oklahoma
+4,19,Pima_Arizona
+5,81,Little River_Arkansas
+8,9,Baca_Colorado
+13,233,Polk_Georgia
+13,251,Screven_Georgia
+13,105,Elbert_Georgia
+17,13,Calhoun_Illinois
+17,3,Alexander_Illinois
+18,141,St. Joseph_Indiana
+19,61,Dubuque_Iowa
+12,53,Hernando_Florida
+12,57,Hillsborough_Florida
+21,41,Carroll_Kentucky
+22,17,Caddo_Louisiana
+26,163,Wayne_Michigan
+26,9,Antrim_Michigan
+28,157,Wilkinson_Mississippi
+30,83,Richland_Montana
+12,37,Franklin_Florida
+21,5,Anderson_Kentucky
+29,103,Knox_Missouri
+38,17,Cass_North Dakota
+21,105,Hickman_Kentucky
+29,163,Pike_Missouri
+40,139,Texas_Oklahoma
+21,51,Clay_Kentucky
+38,85,Sioux_North Dakota
+17,85,Jo Daviess_Illinois
+45,21,Cherokee_South Carolina
+53,63,Spokane_Washington
+54,53,Mason_West Virginia
+47,31,Coffee_Tennessee
+48,141,El Paso_Texas
+49,51,Wasatch_Utah
+4,11,Greenlee_Arizona
+6,59,Orange_California
+6,35,Lassen_California
+9,9,New Haven_Connecticut
+16,41,Franklin_Idaho
+37,55,Dare_North Carolina
+38,53,McKenzie_North Dakota
+36,31,Essex_New York
+41,37,Lake_Oregon
+45,53,Jasper_South Carolina
+46,53,Gregory_South Dakota
+1,101,Montgomery_Alabama
+2,110,Juneau_Alaska
+2,290,Yukon-Koyukuk_Alaska
+6,19,Fresno_California
+12,95,Orange_Florida
+13,231,Pike_Georgia
+13,217,Newton_Georgia
+30,3,Big Horn_Montana
+31,161,Sheridan_Nebraska
+31,181,Webster_Nebraska
+36,73,Orleans_New York
+37,31,Carteret_North Carolina
+39,105,Meigs_Ohio
+13,319,Wilkinson_Georgia
+48,295,Lipscomb_Texas
+41,57,Tillamook_Oregon
+47,103,Lincoln_Tennessee
+47,51,Franklin_Tennessee
+55,109,St. Croix_Wisconsin
+1,65,Hale_Alabama
+2,198,Prince of Wales-Hyder_Alaska
+2,220,Sitka_Alaska
+8,15,Chaffee_Colorado
+12,49,Hardee_Florida
+13,121,Fulton_Georgia
+13,235,Pulaski_Georgia
+13,227,Pickens_Georgia
+13,97,Douglas_Georgia
+16,15,Boise_Idaho
+19,197,Wright_Iowa
+19,73,Greene_Iowa
+18,45,Fountain_Indiana
+18,37,Dubois_Indiana
+21,199,Pulaski_Kentucky
+19,55,Delaware_Iowa
+21,89,Greenup_Kentucky
+24,27,Howard_Maryland
+22,121,West Baton Rouge_Louisiana
+31,175,Valley_Nebraska
+31,11,Boone_Nebraska
+31,109,Lancaster_Nebraska
+35,27,Lincoln_New Mexico
+42,19,Butler_Pennsylvania
+45,23,Chester_South Carolina
+47,5,Benton_Tennessee
+48,201,Harris_Texas
+48,209,Hays_Texas
+48,287,Lee_Texas
+48,429,Stephens_Texas
+48,5,Angelina_Texas
+48,73,Cherokee_Texas
+51,33,Caroline_Virginia
+53,17,Douglas_Washington
+18,13,Brown_Indiana
+19,39,Clarke_Iowa
+39,73,Hocking_Ohio
+12,3,Baker_Florida
+19,71,Fremont_Iowa
+12,75,Levy_Florida
+39,13,Belmont_Ohio
+19,31,Cedar_Iowa
+37,153,Richmond_North Carolina
+12,127,Volusia_Florida
+37,69,Franklin_North Carolina
+13,279,Toombs_Georgia
+29,159,Pettis_Missouri
+21,91,Hancock_Kentucky
+21,1,Adair_Kentucky
+30,59,Meagher_Montana
+36,51,Livingston_New York
+51,36,Charles City_Virginia
+45,61,Lee_South Carolina
+45,17,Calhoun_South Carolina
+48,171,Gillespie_Texas
+48,349,Navarro_Texas
+48,347,Nacogdoches_Texas
+48,255,Karnes_Texas
+49,45,Tooele_Utah
+49,25,Kane_Utah
+51,730,Petersburg_Virginia
+54,107,Wood_West Virginia
+53,1,Adams_Washington
+54,45,Logan_West Virginia
+17,99,LaSalle_Illinois
+18,41,Fayette_Indiana
+36,49,Lewis_New York
+39,163,Vinton_Ohio
+20,151,Pratt_Kansas
+20,69,Gray_Kansas
+28,117,Prentiss_Mississippi
+28,115,Pontotoc_Mississippi
+28,25,Clay_Mississippi
+29,207,Stoddard_Missouri
+29,1,Adair_Missouri
+37,99,Jackson_North Carolina
+21,57,Cumberland_Kentucky
+21,217,Taylor_Kentucky
+30,35,Glacier_Montana
+16,1,Ada_Idaho
+31,113,Logan_Nebraska
+44,1,Bristol_Rhode Island
+23,13,Knox_Maine
+25,27,Worcester_Massachusetts
+26,11,Arenac_Michigan
+29,155,Pemiscot_Missouri
+31,21,Burt_Nebraska
+33,19,Sullivan_New Hampshire
+35,25,Lea_New Mexico
+37,149,Polk_North Carolina
+37,53,Currituck_North Carolina
+39,35,Cuyahoga_Ohio
+42,71,Lancaster_Pennsylvania
+37,141,Pender_North Carolina
+48,427,Starr_Texas
+41,59,Umatilla_Oregon
+42,95,Northampton_Pennsylvania
+54,73,Pleasants_West Virginia
+45,51,Horry_South Carolina
+2,130,Ketchikan Gateway_Alaska
+5,87,Madison_Arkansas
+6,29,Kern_California
+12,83,Marion_Florida
+17,39,De Witt_Illinois
+28,7,Attala_Mississippi
+21,121,Knox_Kentucky
+21,113,Jessamine_Kentucky
+22,93,St. James_Louisiana
+22,95,St. John the Baptist_Louisiana
+23,19,Penobscot_Maine
+28,97,Montgomery_Mississippi
+31,53,Dodge_Nebraska
+29,219,Warren_Missouri
+35,61,Valencia_New Mexico
+37,167,Stanly_North Carolina
+38,61,Mountrail_North Dakota
+31,89,Holt_Nebraska
+39,151,Stark_Ohio
+42,119,Union_Pennsylvania
+42,65,Jefferson_Pennsylvania
+45,67,Marion_South Carolina
+47,141,Putnam_Tennessee
+48,113,Dallas_Texas
+48,491,Williamson_Texas
+17,137,Morgan_Illinois
+18,101,Martin_Indiana
+29,57,Dade_Missouri
+18,113,Noble_Indiana
+20,95,Kingman_Kansas
+21,129,Lee_Kentucky
+20,43,Doniphan_Kansas
+28,151,Washington_Mississippi
+21,103,Henry_Kentucky
+29,215,Texas_Missouri
+35,51,Sierra_New Mexico
+30,33,Garfield_Montana
+39,141,Ross_Ohio
+35,28,Los Alamos_New Mexico
+40,123,Pontotoc_Oklahoma
+45,75,Orangeburg_South Carolina
+46,67,Hutchinson_South Dakota
+47,149,Rutherford_Tennessee
+51,173,Smyth_Virginia
+48,131,Duval_Texas
+48,465,Val Verde_Texas
+49,13,Duchesne_Utah
+49,23,Juab_Utah
+55,111,Sauk_Wisconsin
+1,79,Lawrence_Alabama
+1,85,Lowndes_Alabama
+51,91,Highland_Virginia
+53,41,Lewis_Washington
+18,103,Miami_Indiana
+18,159,Tipton_Indiana
+18,139,Rush_Indiana
+48,39,Brazoria_Texas
+48,245,Jefferson_Texas
+6,105,Trinity_California
+8,27,Custer_Colorado
+13,79,Crawford_Georgia
+16,23,Butte_Idaho
+16,85,Valley_Idaho
+33,13,Merrimack_New Hampshire
+28,71,Lafayette_Mississippi
+20,145,Pawnee_Kansas
+20,29,Cloud_Kansas
+20,111,Lyon_Kansas
+21,169,Metcalfe_Kentucky
+29,139,Montgomery_Missouri
+22,59,La Salle_Louisiana
+29,77,Greene_Missouri
+53,61,Snohomish_Washington
+51,149,Prince George_Virginia
+55,107,Rusk_Wisconsin
+55,31,Douglas_Wisconsin
+54,13,Calhoun_West Virginia
+56,7,Carbon_Wyoming
+34,33,Salem_New Jersey
+8,61,Kiowa_Colorado
+26,89,Leelanau_Michigan
+27,117,Pipestone_Minnesota
+39,39,Defiance_Ohio
+37,191,Wayne_North Carolina
+21,157,Marshall_Kentucky
+21,177,Muhlenberg_Kentucky
+40,53,Grant_Oklahoma
+13,175,Laurens_Georgia
+21,203,Rockcastle_Kentucky
+51,750,Radford_Virginia
+46,105,Perkins_South Dakota
+41,23,Grant_Oregon
+13,177,Lee_Georgia
+29,113,Lincoln_Missouri
+1,49,DeKalb_Alabama
+5,15,Carroll_Arkansas
+5,41,Desha_Arkansas
+8,17,Cheyenne_Colorado
+12,85,Martin_Florida
+12,31,Duval_Florida
+48,455,Trinity_Texas
+48,373,Polk_Texas
+55,139,Winnebago_Wisconsin
+48,77,Clay_Texas
+55,133,Waukesha_Wisconsin
+51,650,Hampton_Virginia
+55,47,Green Lake_Wisconsin
+53,11,Clark_Washington
+26,155,Shiawassee_Michigan
+8,23,Costilla_Colorado
+27,81,Lincoln_Minnesota
+37,119,Mecklenburg_North Carolina
+27,35,Crow Wing_Minnesota
+28,127,Simpson_Mississippi
+13,7,Baker_Georgia
+21,3,Allen_Kentucky
+21,39,Carlisle_Kentucky
+29,45,Clark_Missouri
+22,9,Avoyelles_Louisiana
+31,77,Greeley_Nebraska
+23,25,Somerset_Maine
+5,125,Saline_Arkansas
+44,7,Providence_Rhode Island
+48,163,Frio_Texas
+20,181,Sherman_Kansas
+1,23,Choctaw_Alabama
+42,49,Erie_Pennsylvania
+51,620,Franklin City_Virginia
+1,97,Mobile_Alabama
+4,5,Coconino_Arizona
+6,111,Ventura_California
+8,81,Moffat_Colorado
+11,1,District of Columbia_District of Columbia
+17,59,Gallatin_Illinois
+22,31,De Soto_Louisiana
+23,27,Waldo_Maine
+24,31,Montgomery_Maryland
+25,3,Berkshire_Massachusetts
+27,167,Wilkin_Minnesota
+29,5,Atchison_Missouri
+31,131,Otoe_Nebraska
+33,3,Carroll_New Hampshire
+34,11,Cumberland_New Jersey
+30,57,Madison_Montana
+34,5,Burlington_New Jersey
+36,103,Suffolk_New York
+1,121,Talladega_Alabama
+46,127,Union_South Dakota
+51,13,Arlington_Virginia
+53,29,Island_Washington
+46,23,Charles Mix_South Dakota
+2,230,Skagway_Alaska
+31,81,Hamilton_Nebraska
+17,143,Peoria_Illinois
+17,113,McLean_Illinois
+20,171,Scott_Kansas
+20,59,Franklin_Kansas
+34,17,Hudson_New Jersey
+21,143,Lyon_Kentucky
+21,233,Webster_Kentucky
+21,209,Scott_Kentucky
+21,185,Oldham_Kentucky
+21,77,Gallatin_Kentucky
+26,125,Oakland_Michigan
+28,65,Jefferson Davis_Mississippi
+21,111,Jefferson_Kentucky
+22,13,Bienville_Louisiana
+30,13,Cascade_Montana
+35,47,San Miguel_New Mexico
+37,151,Randolph_North Carolina
+31,99,Kearney_Nebraska
+40,63,Hughes_Oklahoma
+42,99,Perry_Pennsylvania
+42,11,Berks_Pennsylvania
+45,15,Berkeley_South Carolina
+51,107,Loudoun_Virginia
+48,149,Fayette_Texas
+48,81,Coke_Texas
+48,299,Llano_Texas
+48,363,Palo Pinto_Texas
+49,55,Wayne_Utah
+31,45,Dawes_Nebraska
+42,63,Indiana_Pennsylvania
+48,247,Jim Hogg_Texas
+41,47,Marion_Oregon
+42,67,Juniata_Pennsylvania
+18,145,Shelby_Indiana
+29,95,Jackson_Missouri
+29,221,Washington_Missouri
+29,105,Laclede_Missouri
+42,81,Lycoming_Pennsylvania
+29,121,Macon_Missouri
+22,117,Washington_Louisiana
+51,147,Prince Edward_Virginia
+42,91,Montgomery_Pennsylvania
+27,163,Washington_Minnesota
+51,153,Prince William_Virginia
+5,1,Arkansas_Arkansas
+24,33,Prince George's_Maryland
+34,15,Gloucester_New Jersey
+37,199,Yancey_North Carolina
+39,19,Carroll_Ohio
+5,11,Bradley_Arkansas
+12,9,Brevard_Florida
+6,25,Imperial_California
+47,117,Marshall_Tennessee
+16,9,Benewah_Idaho
+40,45,Ellis_Oklahoma
+40,59,Harper_Oklahoma
+16,13,Blaine_Idaho
+30,95,Stillwater_Montana
+13,1,Appling_Georgia
+39,1,Adams_Ohio
+40,153,Woodward_Oklahoma
+31,121,Merrick_Nebraska
+5,133,Sevier_Arkansas
+45,71,Newberry_South Carolina
+46,125,Turner_South Dakota
+47,27,Clay_Tennessee
+47,25,Claiborne_Tennessee
+48,415,Scurry_Texas
+40,23,Choctaw_Oklahoma
+38,67,Pembina_North Dakota
+40,41,Delaware_Oklahoma
+41,43,Linn_Oregon
+50,9,Essex_Vermont
+29,201,Scott_Missouri
+51,99,King George_Virginia
+53,25,Grant_Washington
+51,105,Lee_Virginia
+53,59,Skamania_Washington
+29,41,Chariton_Missouri
+50,11,Franklin_Vermont
+41,17,Deschutes_Oregon
+29,131,Miller_Missouri
+41,25,Harney_Oregon
+29,55,Crawford_Missouri
+21,171,Monroe_Kentucky
+16,31,Cassia_Idaho
+16,17,Bonner_Idaho
+18,115,Ohio_Indiana
+20,187,Stanton_Kansas
+21,191,Pendleton_Kentucky
+24,19,Dorchester_Maryland
+26,109,Menominee_Michigan
+27,43,Faribault_Minnesota
+28,5,Amite_Mississippi
+29,143,New Madrid_Missouri
+34,7,Camden_New Jersey
+39,123,Ottawa_Ohio
+37,3,Alexander_North Carolina
+39,171,Williams_Ohio
+45,49,Hampton_South Carolina
+45,37,Edgefield_South Carolina
+48,205,Hartley_Texas
+51,199,York_Virginia
+53,57,Skagit_Washington
+47,147,Robertson_Tennessee
+55,23,Crawford_Wisconsin
+1,55,Etowah_Alabama
+1,57,Fayette_Alabama
+4,7,Gila_Arizona
+8,53,Hinsdale_Colorado
+8,31,Denver_Colorado
+12,119,Sumter_Florida
+13,195,Madison_Georgia
+17,201,Winnebago_Illinois
+24,41,Talbot_Maryland
+20,169,Saline_Kansas
+17,193,White_Illinois
+24,510,Baltimore City_Maryland
+20,17,Chase_Kansas
+48,87,Collingsworth_Texas
+41,67,Washington_Oregon
+30,69,Petroleum_Montana
+27,107,Norman_Minnesota
+30,97,Sweet Grass_Montana
+30,93,Silver Bow_Montana
+41,39,Lane_Oregon
+25,17,Middlesex_Massachusetts
+41,29,Jackson_Oregon
+50,27,Windsor_Vermont
+42,55,Franklin_Pennsylvania
+51,159,Richmond County_Virginia
+28,55,Issaquena_Mississippi
+23,15,Lincoln_Maine
+13,115,Floyd_Georgia
+16,39,Elmore_Idaho
+47,33,Crockett_Tennessee
+50,25,Windham_Vermont
+25,5,Bristol_Massachusetts
+13,129,Gordon_Georgia
+16,43,Fremont_Idaho
+17,145,Perry_Illinois
+31,31,Cherry_Nebraska
+21,151,Madison_Kentucky
+29,73,Gasconade_Missouri
+12,129,Wakulla_Florida
+13,287,Turner_Georgia
+13,315,Wilcox_Georgia
+15,1,Hawaii_Hawaii
+28,1,Adams_Mississippi
+28,11,Bolivar_Mississippi
+46,45,Edmunds_South Dakota
+46,89,McPherson_South Dakota
+28,39,George_Mississippi
+28,41,Greene_Mississippi
+28,47,Harrison_Mississippi
+13,131,Grady_Georgia
+46,63,Harding_South Dakota
+46,75,Jones_South Dakota
+49,37,San Juan_Utah
+17,81,Jefferson_Illinois
+47,7,Bledsoe_Tennessee
+35,35,Otero_New Mexico
+38,57,Mercer_North Dakota
+18,127,Porter_Indiana
+35,53,Socorro_New Mexico
+21,47,Christian_Kentucky
+46,31,Corson_South Dakota
+16,47,Gooding_Idaho
+47,61,Grundy_Tennessee
+37,1,Alamance_North Carolina
+37,7,Anson_North Carolina
+21,59,Daviess_Kentucky
+6,5,Amador_California
+47,49,Fentress_Tennessee
+53,53,Pierce_Washington
+22,15,Bossier_Louisiana
+35,3,Catron_New Mexico
+21,75,Fulton_Kentucky
+35,57,Torrance_New Mexico
+19,159,Ringgold_Iowa
+16,45,Gem_Idaho
+16,79,Shoshone_Idaho
+37,65,Edgecombe_North Carolina
+16,83,Twin Falls_Idaho
+37,195,Wilson_North Carolina
+24,17,Charles_Maryland
+16,35,Clearwater_Idaho
+47,121,Meigs_Tennessee
+47,143,Rhea_Tennessee
+47,69,Hardeman_Tennessee
+17,131,Mercer_Illinois
+24,21,Frederick_Maryland
+16,87,Washington_Idaho
+17,151,Pope_Illinois
+24,25,Harford_Maryland
+46,41,Dewey_South Dakota
+46,55,Haakon_South Dakota
+17,173,Shelby_Illinois
+46,69,Hyde_South Dakota
+22,119,Webster_Louisiana
+47,111,Macon_Tennessee
+46,71,Jackson_South Dakota
+26,23,Branch_Michigan
+24,39,Somerset_Maryland
+22,19,Calcasieu_Louisiana
+6,113,Yolo_California
+12,55,Highlands_Florida
+15,7,Kauai_Hawaii
+20,85,Jackson_Kansas
+21,43,Carter_Kentucky
+48,433,Stonewall_Texas
+55,81,Monroe_Wisconsin
+55,95,Polk_Wisconsin
+18,29,Dearborn_Indiana
+20,147,Phillips_Kansas
+21,135,Lewis_Kentucky
+30,25,Fallon_Montana
+4,1,Apache_Arizona
+27,19,Carver_Minnesota
+25,9,Essex_Massachusetts
+45,1,Abbeville_South Carolina
+42,13,Blair_Pennsylvania
+47,53,Gibson_Tennessee
+48,1,Anderson_Texas
+45,5,Allendale_South Carolina
+48,3,Andrews_Texas
+47,9,Blount_Tennessee
+45,7,Anderson_South Carolina
+45,9,Bamberg_South Carolina
+47,19,Carter_Tennessee
+48,7,Aransas_Texas
+46,115,Spink_South Dakota
+50,5,Caledonia_Vermont
+50,15,Lamoille_Vermont
+55,101,Racine_Wisconsin
+51,23,Botetourt_Virginia
+50,23,Washington_Vermont
+50,13,Grand Isle_Vermont
+31,173,Thurston_Nebraska
+32,1,Churchill_Nevada
+32,27,Pershing_Nevada
+55,29,Door_Wisconsin
+48,405,San Augustine_Texas
+30,67,Park_Montana
+13,211,Morgan_Georgia
+28,27,Coahoma_Mississippi
+38,5,Benson_North Dakota
+38,81,Sargent_North Dakota
+2,180,Nome_Alaska
+22,63,Livingston_Louisiana
+21,205,Rowan_Kentucky
+21,147,McCreary_Kentucky
+45,45,Greenville_South Carolina
+51,19,Bedford County_Virginia
+35,11,De Baca_New Mexico
+13,241,Rabun_Georgia
+31,125,Nance_Nebraska
+53,35,Kitsap_Washington
+41,5,Clackamas_Oregon
+20,11,Bourbon_Kansas
+26,103,Marquette_Michigan
+35,45,San Juan_New Mexico
+48,75,Childress_Texas
+16,67,Minidoka_Idaho
+35,17,Grant_New Mexico
+42,123,Warren_Pennsylvania
+8,37,Eagle_Colorado
+21,159,Martin_Kentucky
+17,63,Grundy_Illinois
+13,257,Stephens_Georgia
+9,3,Hartford_Connecticut
+19,145,Page_Iowa
+26,157,Tuscola_Michigan
+37,173,Swain_North Carolina
+47,13,Campbell_Tennessee
+47,97,Lauderdale_Tennessee
+2,20,Anchorage_Alaska
+13,135,Gwinnett_Georgia
+16,5,Bannock_Idaho
+36,43,Herkimer_New York
+26,65,Ingham_Michigan
+25,23,Plymouth_Massachusetts
+46,135,Yankton_South Dakota
+48,13,Atascosa_Texas
+48,15,Austin_Texas
+48,19,Bandera_Texas
+47,57,Grainger_Tennessee
+42,23,Cameron_Pennsylvania
+47,59,Greene_Tennessee
+2,105,Hoonah-Angoon_Alaska
+46,33,Custer_South Dakota
+2,90,Fairbanks North Star_Alaska
+16,29,Caribou_Idaho
+13,185,Lowndes_Georgia
+13,107,Emanuel_Georgia
+13,263,Talbot_Georgia
+39,15,Brown_Ohio
+13,229,Pierce_Georgia
+15,5,Kalawao_Hawaii
+15,9,Maui_Hawaii
+41,51,Multnomah_Oregon
+54,109,Wyoming_West Virginia
+34,37,Sussex_New Jersey
+1,7,Bibb_Alabama
+29,111,Lewis_Missouri
+5,73,Lafayette_Arkansas
+19,155,Pottawattamie_Iowa
+26,115,Monroe_Michigan
+29,183,St. Charles_Missouri
+39,7,Ashtabula_Ohio
+45,43,Georgetown_South Carolina
+6,47,Merced_California
+19,183,Washington_Iowa
+31,137,Phelps_Nebraska
+28,123,Scott_Mississippi
+40,31,Comanche_Oklahoma
+51,7,Amelia_Virginia
+50,17,Orange_Vermont
+17,93,Kendall_Illinois
+10,1,Kent_Delaware
+29,53,Cooper_Missouri
+22,123,West Carroll_Louisiana
+16,25,Camas_Idaho
+55,137,Waushara_Wisconsin
+17,15,Carroll_Illinois
+51,113,Madison_Virginia
+25,13,Hampden_Massachusetts
+51,119,Middlesex_Virginia
+38,77,Richland_North Dakota
+47,71,Hardin_Tennessee
+45,27,Clarendon_South Carolina
+46,61,Hanson_South Dakota
+46,77,Kingsbury_South Dakota
+45,31,Darlington_South Carolina
+45,33,Dillon_South Carolina
+47,85,Humphreys_Tennessee
+47,89,Jefferson_Tennessee
+27,69,Kittson_Minnesota
+42,35,Clinton_Pennsylvania
+49,21,Iron_Utah
+29,27,Callaway_Missouri
+47,93,Knox_Tennessee
+51,760,Richmond City_Virginia
+33,11,Hillsborough_New Hampshire
+49,5,Cache_Utah
+47,91,Johnson_Tennessee
+12,29,Dixie_Florida
+27,21,Cass_Minnesota
+27,57,Hubbard_Minnesota
+27,71,Koochiching_Minnesota
+56,35,Sublette_Wyoming
+30,43,Jefferson_Montana
+48,453,Travis_Texas
+48,479,Webb_Texas
+16,73,Owyhee_Idaho
+25,15,Hampshire_Massachusetts
+5,13,Calhoun_Arkansas
+5,145,White_Arkansas
+13,293,Upson_Georgia
+13,125,Glascock_Georgia
+22,45,Iberia_Louisiana
+29,35,Carter_Missouri
+5,89,Marion_Arkansas
+48,327,Menard_Texas
+8,41,El Paso_Colorado
+6,81,San Mateo_California
+18,61,Harrison_Indiana
+33,5,Cheshire_New Hampshire
+38,25,Dunn_North Dakota
+45,73,Oconee_South Carolina
+13,159,Jasper_Georgia
+21,45,Casey_Kentucky
+29,75,Gentry_Missouri
+47,37,Davidson_Tennessee
+2,240,Southeast Fairbanks_Alaska
+6,101,Sutter_California
+20,67,Grant_Kansas
+29,65,Dent_Missouri
+34,3,Bergen_New Jersey
+48,169,Garza_Texas
+20,19,Chautauqua_Kansas
+5,71,Johnson_Arkansas
+36,91,Saratoga_New York
+5,19,Clark_Arkansas
+34,35,Somerset_New Jersey
+45,81,Saluda_South Carolina
+5,93,Mississippi_Arkansas
+13,163,Jefferson_Georgia
+56,13,Fremont_Wyoming
+46,102,Oglala Lakota_South Dakota
+37,107,Lenoir_North Carolina
+49,27,Millard_Utah
+30,77,Powell_Montana
+48,377,Presidio_Texas
+29,33,Carroll_Missouri
+31,111,Lincoln_Nebraska
+46,43,Douglas_South Dakota
+18,85,Kosciusko_Indiana
+6,17,El Dorado_California
+17,21,Christian_Illinois
+19,187,Webster_Iowa
+47,95,Lake_Tennessee
+26,5,Allegan_Michigan
+45,57,Lancaster_South Carolina
+4,27,Yuma_Arizona
+19,119,Lyon_Iowa
+29,133,Mississippi_Missouri
+53,51,Pend Oreille_Washington
+30,73,Pondera_Montana
+32,19,Lyon_Nevada
+37,47,Columbus_North Carolina
+38,101,Ward_North Dakota
+26,63,Huron_Michigan
+39,97,Madison_Ohio
+23,29,Washington_Maine
+38,55,McLean_North Dakota
+51,145,Powhatan_Virginia
+30,17,Custer_Montana
+48,71,Chambers_Texas
+6,85,Santa Clara_California
+19,195,Worth_Iowa
+21,139,Livingston_Kentucky
+21,145,McCracken_Kentucky
+49,35,Salt Lake_Utah
+27,47,Freeborn_Minnesota
+21,221,Trigg_Kentucky
+25,1,Barnstable_Massachusetts
+41,49,Morrow_Oregon
+21,7,Ballard_Kentucky
+27,115,Pine_Minnesota
+13,51,Chatham_Georgia
+31,103,Keya Paha_Nebraska
+42,47,Elk_Pennsylvania
+8,21,Conejos_Colorado
+25,25,Suffolk_Massachusetts
+18,21,Clay_Indiana
+38,105,Williams_North Dakota
+5,27,Columbia_Arkansas
+31,29,Chase_Nebraska
+42,3,Allegheny_Pennsylvania
+18,129,Posey_Indiana
+27,45,Fillmore_Minnesota
+41,19,Douglas_Oregon
+12,33,Escambia_Florida
+6,63,Plumas_California
+29,179,Reynolds_Missouri
+41,61,Union_Oregon
+48,409,San Patricio_Texas
+30,51,Liberty_Montana
+39,127,Perry_Ohio
+45,13,Beaufort_South Carolina
+16,65,Madison_Idaho
+18,59,Hancock_Indiana
+22,109,Terrebonne_Louisiana
+30,27,Fergus_Montana
+42,53,Forest_Pennsylvania
+47,79,Henry_Tennessee
+42,25,Carbon_Pennsylvania
+47,163,Sullivan_Tennessee
+31,105,Kimball_Nebraska
+50,1,Addison_Vermont
+53,77,Yakima_Washington
+56,5,Campbell_Wyoming
+8,55,Huerfano_Colorado
+40,69,Johnston_Oklahoma
+1,83,Limestone_Alabama
+20,25,Clark_Kansas
+29,31,Cape Girardeau_Missouri
+54,69,Ohio_West Virginia
+6,61,Placer_California
+16,53,Jerome_Idaho
+13,33,Burke_Georgia
+13,37,Calhoun_Georgia
+51,81,Greensville_Virginia
+8,115,Sedgwick_Colorado
+13,119,Franklin_Georgia
+36,71,Orange_New York
+40,143,Tulsa_Oklahoma
+5,3,Ashley_Arkansas
+47,181,Wayne_Tennessee
+45,65,McCormick_South Carolina
+45,85,Sumter_South Carolina
+13,139,Hall_Georgia
+13,153,Houston_Georgia
+39,63,Hancock_Ohio
+13,239,Quitman_Georgia
+48,303,Lubbock_Texas
+47,129,Morgan_Tennessee
+54,23,Grant_West Virginia
+17,73,Henry_Illinois
+21,65,Estill_Kentucky
+39,137,Putnam_Ohio
+47,73,Hawkins_Tennessee
+48,109,Culberson_Texas
+30,1,Beaverhead_Montana
+54,41,Lewis_West Virginia
+54,7,Braxton_West Virginia
+51,17,Bath_Virginia
+41,7,Clatsop_Oregon
+13,205,Mitchell_Georgia
+53,75,Whitman_Washington
+46,21,Campbell_South Dakota
+40,81,Lincoln_Oklahoma
+40,151,Woods_Oklahoma
+35,55,Taos_New Mexico
+40,85,Love_Oklahoma
+23,11,Kennebec_Maine
+13,93,Dooly_Georgia
+13,39,Camden_Georgia
+27,145,Stearns_Minnesota
+37,11,Avery_North Carolina
+2,50,Bethel_Alaska
+16,59,Lemhi_Idaho
+22,81,Red River_Louisiana
+37,101,Johnston_North Carolina
+17,155,Putnam_Illinois
+17,189,Washington_Illinois
+47,137,Pickett_Tennessee
+23,23,Sagadahoc_Maine
+30,23,Deer Lodge_Montana
+30,53,Lincoln_Montana
+25,21,Norfolk_Massachusetts
+34,41,Warren_New Jersey
+5,107,Phillips_Arkansas
+2,170,Matanuska-Susitna_Alaska
+46,109,Roberts_South Dakota
+39,61,Hamilton_Ohio
+49,19,Grand_Utah
+53,47,Okanogan_Washington
+49,29,Morgan_Utah
+31,107,Knox_Nebraska
+32,15,Lander_Nevada
+13,271,Telfair_Georgia
+30,109,Wibaux_Montana
+22,53,Jefferson Davis_Louisiana
+29,11,Barton_Missouri
+51,163,Rockbridge_Virginia
+55,59,Kenosha_Wisconsin
+33,7,Coos_New Hampshire
+37,23,Burke_North Carolina
+29,186,Ste. Genevieve_Missouri
+38,73,Ransom_North Dakota
+36,83,Rensselaer_New York
+48,197,Hardeman_Texas
+5,69,Jefferson_Arkansas
+29,510,St. Louis City_Missouri
+22,101,St. Mary_Louisiana
+1,51,Elmore_Alabama
+37,61,Duplin_North Carolina
+22,69,Natchitoches_Louisiana
+25,7,Dukes_Massachusetts
+41,35,Klamath_Oregon
+17,75,Iroquois_Illinois
+48,271,Kinney_Texas
+1,61,Geneva_Alabama
+51,1,Accomack_Virginia
+19,79,Hamilton_Iowa
+51,51,Dickenson_Virginia
+13,45,Carroll_Georgia
+8,111,San Juan_Colorado
+12,101,Pasco_Florida
+13,109,Evans_Georgia
+36,57,Montgomery_New York
+6,69,San Benito_California
+13,49,Charlton_Georgia
+29,71,Franklin_Missouri
+16,63,Lincoln_Idaho
+17,97,Lake_Illinois
+47,107,McMinn_Tennessee
+33,1,Belknap_New Hampshire
+38,31,Foster_North Dakota
+35,37,Quay_New Mexico
+2,275,Wrangell_Alaska
+39,87,Lawrence_Ohio
+38,103,Wells_North Dakota
+36,53,Madison_New York
+51,9,Amherst_Virginia
+40,99,Murray_Oklahoma
+1,133,Winston_Alabama
+54,43,Lincoln_West Virginia
+1,129,Washington_Alabama
+30,55,McCone_Montana
+37,133,Onslow_North Carolina
+47,123,Monroe_Tennessee
+53,33,King_Washington
+39,95,Lucas_Ohio
+6,33,Lake_California
+28,113,Pike_Mississippi
+46,129,Walworth_South Dakota
+36,85,Richmond_New York
+5,79,Lincoln_Arkansas
+37,115,Madison_North Carolina
+40,9,Beckham_Oklahoma
+10,5,Sussex_Delaware
+48,105,Crockett_Texas
+37,155,Robeson_North Carolina
+27,23,Chippewa_Minnesota
+49,39,Sanpete_Utah
+21,183,Ohio_Kentucky
+48,365,Panola_Texas
+48,137,Edwards_Texas
+21,27,Breckinridge_Kentucky
+45,11,Barnwell_South Carolina
+47,39,Decatur_Tennessee
+48,147,Fannin_Texas
+32,13,Humboldt_Nevada
+19,177,Van Buren_Iowa
+1,5,Barbour_Alabama
+56,43,Washakie_Wyoming
+20,167,Russell_Kansas
+38,11,Bowman_North Dakota
+19,163,Scott_Iowa
+1,71,Jackson_Alabama
+17,141,Ogle_Illinois
+6,45,Mendocino_California
+27,135,Roseau_Minnesota
+29,37,Cass_Missouri
+27,169,Winona_Minnesota
+42,27,Centre_Pennsylvania
+30,9,Carbon_Montana
+40,61,Haskell_Oklahoma
+40,77,Latimer_Oklahoma
+51,139,Page_Virginia
+39,9,Athens_Ohio
+29,93,Iron_Missouri
+6,55,Napa_California
+30,29,Flathead_Montana
+48,301,Loving_Texas
+8,1,Adams_Colorado
+22,67,Morehouse_Louisiana
+51,735,Poquoson_Virginia
+29,157,Perry_Missouri
+36,119,Westchester_New York
+22,87,St. Bernard_Louisiana
+48,305,Lynn_Texas
+2,150,Kodiak Island_Alaska
+2,164,Lake and Peninsula_Alaska
+51,171,Shenandoah_Virginia
+28,79,Leake_Mississippi
+48,157,Fort Bend_Texas
+51,5,Alleghany_Virginia
+18,7,Benton_Indiana
+19,21,Buena Vista_Iowa
+21,227,Warren_Kentucky
+56,45,Weston_Wyoming
+13,299,Ware_Georgia
+37,43,Clay_North Carolina
+53,13,Columbia_Washington
+6,7,Butte_California
+37,123,Montgomery_North Carolina
+48,121,Denton_Texas
+55,83,Oconto_Wisconsin
+13,5,Bacon_Georgia
+47,109,McNairy_Tennessee
+1,67,Henry_Alabama
+19,141,O'Brien_Iowa
+13,199,Meriwether_Georgia
+13,207,Monroe_Georgia
+39,59,Guernsey_Ohio
+13,215,Muscogee_Georgia
+13,221,Oglethorpe_Georgia
+39,17,Butler_Ohio
+12,86,Miami-Dade_Florida
+13,259,Stewart_Georgia
+48,505,Zapata_Texas
+39,107,Mercer_Ohio
+9,11,New London_Connecticut
+5,149,Yell_Arkansas
+1,17,Chambers_Alabama
+8,69,Larimer_Colorado
+18,173,Warrick_Indiana
+21,123,Larue_Kentucky
+48,153,Floyd_Texas
+12,13,Calhoun_Florida
+21,195,Pike_Kentucky
+22,33,East Baton Rouge_Louisiana
+37,37,Chatham_North Carolina
+46,85,Lyman_South Dakota
+54,17,Doddridge_West Virginia
+55,55,Jefferson_Wisconsin
+18,155,Switzerland_Indiana
+20,159,Rice_Kansas
+37,67,Forsyth_North Carolina
+5,123,St. Francis_Arkansas
+48,267,Kimble_Texas
+12,21,Collier_Florida
+17,33,Crawford_Illinois
+30,105,Valley_Montana
+42,39,Crawford_Pennsylvania
+47,139,Polk_Tennessee
+27,53,Hennepin_Minnesota
+26,149,St. Joseph_Michigan
+26,159,Van Buren_Michigan
+21,225,Union_Kentucky
+17,31,Cook_Illinois
+17,43,DuPage_Illinois
+17,65,Hamilton_Illinois
+27,9,Benton_Minnesota
+37,35,Catawba_North Carolina
+37,57,Davidson_North Carolina
+21,23,Bracken_Kentucky
+21,17,Bourbon_Kentucky
+23,3,Aroostook_Maine
+13,25,Brantley_Georgia
+22,35,East Carroll_Louisiana
+1,19,Cherokee_Alabama
+26,121,Muskegon_Michigan
+31,147,Richardson_Nebraska
+51,550,Chesapeake_Virginia
+5,61,Howard_Arkansas
+21,61,Edmonson_Kentucky
+27,129,Renville_Minnesota
+40,117,Pawnee_Oklahoma
+48,35,Bosque_Texas
+48,457,Tyler_Texas
+54,57,Mineral_West Virginia
+18,51,Gibson_Indiana
+13,29,Bryan_Georgia
+1,41,Crenshaw_Alabama
+12,99,Palm Beach_Florida
+8,75,Logan_Colorado
+13,31,Bulloch_Georgia
+12,87,Monroe_Florida
+20,139,Osage_Kansas
+2,158,Kusilvak_Alaska
+55,51,Iron_Wisconsin
+1,63,Greene_Alabama
+1,89,Madison_Alabama
+28,119,Quitman_Mississippi
+28,143,Tunica_Mississippi
+29,171,Putnam_Missouri
+54,85,Ritchie_West Virginia
+30,19,Daniels_Montana
+30,79,Prairie_Montana
+30,85,Roosevelt_Montana
+51,21,Bland_Virginia
+51,15,Augusta_Virginia
+54,47,McDowell_West Virginia
+54,91,Taylor_West Virginia
+54,103,Wetzel_West Virginia
+47,11,Bradley_Tennessee
+8,117,Summit_Colorado
+48,173,Glasscock_Texas
+8,35,Douglas_Colorado
+27,13,Blue Earth_Minnesota
+27,41,Douglas_Minnesota
+21,31,Butler_Kentucky
+49,47,Uintah_Utah
+48,323,Maverick_Texas
+12,121,Suwannee_Florida
+51,127,New Kent_Virginia
+53,27,Grays Harbor_Washington
+12,109,St. Johns_Florida
+53,31,Jefferson_Washington
+53,67,Thurston_Washington
+53,73,Whatcom_Washington
+55,9,Brown_Wisconsin
+13,313,Whitfield_Georgia
+50,3,Bennington_Vermont
+13,123,Gilmer_Georgia
+54,35,Jackson_West Virginia
+20,131,Nemaha_Kansas
+17,179,Tazewell_Illinois
+41,31,Jefferson_Oregon
+49,9,Daggett_Utah
+23,31,York_Maine
+32,21,Mineral_Nevada
+42,51,Fayette_Pennsylvania
+12,105,Polk_Florida
+18,27,Daviess_Indiana
+21,81,Grant_Kentucky
+37,135,Orange_North Carolina
+42,21,Cambria_Pennsylvania
+53,45,Mason_Washington
+6,103,Tehama_California
+6,51,Mono_California
+18,109,Morgan_Indiana
+29,19,Boone_Missouri
+18,133,Putnam_Indiana
+19,57,Des Moines_Iowa
+51,161,Roanoke County_Virginia
+31,119,Madison_Nebraska
+29,69,Dunklin_Missouri
+37,5,Alleghany_North Carolina
+37,171,Surry_North Carolina
+30,39,Granite_Montana
+31,123,Morrill_Nebraska
+34,21,Mercer_New Jersey
+29,109,Lawrence_Missouri
+5,23,Cleburne_Arkansas
+48,61,Cameron_Texas
+22,89,St. Charles_Louisiana
+48,257,Kaufman_Texas
+36,65,Oneida_New York
+40,51,Grady_Oklahoma
+37,113,Macon_North Carolina
+36,39,Greene_New York
+40,17,Canadian_Oklahoma
+42,127,Wayne_Pennsylvania
+17,37,DeKalb_Illinois
+19,189,Winnebago_Iowa
+47,153,Sequatchie_Tennessee
+21,119,Knott_Kentucky
+26,59,Hillsdale_Michigan
+13,101,Echols_Georgia
+21,19,Boyd_Kentucky
+48,9,Archer_Texas
+46,81,Lawrence_South Dakota
+30,31,Gallatin_Montana
+39,175,Wyandot_Ohio
+34,9,Cape May_New Jersey
+27,89,Marshall_Minnesota
+12,123,Taylor_Florida
+42,33,Clearfield_Pennsylvania
+51,53,Dinwiddie_Virginia
+8,105,Rio Grande_Colorado
+40,109,Oklahoma_Oklahoma
+40,19,Carter_Oklahoma
+40,79,Le Flore_Oklahoma
+12,7,Bradford_Florida
+53,15,Cowlitz_Washington
+32,510,Carson City_Nevada
+37,39,Cherokee_North Carolina
+47,99,Lawrence_Tennessee
+8,43,Fremont_Colorado
+16,61,Lewis_Idaho
+21,165,Menifee_Kentucky
+22,127,Winn_Louisiana
+39,147,Seneca_Ohio
+40,27,Cleveland_Oklahoma
+51,530,Buena Vista_Virginia
+51,41,Chesterfield_Virginia
+18,89,Lake_Indiana
+26,41,Delta_Michigan
+20,149,Pottawatomie_Kansas
+30,47,Lake_Montana
+46,51,Grant_South Dakota
+38,51,McIntosh_North Dakota
+35,29,Luna_New Mexico
+26,29,Charlevoix_Michigan
+48,139,Ellis_Texas
+36,47,Kings_New York
+55,67,Langlade_Wisconsin
+13,117,Forsyth_Georgia
+41,45,Malheur_Oregon
+39,55,Geauga_Ohio
+22,23,Cameron_Louisiana
+21,71,Floyd_Kentucky
+19,133,Monona_Iowa
+48,351,Newton_Texas
+13,265,Taliaferro_Georgia
+13,267,Tattnall_Georgia
+13,281,Towns_Georgia
+21,125,Laurel_Kentucky
+47,157,Shelby_Tennessee
+26,61,Houghton_Michigan
+47,167,Tipton_Tennessee
+48,119,Delta_Texas
+20,191,Sumner_Kansas
+21,141,Logan_Kentucky
+48,123,DeWitt_Texas
+20,197,Wabaunsee_Kansas
+26,77,Kalamazoo_Michigan
+21,153,Magoffin_Kentucky
+49,11,Davis_Utah
+2,261,Valdez-Cordova_Alaska
+55,129,Washburn_Wisconsin
+21,231,Wayne_Kentucky
+26,75,Jackson_Michigan
+40,127,Pushmataha_Oklahoma
+48,277,Lamar_Texas
+6,57,Nevada_California
+31,15,Boyd_Nebraska
+46,91,Marshall_South Dakota
+13,181,Lincoln_Georgia
+26,19,Benzie_Michigan
+37,13,Beaufort_North Carolina
+13,69,Coffee_Georgia
+18,99,Marshall_Indiana
+22,97,St. Landry_Louisiana
+30,15,Chouteau_Montana
+50,7,Chittenden_Vermont
+37,121,Mitchell_North Carolina
+30,7,Broadwater_Montana
+39,133,Portage_Ohio
+51,67,Franklin County_Virginia
+41,27,Hood River_Oregon
+39,113,Montgomery_Ohio
+13,103,Effingham_Georgia
+53,5,Benton_Washington
+53,39,Klickitat_Washington
+45,47,Greenwood_South Carolina
+29,173,Ralls_Missouri
+56,1,Albany_Wyoming
+27,83,Lyon_Minnesota
+47,125,Montgomery_Tennessee
+49,17,Garfield_Utah
+51,11,Appomattox_Virginia
+19,35,Cherokee_Iowa
+21,85,Grayson_Kentucky
+22,113,Vermilion_Louisiana
+17,71,Henderson_Illinois
+1,117,Shelby_Alabama
+1,81,Lee_Alabama
+16,37,Custer_Idaho
+13,151,Henry_Georgia
+19,89,Howard_Iowa
+39,119,Muskingum_Ohio
+19,93,Ida_Iowa
+17,133,Monroe_Illinois
+19,97,Jackson_Iowa
+8,97,Pitkin_Colorado
+17,149,Pike_Illinois
+56,17,Hot Springs_Wyoming
+27,125,Red Lake_Minnesota
+5,103,Ouachita_Arkansas
+45,29,Colleton_South Carolina
+27,137,St. Louis_Minnesota
+39,93,Lorain_Ohio
+27,139,Scott_Minnesota
+28,19,Choctaw_Mississippi
+54,27,Hampshire_West Virginia
+12,79,Madison_Florida
+12,23,Columbia_Florida
+12,5,Bay_Florida
+22,111,Union_Louisiana
+21,211,Shelby_Kentucky
+51,185,Tazewell_Virginia
+18,125,Pike_Indiana
+37,49,Craven_North Carolina
+26,47,Emmet_Michigan
+20,87,Jefferson_Kansas
+49,43,Summit_Utah
+20,161,Riley_Kansas
+27,77,Lake of the Woods_Minnesota
+22,47,Iberville_Louisiana
+48,265,Kerr_Texas
+34,27,Morris_New Jersey
+13,95,Dougherty_Georgia
+31,3,Antelope_Nebraska
+47,135,Perry_Tennessee
+29,7,Audrain_Missouri
+47,155,Sevier_Tennessee
+30,45,Judith Basin_Montana
+51,29,Buckingham_Virginia
+2,188,Northwest Arctic_Alaska
+27,7,Beltrami_Minnesota
+27,1,Aitkin_Minnesota
+20,185,Stafford_Kansas
+40,131,Rogers_Oklahoma
+22,5,Ascension_Louisiana
+26,31,Cheboygan_Michigan
+8,99,Prowers_Colorado
+12,97,Osceola_Florida
+51,73,Gloucester_Virginia
+37,189,Watauga_North Carolina
+45,55,Kershaw_South Carolina
+16,77,Power_Idaho
+40,21,Cherokee_Oklahoma
+48,419,Shelby_Texas
+55,115,Shawano_Wisconsin
+6,31,Kings_California
+6,83,Santa Barbara_California
+16,11,Bingham_Idaho
+27,87,Mahnomen_Minnesota
+20,117,Marshall_Kansas
+55,1,Adams_Wisconsin
+54,39,Kanawha_West Virginia
+28,91,Marion_Mississippi
+31,63,Frontier_Nebraska
+31,65,Furnas_Nebraska
+1,115,St. Clair_Alabama
+42,89,Monroe_Pennsylvania
+36,41,Hamilton_New York
+48,449,Titus_Texas
+42,103,Pike_Pennsylvania
+48,467,Van Zandt_Texas
+36,113,Warren_New York
+31,73,Gosper_Nebraska
+54,75,Pocahontas_West Virginia
+26,135,Oscoda_Michigan
+55,17,Chippewa_Wisconsin
+6,109,Tuolumne_California
+55,121,Trempealeau_Wisconsin
+5,137,Stone_Arkansas
+41,15,Curry_Oregon
+5,47,Franklin_Arkansas
+6,37,Los Angeles_California
+25,19,Nantucket_Massachusetts
+34,39,Union_New Jersey
+18,75,Jay_Indiana
+5,31,Craighead_Arkansas
+8,67,La Plata_Colorado
+28,95,Monroe_Mississippi
+39,145,Scioto_Ohio
+51,117,Mecklenburg_Virginia
+1,15,Calhoun_Alabama
+21,25,Breathitt_Kentucky
+20,109,Logan_Kansas
+30,87,Rosebud_Montana
+31,5,Arthur_Nebraska
+45,35,Dorchester_South Carolina
+48,333,Mills_Texas
+18,1,Adams_Indiana
+18,17,Cass_Indiana
+32,23,Nye_Nevada
+30,107,Wheatland_Montana
+30,11,Carter_Montana
+20,137,Norton_Kansas
+37,21,Buncombe_North Carolina
+31,157,Scotts Bluff_Nebraska
+42,107,Schuylkill_Pennsylvania
+33,9,Grafton_New Hampshire
+39,75,Holmes_Ohio
+2,195,Petersburg_Alaska
+5,39,Dallas_Arkansas
+37,111,McDowell_North Carolina
+42,109,Snyder_Pennsylvania
+36,59,Nassau_New York
+51,630,Fredericksburg_Virginia
+29,149,Oregon_Missouri
+36,63,Niagara_New York
+51,800,Suffolk_Virginia
+6,67,Sacramento_California
+19,113,Linn_Iowa
+21,133,Letcher_Kentucky
+30,111,Yellowstone_Montana
+28,145,Union_Mississippi
+48,97,Cooke_Texas
+48,325,Medina_Texas
+26,83,Keweenaw_Michigan
+27,55,Houston_Minnesota
+27,63,Jackson_Minnesota
+21,173,Montgomery_Kentucky
+21,175,Morgan_Kentucky
+54,89,Summers_West Virginia
+26,153,Schoolcraft_Michigan
+42,101,Philadelphia_Pennsylvania
+1,73,Jefferson_Alabama
+22,21,Caldwell_Louisiana
+29,177,Ray_Missouri
+45,19,Charleston_South Carolina
+48,417,Shackelford_Texas
+17,159,Richland_Illinois
+13,253,Seminole_Georgia
+40,67,Jefferson_Oklahoma
+30,63,Missoula_Montana
+18,5,Bartholomew_Indiana
+20,7,Barber_Kansas
+17,87,Johnson_Illinois
+42,87,Mifflin_Pennsylvania
+18,77,Jefferson_Indiana
+51,45,Craig_Virginia
+39,125,Paulding_Ohio
+13,3,Atkinson_Georgia
+51,125,Nelson_Virginia
+12,131,Walton_Florida
+31,57,Dundy_Nebraska
+21,21,Boyle_Kentucky
+48,213,Henderson_Texas
+31,177,Washington_Nebraska
+16,71,Oneida_Idaho
+56,9,Converse_Wyoming
+5,91,Miller_Arkansas
+34,25,Monmouth_New Jersey
+27,93,Meeker_Minnesota
+17,91,Kankakee_Illinois
+27,75,Lake_Minnesota
+23,21,Piscataquis_Maine
+5,121,Randolph_Arkansas
+8,107,Routt_Colorado
+27,59,Isanti_Minnesota
+27,143,Sibley_Minnesota
+6,79,San Luis Obispo_California
+39,5,Ashland_Ohio
+28,121,Rankin_Mississippi
+6,43,Mariposa_California
+35,9,Curry_New Mexico
+36,21,Columbia_New York
+6,93,Siskiyou_California
+48,439,Tarrant_Texas
+47,45,Dyer_Tennessee
+27,39,Dodge_Minnesota
+37,93,Hoke_North Carolina
+26,127,Oceana_Michigan
+37,125,Moore_North Carolina
+26,133,Osceola_Michigan
+44,9,Washington_Rhode Island
+42,7,Beaver_Pennsylvania
+46,95,Mellette_South Dakota
+46,117,Stanley_South Dakota
+29,61,Daviess_Missouri
+46,137,Ziebach_South Dakota
+30,21,Dawson_Montana
+49,3,Box Elder_Utah
+30,89,Sanders_Montana
+48,159,Franklin_Texas
+36,25,Delaware_New York
+48,183,Gregg_Texas
+38,29,Emmons_North Dakota
+34,31,Passaic_New Jersey
+48,503,Young_Texas
+21,15,Boone_Kentucky
+39,45,Fairfield_Ohio
+38,71,Ramsey_North Dakota
+8,19,Clear Creek_Colorado
+36,29,Erie_New York
+28,43,Grenada_Mississippi
+21,187,Owen_Kentucky
+21,163,Meade_Kentucky
+48,37,Bowie_Texas
+47,179,Washington_Tennessee
+56,15,Goshen_Wyoming
+51,57,Essex_Virginia
+48,47,Brooks_Texas
+47,187,Williamson_Tennessee
+55,33,Dunn_Wisconsin
+56,23,Lincoln_Wyoming
+45,77,Pickens_South Carolina
+56,27,Niobrara_Wyoming
+45,79,Richland_South Carolina
+6,39,Madera_California
+17,157,Randolph_Illinois
+48,371,Pecos_Texas
+13,61,Clay_Georgia
+48,381,Randall_Texas
+19,149,Plymouth_Iowa
+8,113,San Miguel_Colorado
+19,157,Poweshiek_Iowa
+13,81,Crisp_Georgia
+48,387,Red River_Texas
+8,125,Yuma_Colorado
+19,161,Sac_Iowa
+21,53,Clinton_Kentucky
+48,83,Coleman_Texas
+8,85,Montrose_Colorado
+20,143,Ottawa_Kansas
+20,179,Sheridan_Kansas
+49,7,Carbon_Utah
+49,15,Emery_Utah
+48,29,Bexar_Texas
+48,187,Guadalupe_Texas
+15,3,Honolulu_Hawaii
+5,35,Crittenden_Arkansas
+53,7,Chelan_Washington
+12,17,Citrus_Florida
+12,59,Holmes_Florida
+12,65,Jefferson_Florida
+12,73,Leon_Florida
+12,103,Pinellas_Florida
+47,87,Jackson_Tennessee
+17,177,Stephenson_Illinois
+31,151,Saline_Nebraska
+18,19,Clark_Indiana
+41,41,Lincoln_Oregon
+22,105,Tangipahoa_Louisiana
+6,107,Tulare_California
+36,19,Clinton_New York
+39,165,Warren_Ohio
+24,43,Washington_Maryland
+51,141,Patrick_Virginia
+5,143,Washington_Arkansas
+19,129,Mills_Iowa
+21,93,Hardin_Kentucky
+2,185,North Slope_Alaska
+2,282,Yakutat_Alaska
+5,127,Scott_Arkansas
+48,237,Jack_Texas
+51,840,Winchester_Virginia
+12,111,St. Lucie_Florida
+5,131,Sebastian_Arkansas
+18,121,Parke_Indiana
+8,49,Grand_Colorado
+20,103,Leavenworth_Kansas
+55,7,Bayfield_Wisconsin
+55,3,Ashland_Wisconsin
+55,13,Burnett_Wisconsin
+22,7,Assumption_Louisiana
+22,25,Catahoula_Louisiana
+22,27,Claiborne_Louisiana
+36,45,Jefferson_New York
+6,97,Sonoma_California
+22,29,Concordia_Louisiana
+26,95,Luce_Michigan
+5,129,Searcy_Arkansas
+42,111,Somerset_Pennsylvania
+27,123,Ramsey_Minnesota
+41,9,Columbia_Oregon
+53,37,Kittitas_Washington
+54,55,Mercer_West Virginia
+12,113,Santa Rosa_Florida
+48,385,Real_Texas
+51,71,Giles_Virginia
+53,65,Stevens_Washington
+12,39,Gadsden_Florida
+27,173,Yellow Medicine_Minnesota
+29,13,Bates_Missouri
+32,7,Elko_Nevada
+4,3,Cochise_Arizona
+13,73,Columbia_Georgia
+23,5,Cumberland_Maine
+27,11,Big Stone_Minnesota
+35,39,Rio Arriba_New Mexico
+4,13,Maricopa_Arizona
+21,99,Hart_Kentucky
+26,51,Gladwin_Michigan
+36,77,Otsego_New York
+48,23,Baylor_Texas
+54,25,Greenbrier_West Virginia
+19,127,Marshall_Iowa
+37,73,Gates_North Carolina
+37,147,Pitt_North Carolina
+21,131,Leslie_Kentucky
+22,79,Rapides_Louisiana
+34,19,Hunterdon_New Jersey
+26,105,Mason_Michigan
+27,131,Rice_Minnesota
+48,181,Grayson_Texas
+29,189,St. Louis County_Missouri
+5,113,Polk_Arkansas
+26,119,Montmorency_Michigan
+48,307,McCulloch_Texas
+32,9,Esmeralda_Nevada
+18,15,Carroll_Indiana
+26,99,Macomb_Michigan
+26,129,Ogemaw_Michigan
+26,145,Saginaw_Michigan
+47,47,Fayette_Tennessee
+20,163,Rooks_Kansas
+20,183,Smith_Kansas
+24,35,Queen Anne's_Maryland
+48,27,Bell_Texas
+36,117,Wayne_New York
+31,153,Sarpy_Nebraska
+37,27,Caldwell_North Carolina
+51,181,Surry_Virginia
+29,195,Saline_Missouri
+37,33,Caswell_North Carolina
+26,131,Ontonagon_Michigan
+33,15,Rockingham_New Hampshire
+5,55,Greene_Arkansas
+37,45,Cleveland_North Carolina
+42,121,Venango_Pennsylvania
+5,57,Hempstead_Arkansas
+1,11,Bullock_Alabama
+1,109,Pike_Alabama
+48,425,Somervell_Texas
+28,147,Walthall_Mississippi
+13,291,Union_Georgia
+13,301,Warren_Georgia
+40,65,Jackson_Oklahoma
+29,223,Wayne_Missouri
+34,1,Atlantic_New Jersey
+5,119,Pulaski_Arkansas
+51,660,Harrisonburg_Virginia
+42,9,Bedford_Pennsylvania
+5,99,Nevada_Arkansas
+5,105,Perry_Arkansas
+51,685,Manassas Park_Virginia
+5,109,Pike_Arkansas
+18,49,Fulton_Indiana
+18,73,Jasper_Indiana
+6,53,Monterey_California
+19,13,Black Hawk_Iowa
+10,3,New Castle_Delaware
+8,29,Delta_Colorado
+51,580,Covington_Virginia
+6,23,Humboldt_California
+4,9,Graham_Arizona
+13,91,Dodge_Georgia
+31,25,Cass_Nebraska
+9,13,Tolland_Connecticut
+1,119,Sumter_Alabama
+48,167,Galveston_Texas
+39,111,Monroe_Ohio
+47,67,Hancock_Tennessee
+1,77,Lauderdale_Alabama
+13,295,Walker_Georgia
+19,7,Appanoose_Iowa
+18,147,Spencer_Indiana
+27,155,Traverse_Minnesota
+18,123,Perry_Indiana
+38,97,Traill_North Dakota
+12,77,Liberty_Florida
+49,49,Utah_Utah
+30,99,Teton_Montana
+18,165,Vermillion_Indiana
+37,95,Hyde_North Carolina
+4,15,Mohave_Arizona
+56,29,Park_Wyoming
+56,37,Sweetwater_Wyoming
+30,61,Mineral_Montana
+30,65,Musselshell_Montana
+34,23,Middlesex_New Jersey
+48,359,Oldham_Texas
+13,297,Walton_Georgia
+13,303,Washington_Georgia
+30,81,Ravalli_Montana
+29,115,Linn_Missouri
+6,71,San Bernardino_California
+13,169,Jones_Georgia
+13,99,Early_Georgia
+8,123,Weld_Colorado
+48,443,Terrell_Texas
+17,191,Wayne_Illinois
+8,33,Dolores_Colorado
+2,13,Aleutians East_Alaska
+2,60,Bristol Bay_Alaska
+2,70,Dillingham_Alaska
+40,89,McCurtain_Oklahoma
+29,9,Barry_Missouri
+38,37,Grant_North Dakota
+48,355,Nueces_Texas
+17,171,Scott_Illinois
+21,11,Bath_Kentucky
+26,87,Lapeer_Michigan
+31,97,Johnson_Nebraska
+35,5,Chaves_New Mexico
+42,61,Huntingdon_Pennsylvania
+51,131,Northampton_Virginia
+8,45,Garfield_Colorado
+26,7,Alpena_Michigan
+38,21,Dickey_North Dakota
+41,65,Wasco_Oregon
+5,37,Cross_Arkansas
+13,89,DeKalb_Georgia
+49,33,Rich_Utah
+25,11,Franklin_Massachusetts
+17,195,Whiteside_Illinois
+13,127,Glynn_Georgia
+39,155,Trumbull_Ohio
+13,137,Habersham_Georgia
+39,157,Tuscarawas_Ohio
+39,159,Union_Ohio
+13,145,Harris_Georgia
+13,147,Hart_Georgia
+39,99,Mahoning_Ohio
+9,15,Windham_Connecticut
+8,51,Gunnison_Colorado
+16,19,Bonneville_Idaho
+6,91,Sierra_California
+40,113,Osage_Oklahoma
+22,99,St. Martin_Louisiana
+22,103,St. Tammany_Louisiana
+36,33,Franklin_New York
+28,63,Jefferson_Mississippi
+47,127,Moore_Tennessee
+36,7,Broome_New York
+36,93,Schenectady_New York
+40,5,Atoka_Oklahoma
+36,107,Tioga_New York
+27,157,Wabasha_Minnesota
+37,29,Camden_North Carolina
+51,175,Southampton_Virginia
+36,27,Dutchess_New York
+51,95,James City_Virginia
+37,75,Graham_North Carolina
+1,25,Clarke_Alabama
+1,91,Marengo_Alabama
+1,131,Wilcox_Alabama
+54,99,Wayne_West Virginia
+1,99,Monroe_Alabama
+24,1,Allegany_Maryland
+1,127,Walker_Alabama
+54,59,Mingo_West Virginia
+54,61,Monongalia_West Virginia
+51,155,Pulaski_Virginia
+54,71,Pendleton_West Virginia
+29,153,Ozark_Missouri
+40,141,Tillman_Oklahoma
+48,411,San Saba_Texas
+31,171,Thomas_Nebraska
+42,31,Clarion_Pennsylvania
+51,87,Henrico_Virginia
+55,43,Grant_Wisconsin
+35,6,Cibola_New Mexico
+12,125,Union_Florida
+38,89,Stark_North Dakota
+20,1,Allen_Kansas
+28,107,Panola_Mississippi
+40,111,Okmulgee_Oklahoma
+51,83,Halifax_Virginia
+18,163,Vanderburgh_Indiana
+38,65,Oliver_North Dakota
+5,51,Garland_Arkansas
+4,12,La Paz_Arizona
+17,197,Will_Illinois
+29,129,Mercer_Missouri
+8,79,Mineral_Colorado
+48,273,Kleberg_Texas
+5,139,Union_Arkansas
+6,115,Yuba_California
+13,13,Barrow_Georgia
+8,57,Jackson_Colorado
+37,175,Transylvania_North Carolina
+51,77,Grayson_Virginia
+8,63,Kit Carson_Colorado
+22,57,Lafourche_Louisiana
+37,185,Warren_North Carolina
+17,89,Kane_Illinois
+30,5,Blaine_Montana
+38,19,Cavalier_North Dakota
+6,15,Del Norte_California
+29,17,Bollinger_Missouri
+51,720,Norton_Virginia
+36,75,Oswego_New York
+55,11,Buffalo_Wisconsin
+36,87,Rockland_New York
+8,11,Bent_Colorado
+9,1,Fairfield_Connecticut
+5,5,Baxter_Arkansas
+51,193,Westmoreland_Virginia
+38,83,Sheridan_North Dakota
+29,225,Webster_Missouri
+37,59,Davie_North Carolina
+5,63,Independence_Arkansas
+42,129,Westmoreland_Pennsylvania
+48,199,Hardin_Texas
+48,431,Sterling_Texas
+48,461,Upton_Texas
+48,475,Ward_Texas
+48,485,Wichita_Texas
+8,65,Lake_Colorado
+8,71,Las Animas_Colorado
+36,11,Cayuga_New York
+48,253,Jones_Texas
+37,91,Hertford_North Carolina
+8,93,Park_Colorado
+26,97,Mackinac_Michigan
+8,109,Saguache_Colorado
+48,229,Hudspeth_Texas
+9,7,Middlesex_Connecticut
+1,21,Chilton_Alabama
+20,71,Greeley_Kansas
+40,35,Craig_Oklahoma
+6,99,Stanislaus_California
+20,55,Finney_Kansas
+46,119,Sully_South Dakota
+47,133,Overton_Tennessee
+54,97,Upshur_West Virginia
+40,103,Noble_Oklahoma
+48,311,McMullen_Texas
+54,3,Berkeley_West Virginia
+53,23,Garfield_Washington
+26,137,Otsego_Michigan
+37,51,Cumberland_North Carolina
+16,33,Clark_Idaho
+56,21,Laramie_Wyoming
+48,281,Lampasas_Texas
+16,7,Bear Lake_Idaho
+24,37,St. Mary's_Maryland
+38,33,Golden Valley_North Dakota
+32,31,Washoe_Nevada
+32,5,Douglas_Nevada
+18,9,Blackford_Indiana
+18,169,Wabash_Indiana
+5,49,Fulton_Arkansas
+8,5,Arapahoe_Colorado
+5,33,Crawford_Arkansas
+29,21,Buchanan_Missouri
+31,55,Douglas_Nebraska
+6,21,Glenn_California
+42,133,York_Pennsylvania
+31,43,Dakota_Nebraska
+37,77,Granville_North Carolina
+31,27,Cedar_Nebraska
+6,27,Inyo_California
+37,97,Iredell_North Carolina
+40,129,Roger Mills_Oklahoma
+13,189,McDuffie_Georgia
+41,55,Sherman_Oregon
+41,63,Wallowa_Oregon
+55,41,Forest_Wisconsin
+19,25,Calhoun_Iowa
+48,93,Comanche_Texas
+48,143,Erath_Texas
+48,101,Cottle_Texas
+48,107,Crosby_Texas
+26,37,Clinton_Michigan
+23,7,Franklin_Maine
+47,145,Roane_Tennessee
+21,107,Hopkins_Kentucky
+26,3,Alger_Michigan
+37,17,Bladen_North Carolina
+29,127,Marion_Missouri
+39,101,Marion_Ohio
+53,9,Clallam_Washington
+5,67,Jackson_Arkansas
+51,65,Fluvanna_Virginia
+1,53,Escambia_Alabama
+12,89,Nassau_Florida
+36,89,St. Lawrence_New York
+37,19,Brunswick_North Carolina
+51,143,Pittsylvania_Virginia
+13,17,Ben Hill_Georgia
+37,163,Sampson_North Carolina
+36,69,Ontario_New York
+51,165,Rockingham_Virginia
+2,122,Kenai Peninsula_Alaska
+48,283,La Salle_Texas
+46,87,McCook_South Dakota
+29,99,Jefferson_Missouri
+54,11,Cabell_West Virginia
+17,1,Adams_Illinois
+12,11,Broward_Florida
+39,169,Wayne_Ohio
+39,11,Auglaize_Ohio
+13,183,Long_Georgia
+39,33,Crawford_Ohio
+2,100,Haines_Alaska
+5,77,Lee_Arkansas
+5,95,Monroe_Arkansas
+5,117,Prairie_Arkansas
+40,13,Bryan_Oklahoma
+51,137,Orange_Virginia
+48,471,Walker_Texas
+40,29,Coal_Oklahoma
+51,31,Campbell_Virginia
+48,339,Montgomery_Texas
+40,91,McIntosh_Oklahoma
+40,95,Marshall_Oklahoma
+48,225,Houston_Texas
+48,407,San Jacinto_Texas
+48,395,Robertson_Texas
+72,33,
+72,61,
+72,101,
+72,153,
+72,5,
+72,151,
+72,125,
+72,67,
+72,135,
+72,15,
+72,137,
+72,149,
+72,95,
+72,9,
+72,19,
+72,37,
+72,51,
+72,119,
+72,99,
+72,77,
+72,43,
+72,113,
+72,129,
+72,65,
+72,1,
+72,93,
+72,71,
+72,103,
+72,131,
+72,7,
+72,91,
+72,127,
+72,73,
+72,29,
+72,47,
+72,111,
+72,31,
+72,75,
+72,87,
+72,145,
+72,11,
+72,49,
+72,35,
+72,27,
+72,23,
+72,143,
+72,17,
+72,115,
+72,147,
+72,69,
+72,109,
+72,139,
+72,13,
+72,133,
+72,141,
+72,81,
+72,117,
+72,57,
+72,85,
+72,83,
+72,25,
+72,45,
+72,3,
+72,107,
+72,21,
+72,63,
+72,39,
+72,41,
+72,55,
+72,54,
+72,79,
+72,59,
+72,105,
+72,123,
+72,97,
+72,53,
+72,121,
+72,89,
