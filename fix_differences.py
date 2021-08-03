@@ -1,9 +1,11 @@
-def fix(tbl, tblix, refix, sorting):
+def fix(tbl, tblix, refix, choice):
     import pandas as pd
     tblout = tbl
     ref = pd.read_csv(r'Parsed Data/ID match.csv')
-    if sorting == 2:
+    if choice == 2:
         ref = pd.read_csv(r'Parsed data/ID match resorted.csv')
+    elif choice == 3:
+        ref = pd.read_csv(r'Parsed data/County no id.csv')
     i = 0
     while i < ref.shape[0]:
         if refix == 1:
