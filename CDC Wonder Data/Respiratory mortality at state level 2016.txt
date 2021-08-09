@@ -1,0 +1,754 @@
+"Notes"	"State"	"State Code"	"Age Group"	"Age Group Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"< 1 year"	"1"	16	58269	27.46 (Unreliable)
+	"Alabama"	"01"	"1-4 years"	"1-4"	Suppressed	234296	Suppressed
+	"Alabama"	"01"	"5-9 years"	"5-9"	Suppressed	303617	Suppressed
+	"Alabama"	"01"	"10-14 years"	"10-14"	Suppressed	306381	Suppressed
+	"Alabama"	"01"	"15-19 years"	"15-19"	Suppressed	320546	Suppressed
+	"Alabama"	"01"	"20-24 years"	"20-24"	Suppressed	333330	Suppressed
+	"Alabama"	"01"	"25-34 years"	"25-34"	31	637487	4.86
+	"Alabama"	"01"	"35-44 years"	"35-44"	59	595713	9.90
+	"Alabama"	"01"	"45-54 years"	"45-54"	247	644018	38.35
+	"Alabama"	"01"	"55-64 years"	"55-64"	744	645092	115.33
+	"Alabama"	"01"	"65-74 years"	"65-74"	1412	464669	303.87
+	"Alabama"	"01"	"75-84 years"	"75-84"	1771	233129	759.67
+	"Alabama"	"01"	"85+ years"	"85+"	1280	86753	1475.45
+"Total"	"Alabama"	"01"			5580	4863300	114.74
+	"Alaska"	"02"	"< 1 year"	"1"	Suppressed	10938	Suppressed
+	"Alaska"	"02"	"1-4 years"	"1-4"	Suppressed	43177	Suppressed
+	"Alaska"	"02"	"5-9 years"	"5-9"	Suppressed	53076	Suppressed
+	"Alaska"	"02"	"10-14 years"	"10-14"	Suppressed	50046	Suppressed
+	"Alaska"	"02"	"15-19 years"	"15-19"	Suppressed	48000	Suppressed
+	"Alaska"	"02"	"20-24 years"	"20-24"	Suppressed	57364	Suppressed
+	"Alaska"	"02"	"25-34 years"	"25-34"	Suppressed	120453	Suppressed
+	"Alaska"	"02"	"35-44 years"	"35-44"	Suppressed	92145	Suppressed
+	"Alaska"	"02"	"45-54 years"	"45-54"	14	94167	14.87 (Unreliable)
+	"Alaska"	"02"	"55-64 years"	"55-64"	61	95322	63.99
+	"Alaska"	"02"	"65-74 years"	"65-74"	99	52387	188.98
+	"Alaska"	"02"	"75-84 years"	"75-84"	113	18399	614.16
+	"Alaska"	"02"	"85+ years"	"85+"	86	6420	1339.56
+"Total"	"Alaska"	"02"			386	741894	52.03
+	"Arizona"	"04"	"< 1 year"	"1"	13	87702	14.82 (Unreliable)
+	"Arizona"	"04"	"1-4 years"	"1-4"	13	351617	3.70 (Unreliable)
+	"Arizona"	"04"	"5-9 years"	"5-9"	Suppressed	454157	Suppressed
+	"Arizona"	"04"	"10-14 years"	"10-14"	Suppressed	459024	Suppressed
+	"Arizona"	"04"	"15-19 years"	"15-19"	Suppressed	466504	Suppressed
+	"Arizona"	"04"	"20-24 years"	"20-24"	Suppressed	484756	Suppressed
+	"Arizona"	"04"	"25-34 years"	"25-34"	27	933128	2.89
+	"Arizona"	"04"	"35-44 years"	"35-44"	41	845220	4.85
+	"Arizona"	"04"	"45-54 years"	"45-54"	183	846897	21.61
+	"Arizona"	"04"	"55-64 years"	"55-64"	570	831142	68.58
+	"Arizona"	"04"	"65-74 years"	"65-74"	1379	682820	201.96
+	"Arizona"	"04"	"75-84 years"	"75-84"	1718	351270	489.08
+	"Arizona"	"04"	"85+ years"	"85+"	1673	136834	1222.65
+"Total"	"Arizona"	"04"			5631	6931071	81.24
+	"Arkansas"	"05"	"< 1 year"	"1"	14	37737	37.10 (Unreliable)
+	"Arkansas"	"05"	"1-4 years"	"1-4"	Suppressed	152540	Suppressed
+	"Arkansas"	"05"	"5-9 years"	"5-9"	Suppressed	196543	Suppressed
+	"Arkansas"	"05"	"10-14 years"	"10-14"	Suppressed	197518	Suppressed
+	"Arkansas"	"05"	"15-19 years"	"15-19"	Suppressed	199113	Suppressed
+	"Arkansas"	"05"	"20-24 years"	"20-24"	Suppressed	203340	Suppressed
+	"Arkansas"	"05"	"25-34 years"	"25-34"	19	392755	4.84 (Unreliable)
+	"Arkansas"	"05"	"35-44 years"	"35-44"	27	364726	7.40
+	"Arkansas"	"05"	"45-54 years"	"45-54"	130	378897	34.31
+	"Arkansas"	"05"	"55-64 years"	"55-64"	426	378345	112.60
+	"Arkansas"	"05"	"65-74 years"	"65-74"	819	283580	288.81
+	"Arkansas"	"05"	"75-84 years"	"75-84"	1096	146474	748.26
+	"Arkansas"	"05"	"85+ years"	"85+"	839	56680	1480.24
+"Total"	"Arkansas"	"05"			3381	2988248	113.14
+	"California"	"06"	"< 1 year"	"1"	44	498832	8.82
+	"California"	"06"	"1-4 years"	"1-4"	22	1988540	1.11
+	"California"	"06"	"5-9 years"	"5-9"	21	2539626	0.83
+	"California"	"06"	"10-14 years"	"10-14"	17	2522475	0.67 (Unreliable)
+	"California"	"06"	"15-19 years"	"15-19"	19	2579986	0.74 (Unreliable)
+	"California"	"06"	"20-24 years"	"20-24"	32	2812191	1.14
+	"California"	"06"	"25-34 years"	"25-34"	102	5917785	1.72
+	"California"	"06"	"35-44 years"	"35-44"	185	5159932	3.59
+	"California"	"06"	"45-54 years"	"45-54"	637	5195297	12.26
+	"California"	"06"	"55-64 years"	"55-64"	2250	4688718	47.99
+	"California"	"06"	"65-74 years"	"65-74"	4610	3089002	149.24
+	"California"	"06"	"75-84 years"	"75-84"	6951	1535300	452.75
+	"California"	"06"	"85+ years"	"85+"	9223	722333	1276.83
+"Total"	"California"	"06"			24113	39250017	61.43
+	"Colorado"	"08"	"< 1 year"	"1"	Suppressed	67691	Suppressed
+	"Colorado"	"08"	"1-4 years"	"1-4"	Suppressed	269773	Suppressed
+	"Colorado"	"08"	"5-9 years"	"5-9"	Suppressed	353344	Suppressed
+	"Colorado"	"08"	"10-14 years"	"10-14"	Suppressed	359675	Suppressed
+	"Colorado"	"08"	"15-19 years"	"15-19"	Suppressed	354394	Suppressed
+	"Colorado"	"08"	"20-24 years"	"20-24"	Suppressed	390626	Suppressed
+	"Colorado"	"08"	"25-34 years"	"25-34"	15	842409	1.78 (Unreliable)
+	"Colorado"	"08"	"35-44 years"	"35-44"	32	742076	4.31
+	"Colorado"	"08"	"45-54 years"	"45-54"	119	717723	16.58
+	"Colorado"	"08"	"55-64 years"	"55-64"	421	699310	60.20
+	"Colorado"	"08"	"65-74 years"	"65-74"	828	457780	180.87
+	"Colorado"	"08"	"75-84 years"	"75-84"	1201	199973	600.58
+	"Colorado"	"08"	"85+ years"	"85+"	1305	85771	1521.49
+"Total"	"Colorado"	"08"			3939	5540545	71.09
+	"Connecticut"	"09"	"< 1 year"	"1"	Suppressed	36202	Suppressed
+	"Connecticut"	"09"	"1-4 years"	"1-4"	Suppressed	149119	Suppressed
+	"Connecticut"	"09"	"5-9 years"	"5-9"	Suppressed	201909	Suppressed
+	"Connecticut"	"09"	"10-14 years"	"10-14"	Suppressed	222842	Suppressed
+	"Connecticut"	"09"	"15-19 years"	"15-19"	Suppressed	247426	Suppressed
+	"Connecticut"	"09"	"20-24 years"	"20-24"	Suppressed	247820	Suppressed
+	"Connecticut"	"09"	"25-34 years"	"25-34"	14	442021	3.17 (Unreliable)
+	"Connecticut"	"09"	"35-44 years"	"35-44"	22	423005	5.20
+	"Connecticut"	"09"	"45-54 years"	"45-54"	73	524150	13.93
+	"Connecticut"	"09"	"55-64 years"	"55-64"	245	504555	48.56
+	"Connecticut"	"09"	"65-74 years"	"65-74"	516	323968	159.27
+	"Connecticut"	"09"	"75-84 years"	"75-84"	788	163507	481.94
+	"Connecticut"	"09"	"85+ years"	"85+"	1219	89928	1355.53
+"Total"	"Connecticut"	"09"			2887	3576452	80.72
+	"Delaware"	"10"	"< 1 year"	"1"	Suppressed	10817	Suppressed
+	"Delaware"	"10"	"1-4 years"	"1-4"	Suppressed	44017	Suppressed
+	"Delaware"	"10"	"5-9 years"	"5-9"	Suppressed	56792	Suppressed
+	"Delaware"	"10"	"10-14 years"	"10-14"	Suppressed	57277	Suppressed
+	"Delaware"	"10"	"15-19 years"	"15-19"	Suppressed	60489	Suppressed
+	"Delaware"	"10"	"20-24 years"	"20-24"	Suppressed	60466	Suppressed
+	"Delaware"	"10"	"25-34 years"	"25-34"	Suppressed	127501	Suppressed
+	"Delaware"	"10"	"35-44 years"	"35-44"	Suppressed	109425	Suppressed
+	"Delaware"	"10"	"45-54 years"	"45-54"	21	127686	16.45
+	"Delaware"	"10"	"55-64 years"	"55-64"	87	130645	66.59
+	"Delaware"	"10"	"65-74 years"	"65-74"	223	99961	223.09
+	"Delaware"	"10"	"75-84 years"	"75-84"	263	47902	549.04
+	"Delaware"	"10"	"85+ years"	"85+"	264	19087	1383.14
+"Total"	"Delaware"	"10"			868	952065	91.17
+	"District of Columbia"	"11"	"< 1 year"	"1"	Suppressed	9399	Suppressed
+	"District of Columbia"	"11"	"1-4 years"	"1-4"	Suppressed	34108	Suppressed
+	"District of Columbia"	"11"	"5-9 years"	"5-9"	Suppressed	35081	Suppressed
+	"District of Columbia"	"11"	"10-14 years"	"10-14"	Suppressed	26737	Suppressed
+	"District of Columbia"	"11"	"15-19 years"	"15-19"	Suppressed	36616	Suppressed
+	"District of Columbia"	"11"	"20-24 years"	"20-24"	Suppressed	59093	Suppressed
+	"District of Columbia"	"11"	"25-34 years"	"25-34"	Suppressed	154991	Suppressed
+	"District of Columbia"	"11"	"35-44 years"	"35-44"	Suppressed	98889	Suppressed
+	"District of Columbia"	"11"	"45-54 years"	"45-54"	14	77521	18.06 (Unreliable)
+	"District of Columbia"	"11"	"55-64 years"	"55-64"	56	70044	79.95
+	"District of Columbia"	"11"	"65-74 years"	"65-74"	60	45559	131.70
+	"District of Columbia"	"11"	"75-84 years"	"75-84"	71	21762	326.26
+	"District of Columbia"	"11"	"85+ years"	"85+"	90	11370	791.56
+"Total"	"District of Columbia"	"11"			300	681170	44.04
+	"Florida"	"12"	"< 1 year"	"1"	33	224910	14.67
+	"Florida"	"12"	"1-4 years"	"1-4"	14	901226	1.55 (Unreliable)
+	"Florida"	"12"	"5-9 years"	"5-9"	Suppressed	1143007	Suppressed
+	"Florida"	"12"	"10-14 years"	"10-14"	Suppressed	1154192	Suppressed
+	"Florida"	"12"	"15-19 years"	"15-19"	11	1189418	0.92 (Unreliable)
+	"Florida"	"12"	"20-24 years"	"20-24"	16	1273582	1.26 (Unreliable)
+	"Florida"	"12"	"25-34 years"	"25-34"	78	2683425	2.91
+	"Florida"	"12"	"35-44 years"	"35-44"	147	2464289	5.97
+	"Florida"	"12"	"45-54 years"	"45-54"	551	2756310	19.99
+	"Florida"	"12"	"55-64 years"	"55-64"	1906	2727163	69.89
+	"Florida"	"12"	"65-74 years"	"65-74"	4049	2277584	177.78
+	"Florida"	"12"	"75-84 years"	"75-84"	5536	1261354	438.89
+	"Florida"	"12"	"85+ years"	"85+"	6039	555979	1086.19
+"Total"	"Florida"	"12"			18394	20612439	89.24
+	"Georgia"	"13"	"< 1 year"	"1"	22	130675	16.84
+	"Georgia"	"13"	"1-4 years"	"1-4"	Suppressed	530164	Suppressed
+	"Georgia"	"13"	"5-9 years"	"5-9"	Suppressed	700583	Suppressed
+	"Georgia"	"13"	"10-14 years"	"10-14"	Suppressed	714455	Suppressed
+	"Georgia"	"13"	"15-19 years"	"15-19"	Suppressed	715257	Suppressed
+	"Georgia"	"13"	"20-24 years"	"20-24"	13	725796	1.79 (Unreliable)
+	"Georgia"	"13"	"25-34 years"	"25-34"	39	1422300	2.74
+	"Georgia"	"13"	"35-44 years"	"35-44"	97	1362970	7.12
+	"Georgia"	"13"	"45-54 years"	"45-54"	355	1416698	25.06
+	"Georgia"	"13"	"55-64 years"	"55-64"	1126	1236811	91.04
+	"Georgia"	"13"	"65-74 years"	"65-74"	2058	839325	245.20
+	"Georgia"	"13"	"75-84 years"	"75-84"	2366	377202	627.25
+	"Georgia"	"13"	"85+ years"	"85+"	2023	138135	1464.51
+"Total"	"Georgia"	"13"			8127	10310371	78.82
+	"Hawaii"	"15"	"< 1 year"	"1"	Suppressed	18376	Suppressed
+	"Hawaii"	"15"	"1-4 years"	"1-4"	Suppressed	73159	Suppressed
+	"Hawaii"	"15"	"5-9 years"	"5-9"	Suppressed	87086	Suppressed
+	"Hawaii"	"15"	"10-14 years"	"10-14"	Suppressed	81715	Suppressed
+	"Hawaii"	"15"	"15-19 years"	"15-19"	Suppressed	78701	Suppressed
+	"Hawaii"	"15"	"20-24 years"	"20-24"	Suppressed	97750	Suppressed
+	"Hawaii"	"15"	"25-34 years"	"25-34"	Suppressed	207903	Suppressed
+	"Hawaii"	"15"	"35-44 years"	"35-44"	Suppressed	177228	Suppressed
+	"Hawaii"	"15"	"45-54 years"	"45-54"	20	178271	11.22
+	"Hawaii"	"15"	"55-64 years"	"55-64"	93	184406	50.43
+	"Hawaii"	"15"	"65-74 years"	"65-74"	196	139010	141.00
+	"Hawaii"	"15"	"75-84 years"	"75-84"	265	66000	401.52
+	"Hawaii"	"15"	"85+ years"	"85+"	526	38952	1350.38
+"Total"	"Hawaii"	"15"			1126	1428557	78.82
+	"Idaho"	"16"	"< 1 year"	"1"	Suppressed	22986	Suppressed
+	"Idaho"	"16"	"1-4 years"	"1-4"	Suppressed	92303	Suppressed
+	"Idaho"	"16"	"5-9 years"	"5-9"	Suppressed	122679	Suppressed
+	"Idaho"	"16"	"10-14 years"	"10-14"	Suppressed	125126	Suppressed
+	"Idaho"	"16"	"15-19 years"	"15-19"	Suppressed	118791	Suppressed
+	"Idaho"	"16"	"20-24 years"	"20-24"	Suppressed	111851	Suppressed
+	"Idaho"	"16"	"25-34 years"	"25-34"	Suppressed	221561	Suppressed
+	"Idaho"	"16"	"35-44 years"	"35-44"	Suppressed	205995	Suppressed
+	"Idaho"	"16"	"45-54 years"	"45-54"	30	198609	15.11
+	"Idaho"	"16"	"55-64 years"	"55-64"	167	208250	80.19
+	"Idaho"	"16"	"65-74 years"	"65-74"	296	153740	192.53
+	"Idaho"	"16"	"75-84 years"	"75-84"	462	72814	634.49
+	"Idaho"	"16"	"85+ years"	"85+"	392	28435	1378.58
+"Total"	"Idaho"	"16"			1370	1683140	81.40
+	"Illinois"	"17"	"< 1 year"	"1"	14	153482	9.12 (Unreliable)
+	"Illinois"	"17"	"1-4 years"	"1-4"	11	619029	1.78 (Unreliable)
+	"Illinois"	"17"	"5-9 years"	"5-9"	Suppressed	806005	Suppressed
+	"Illinois"	"17"	"10-14 years"	"10-14"	12	833900	1.44 (Unreliable)
+	"Illinois"	"17"	"15-19 years"	"15-19"	Suppressed	844129	Suppressed
+	"Illinois"	"17"	"20-24 years"	"20-24"	19	884075	2.15 (Unreliable)
+	"Illinois"	"17"	"25-34 years"	"25-34"	57	1774032	3.21
+	"Illinois"	"17"	"35-44 years"	"35-44"	75	1646756	4.55
+	"Illinois"	"17"	"45-54 years"	"45-54"	290	1713154	16.93
+	"Illinois"	"17"	"55-64 years"	"55-64"	1024	1655713	61.85
+	"Illinois"	"17"	"65-74 years"	"65-74"	2125	1072843	198.07
+	"Illinois"	"17"	"75-84 years"	"75-84"	3009	538938	558.32
+	"Illinois"	"17"	"85+ years"	"85+"	3596	259483	1385.83
+"Total"	"Illinois"	"17"			10244	12801539	80.02
+	"Indiana"	"18"	"< 1 year"	"1"	16	83679	19.12 (Unreliable)
+	"Indiana"	"18"	"1-4 years"	"1-4"	11	338308	3.25 (Unreliable)
+	"Indiana"	"18"	"5-9 years"	"5-9"	10	434422	2.30 (Unreliable)
+	"Indiana"	"18"	"10-14 years"	"10-14"	Suppressed	443900	Suppressed
+	"Indiana"	"18"	"15-19 years"	"15-19"	Suppressed	457103	Suppressed
+	"Indiana"	"18"	"20-24 years"	"20-24"	14	479294	2.92 (Unreliable)
+	"Indiana"	"18"	"25-34 years"	"25-34"	32	859672	3.72
+	"Indiana"	"18"	"35-44 years"	"35-44"	63	814899	7.73
+	"Indiana"	"18"	"45-54 years"	"45-54"	250	865746	28.88
+	"Indiana"	"18"	"55-64 years"	"55-64"	830	864467	96.01
+	"Indiana"	"18"	"65-74 years"	"65-74"	1559	576378	270.48
+	"Indiana"	"18"	"75-84 years"	"75-84"	2039	286716	711.16
+	"Indiana"	"18"	"85+ years"	"85+"	2012	128469	1566.14
+"Total"	"Indiana"	"18"			6845	6633053	103.20
+	"Iowa"	"19"	"< 1 year"	"1"	Suppressed	39600	Suppressed
+	"Iowa"	"19"	"1-4 years"	"1-4"	Suppressed	159815	Suppressed
+	"Iowa"	"19"	"5-9 years"	"5-9"	Suppressed	203938	Suppressed
+	"Iowa"	"19"	"10-14 years"	"10-14"	Suppressed	203667	Suppressed
+	"Iowa"	"19"	"15-19 years"	"15-19"	Suppressed	215122	Suppressed
+	"Iowa"	"19"	"20-24 years"	"20-24"	Suppressed	230686	Suppressed
+	"Iowa"	"19"	"25-34 years"	"25-34"	10	394373	2.54 (Unreliable)
+	"Iowa"	"19"	"35-44 years"	"35-44"	17	367535	4.63 (Unreliable)
+	"Iowa"	"19"	"45-54 years"	"45-54"	77	389744	19.76
+	"Iowa"	"19"	"55-64 years"	"55-64"	271	415998	65.14
+	"Iowa"	"19"	"65-74 years"	"65-74"	596	281046	212.06
+	"Iowa"	"19"	"75-84 years"	"75-84"	928	154469	600.77
+	"Iowa"	"19"	"85+ years"	"85+"	1236	78700	1570.52
+"Total"	"Iowa"	"19"			3151	3134693	100.52
+	"Kansas"	"20"	"< 1 year"	"1"	Suppressed	38202	Suppressed
+	"Kansas"	"20"	"1-4 years"	"1-4"	Suppressed	156105	Suppressed
+	"Kansas"	"20"	"5-9 years"	"5-9"	Suppressed	201623	Suppressed
+	"Kansas"	"20"	"10-14 years"	"10-14"	Suppressed	199123	Suppressed
+	"Kansas"	"20"	"15-19 years"	"15-19"	Suppressed	200516	Suppressed
+	"Kansas"	"20"	"20-24 years"	"20-24"	Suppressed	216515	Suppressed
+	"Kansas"	"20"	"25-34 years"	"25-34"	13	384606	3.38 (Unreliable)
+	"Kansas"	"20"	"35-44 years"	"35-44"	16	347089	4.61 (Unreliable)
+	"Kansas"	"20"	"45-54 years"	"45-54"	78	354323	22.01
+	"Kansas"	"20"	"55-64 years"	"55-64"	262	372194	70.39
+	"Kansas"	"20"	"65-74 years"	"65-74"	580	244996	236.74
+	"Kansas"	"20"	"75-84 years"	"75-84"	889	127193	698.94
+	"Kansas"	"20"	"85+ years"	"85+"	965	64804	1489.11
+"Total"	"Kansas"	"20"			2816	2907289	96.86
+	"Kentucky"	"21"	"< 1 year"	"1"	Suppressed	54810	Suppressed
+	"Kentucky"	"21"	"1-4 years"	"1-4"	Suppressed	220943	Suppressed
+	"Kentucky"	"21"	"5-9 years"	"5-9"	Suppressed	279336	Suppressed
+	"Kentucky"	"21"	"10-14 years"	"10-14"	Suppressed	281854	Suppressed
+	"Kentucky"	"21"	"15-19 years"	"15-19"	Suppressed	287950	Suppressed
+	"Kentucky"	"21"	"20-24 years"	"20-24"	Suppressed	305701	Suppressed
+	"Kentucky"	"21"	"25-34 years"	"25-34"	21	575311	3.65
+	"Kentucky"	"21"	"35-44 years"	"35-44"	51	553030	9.22
+	"Kentucky"	"21"	"45-54 years"	"45-54"	235	596852	39.37
+	"Kentucky"	"21"	"55-64 years"	"55-64"	756	590470	128.03
+	"Kentucky"	"21"	"65-74 years"	"65-74"	1445	411687	350.99
+	"Kentucky"	"21"	"75-84 years"	"75-84"	1686	200941	839.05
+	"Kentucky"	"21"	"85+ years"	"85+"	1339	78089	1714.71
+"Total"	"Kentucky"	"21"			5552	4436974	125.13
+	"Louisiana"	"22"	"< 1 year"	"1"	19	62380	30.46 (Unreliable)
+	"Louisiana"	"22"	"1-4 years"	"1-4"	12	248221	4.83 (Unreliable)
+	"Louisiana"	"22"	"5-9 years"	"5-9"	Suppressed	311162	Suppressed
+	"Louisiana"	"22"	"10-14 years"	"10-14"	Suppressed	304838	Suppressed
+	"Louisiana"	"22"	"15-19 years"	"15-19"	Suppressed	302934	Suppressed
+	"Louisiana"	"22"	"20-24 years"	"20-24"	Suppressed	326947	Suppressed
+	"Louisiana"	"22"	"25-34 years"	"25-34"	25	681658	3.67
+	"Louisiana"	"22"	"35-44 years"	"35-44"	39	574245	6.79
+	"Louisiana"	"22"	"45-54 years"	"45-54"	166	591817	28.05
+	"Louisiana"	"22"	"55-64 years"	"55-64"	536	603021	88.89
+	"Louisiana"	"22"	"65-74 years"	"65-74"	943	401909	234.63
+	"Louisiana"	"22"	"75-84 years"	"75-84"	1214	195073	622.33
+	"Louisiana"	"22"	"85+ years"	"85+"	1107	77461	1429.11
+"Total"	"Louisiana"	"22"			4079	4681666	87.13
+	"Maine"	"23"	"< 1 year"	"1"	Suppressed	12751	Suppressed
+	"Maine"	"23"	"1-4 years"	"1-4"	Suppressed	52317	Suppressed
+	"Maine"	"23"	"5-9 years"	"5-9"	Suppressed	69104	Suppressed
+	"Maine"	"23"	"10-14 years"	"10-14"	Suppressed	73389	Suppressed
+	"Maine"	"23"	"15-19 years"	"15-19"	Suppressed	80226	Suppressed
+	"Maine"	"23"	"20-24 years"	"20-24"	Suppressed	77210	Suppressed
+	"Maine"	"23"	"25-34 years"	"25-34"	Suppressed	156994	Suppressed
+	"Maine"	"23"	"35-44 years"	"35-44"	Suppressed	150767	Suppressed
+	"Maine"	"23"	"45-54 years"	"45-54"	46	190748	24.12
+	"Maine"	"23"	"55-64 years"	"55-64"	168	210290	79.89
+	"Maine"	"23"	"65-74 years"	"65-74"	313	152331	205.47
+	"Maine"	"23"	"75-84 years"	"75-84"	443	73062	606.33
+	"Maine"	"23"	"85+ years"	"85+"	523	32290	1619.70
+"Total"	"Maine"	"23"			1502	1331479	112.81
+	"Maryland"	"24"	"< 1 year"	"1"	13	72580	17.91 (Unreliable)
+	"Maryland"	"24"	"1-4 years"	"1-4"	Suppressed	294515	Suppressed
+	"Maryland"	"24"	"5-9 years"	"5-9"	Suppressed	376196	Suppressed
+	"Maryland"	"24"	"10-14 years"	"10-14"	Suppressed	373806	Suppressed
+	"Maryland"	"24"	"15-19 years"	"15-19"	Suppressed	385934	Suppressed
+	"Maryland"	"24"	"20-24 years"	"20-24"	Suppressed	392558	Suppressed
+	"Maryland"	"24"	"25-34 years"	"25-34"	17	834450	2.04 (Unreliable)
+	"Maryland"	"24"	"35-44 years"	"35-44"	34	761384	4.47
+	"Maryland"	"24"	"45-54 years"	"45-54"	151	854746	17.67
+	"Maryland"	"24"	"55-64 years"	"55-64"	388	794068	48.86
+	"Maryland"	"24"	"65-74 years"	"65-74"	830	516122	160.81
+	"Maryland"	"24"	"75-84 years"	"75-84"	1193	245157	486.63
+	"Maryland"	"24"	"85+ years"	"85+"	1405	114931	1222.47
+"Total"	"Maryland"	"24"			4054	6016447	67.38
+	"Massachusetts"	"25"	"< 1 year"	"1"	Suppressed	71857	Suppressed
+	"Massachusetts"	"25"	"1-4 years"	"1-4"	Suppressed	289519	Suppressed
+	"Massachusetts"	"25"	"5-9 years"	"5-9"	Suppressed	373239	Suppressed
+	"Massachusetts"	"25"	"10-14 years"	"10-14"	Suppressed	392800	Suppressed
+	"Massachusetts"	"25"	"15-19 years"	"15-19"	Suppressed	456601	Suppressed
+	"Massachusetts"	"25"	"20-24 years"	"20-24"	Suppressed	498337	Suppressed
+	"Massachusetts"	"25"	"25-34 years"	"25-34"	23	952329	2.42
+	"Massachusetts"	"25"	"35-44 years"	"35-44"	34	825013	4.12
+	"Massachusetts"	"25"	"45-54 years"	"45-54"	137	961116	14.25
+	"Massachusetts"	"25"	"55-64 years"	"55-64"	423	917004	46.13
+	"Massachusetts"	"25"	"65-74 years"	"65-74"	1010	612531	164.89
+	"Massachusetts"	"25"	"75-84 years"	"75-84"	1484	302627	490.37
+	"Massachusetts"	"25"	"85+ years"	"85+"	2150	158806	1353.85
+"Total"	"Massachusetts"	"25"			5276	6811779	77.45
+	"Michigan"	"26"	"< 1 year"	"1"	15	113865	13.17 (Unreliable)
+	"Michigan"	"26"	"1-4 years"	"1-4"	14	460558	3.04 (Unreliable)
+	"Michigan"	"26"	"5-9 years"	"5-9"	Suppressed	591865	Suppressed
+	"Michigan"	"26"	"10-14 years"	"10-14"	Suppressed	625189	Suppressed
+	"Michigan"	"26"	"15-19 years"	"15-19"	11	668075	1.65 (Unreliable)
+	"Michigan"	"26"	"20-24 years"	"20-24"	13	707150	1.84 (Unreliable)
+	"Michigan"	"26"	"25-34 years"	"25-34"	35	1251709	2.80
+	"Michigan"	"26"	"35-44 years"	"35-44"	82	1157262	7.09
+	"Michigan"	"26"	"45-54 years"	"45-54"	295	1348094	21.88
+	"Michigan"	"26"	"55-64 years"	"55-64"	1046	1392778	75.10
+	"Michigan"	"26"	"65-74 years"	"65-74"	2050	940935	217.87
+	"Michigan"	"26"	"75-84 years"	"75-84"	2680	457531	585.75
+	"Michigan"	"26"	"85+ years"	"85+"	2790	213289	1308.08
+"Total"	"Michigan"	"26"			9041	9928300	91.06
+	"Minnesota"	"27"	"< 1 year"	"1"	13	69937	18.59 (Unreliable)
+	"Minnesota"	"27"	"1-4 years"	"1-4"	Suppressed	282567	Suppressed
+	"Minnesota"	"27"	"5-9 years"	"5-9"	Suppressed	359459	Suppressed
+	"Minnesota"	"27"	"10-14 years"	"10-14"	Suppressed	361035	Suppressed
+	"Minnesota"	"27"	"15-19 years"	"15-19"	Suppressed	355903	Suppressed
+	"Minnesota"	"27"	"20-24 years"	"20-24"	Suppressed	366974	Suppressed
+	"Minnesota"	"27"	"25-34 years"	"25-34"	Suppressed	748412	Suppressed
+	"Minnesota"	"27"	"35-44 years"	"35-44"	26	676706	3.84
+	"Minnesota"	"27"	"45-54 years"	"45-54"	88	727418	12.10
+	"Minnesota"	"27"	"55-64 years"	"55-64"	335	739313	45.31
+	"Minnesota"	"27"	"65-74 years"	"65-74"	723	472248	153.10
+	"Minnesota"	"27"	"75-84 years"	"75-84"	1097	240616	455.91
+	"Minnesota"	"27"	"85+ years"	"85+"	1423	119364	1192.15
+"Total"	"Minnesota"	"27"			3724	5519952	67.46
+	"Mississippi"	"28"	"< 1 year"	"1"	Suppressed	37310	Suppressed
+	"Mississippi"	"28"	"1-4 years"	"1-4"	Suppressed	151391	Suppressed
+	"Mississippi"	"28"	"5-9 years"	"5-9"	Suppressed	203836	Suppressed
+	"Mississippi"	"28"	"10-14 years"	"10-14"	Suppressed	203202	Suppressed
+	"Mississippi"	"28"	"15-19 years"	"15-19"	Suppressed	208334	Suppressed
+	"Mississippi"	"28"	"20-24 years"	"20-24"	10	213132	4.69 (Unreliable)
+	"Mississippi"	"28"	"25-34 years"	"25-34"	28	394253	7.10
+	"Mississippi"	"28"	"35-44 years"	"35-44"	49	365535	13.41
+	"Mississippi"	"28"	"45-54 years"	"45-54"	163	379963	42.90
+	"Mississippi"	"28"	"55-64 years"	"55-64"	487	380829	127.88
+	"Mississippi"	"28"	"65-74 years"	"65-74"	865	266051	325.13
+	"Mississippi"	"28"	"75-84 years"	"75-84"	1068	133926	797.46
+	"Mississippi"	"28"	"85+ years"	"85+"	921	50964	1807.16
+"Total"	"Mississippi"	"28"			3612	2988726	120.85
+	"Missouri"	"29"	"< 1 year"	"1"	12	74205	16.17 (Unreliable)
+	"Missouri"	"29"	"1-4 years"	"1-4"	Suppressed	299753	Suppressed
+	"Missouri"	"29"	"5-9 years"	"5-9"	Suppressed	384685	Suppressed
+	"Missouri"	"29"	"10-14 years"	"10-14"	Suppressed	389087	Suppressed
+	"Missouri"	"29"	"15-19 years"	"15-19"	Suppressed	395936	Suppressed
+	"Missouri"	"29"	"20-24 years"	"20-24"	Suppressed	421888	Suppressed
+	"Missouri"	"29"	"25-34 years"	"25-34"	29	812868	3.57
+	"Missouri"	"29"	"35-44 years"	"35-44"	55	731038	7.52
+	"Missouri"	"29"	"45-54 years"	"45-54"	227	789759	28.74
+	"Missouri"	"29"	"55-64 years"	"55-64"	844	815760	103.46
+	"Missouri"	"29"	"65-74 years"	"65-74"	1551	559973	276.98
+	"Missouri"	"29"	"75-84 years"	"75-84"	2022	289751	697.84
+	"Missouri"	"29"	"85+ years"	"85+"	1964	128297	1530.82
+"Total"	"Missouri"	"29"			6723	6093000	110.34
+	"Montana"	"30"	"< 1 year"	"1"	Suppressed	12644	Suppressed
+	"Montana"	"30"	"1-4 years"	"1-4"	Suppressed	50385	Suppressed
+	"Montana"	"30"	"5-9 years"	"5-9"	Suppressed	63879	Suppressed
+	"Montana"	"30"	"10-14 years"	"10-14"	Suppressed	62956	Suppressed
+	"Montana"	"30"	"15-19 years"	"15-19"	Suppressed	63639	Suppressed
+	"Montana"	"30"	"20-24 years"	"20-24"	Suppressed	73410	Suppressed
+	"Montana"	"30"	"25-34 years"	"25-34"	Suppressed	132974	Suppressed
+	"Montana"	"30"	"35-44 years"	"35-44"	10	119445	8.37 (Unreliable)
+	"Montana"	"30"	"45-54 years"	"45-54"	35	125674	27.85
+	"Montana"	"30"	"55-64 years"	"55-64"	129	152474	84.60
+	"Montana"	"30"	"65-74 years"	"65-74"	248	110127	225.19
+	"Montana"	"30"	"75-84 years"	"75-84"	326	52138	625.26
+	"Montana"	"30"	"85+ years"	"85+"	330	22775	1448.96
+"Total"	"Montana"	"30"			1086	1042520	104.17
+	"Nebraska"	"31"	"< 1 year"	"1"	Suppressed	26640	Suppressed
+	"Nebraska"	"31"	"1-4 years"	"1-4"	Suppressed	106169	Suppressed
+	"Nebraska"	"31"	"5-9 years"	"5-9"	Suppressed	132831	Suppressed
+	"Nebraska"	"31"	"10-14 years"	"10-14"	Suppressed	130961	Suppressed
+	"Nebraska"	"31"	"15-19 years"	"15-19"	Suppressed	129683	Suppressed
+	"Nebraska"	"31"	"20-24 years"	"20-24"	Suppressed	139759	Suppressed
+	"Nebraska"	"31"	"25-34 years"	"25-34"	Suppressed	252946	Suppressed
+	"Nebraska"	"31"	"35-44 years"	"35-44"	Suppressed	230528	Suppressed
+	"Nebraska"	"31"	"45-54 years"	"45-54"	39	229683	16.98
+	"Nebraska"	"31"	"55-64 years"	"55-64"	167	241172	69.25
+	"Nebraska"	"31"	"65-74 years"	"65-74"	319	159561	199.92
+	"Nebraska"	"31"	"75-84 years"	"75-84"	561	84361	665.00
+	"Nebraska"	"31"	"85+ years"	"85+"	693	42822	1618.33
+"Total"	"Nebraska"	"31"			1808	1907116	94.80
+	"Nevada"	"32"	"< 1 year"	"1"	Suppressed	36972	Suppressed
+	"Nevada"	"32"	"1-4 years"	"1-4"	Suppressed	147490	Suppressed
+	"Nevada"	"32"	"5-9 years"	"5-9"	Suppressed	191074	Suppressed
+	"Nevada"	"32"	"10-14 years"	"10-14"	Suppressed	188525	Suppressed
+	"Nevada"	"32"	"15-19 years"	"15-19"	Suppressed	177662	Suppressed
+	"Nevada"	"32"	"20-24 years"	"20-24"	Suppressed	185929	Suppressed
+	"Nevada"	"32"	"25-34 years"	"25-34"	17	428127	3.97 (Unreliable)
+	"Nevada"	"32"	"35-44 years"	"35-44"	23	387758	5.93
+	"Nevada"	"32"	"45-54 years"	"45-54"	99	392859	25.20
+	"Nevada"	"32"	"55-64 years"	"55-64"	286	362520	78.89
+	"Nevada"	"32"	"65-74 years"	"65-74"	707	275598	256.53
+	"Nevada"	"32"	"75-84 years"	"75-84"	855	124007	689.48
+	"Nevada"	"32"	"85+ years"	"85+"	667	41537	1605.80
+"Total"	"Nevada"	"32"			2680	2940058	91.15
+	"New Hampshire"	"33"	"< 1 year"	"1"	Suppressed	12479	Suppressed
+	"New Hampshire"	"33"	"1-4 years"	"1-4"	Suppressed	51721	Suppressed
+	"New Hampshire"	"33"	"5-9 years"	"5-9"	Suppressed	69926	Suppressed
+	"New Hampshire"	"33"	"10-14 years"	"10-14"	Suppressed	77217	Suppressed
+	"New Hampshire"	"33"	"15-19 years"	"15-19"	Suppressed	86070	Suppressed
+	"New Hampshire"	"33"	"20-24 years"	"20-24"	Suppressed	90691	Suppressed
+	"New Hampshire"	"33"	"25-34 years"	"25-34"	Suppressed	160604	Suppressed
+	"New Hampshire"	"33"	"35-44 years"	"35-44"	Suppressed	152181	Suppressed
+	"New Hampshire"	"33"	"45-54 years"	"45-54"	28	200946	13.93
+	"New Hampshire"	"33"	"55-64 years"	"55-64"	110	206156	53.36
+	"New Hampshire"	"33"	"65-74 years"	"65-74"	232	135668	171.01
+	"New Hampshire"	"33"	"75-84 years"	"75-84"	350	61820	566.16
+	"New Hampshire"	"33"	"85+ years"	"85+"	417	29316	1422.43
+"Total"	"New Hampshire"	"33"			1150	1334795	86.16
+	"New Jersey"	"34"	"< 1 year"	"1"	Suppressed	102267	Suppressed
+	"New Jersey"	"34"	"1-4 years"	"1-4"	Suppressed	419065	Suppressed
+	"New Jersey"	"34"	"5-9 years"	"5-9"	Suppressed	545066	Suppressed
+	"New Jersey"	"34"	"10-14 years"	"10-14"	Suppressed	564801	Suppressed
+	"New Jersey"	"34"	"15-19 years"	"15-19"	Suppressed	570777	Suppressed
+	"New Jersey"	"34"	"20-24 years"	"20-24"	Suppressed	569519	Suppressed
+	"New Jersey"	"34"	"25-34 years"	"25-34"	35	1162064	3.01
+	"New Jersey"	"34"	"35-44 years"	"35-44"	45	1146197	3.93
+	"New Jersey"	"34"	"45-54 years"	"45-54"	212	1296291	16.35
+	"New Jersey"	"34"	"55-64 years"	"55-64"	554	1195810	46.33
+	"New Jersey"	"34"	"65-74 years"	"65-74"	1225	776619	157.74
+	"New Jersey"	"34"	"75-84 years"	"75-84"	1945	397267	489.60
+	"New Jersey"	"34"	"85+ years"	"85+"	2718	198726	1367.71
+"Total"	"New Jersey"	"34"			6766	8944469	75.64
+	"New Mexico"	"35"	"< 1 year"	"1"	Suppressed	25075	Suppressed
+	"New Mexico"	"35"	"1-4 years"	"1-4"	Suppressed	103875	Suppressed
+	"New Mexico"	"35"	"5-9 years"	"5-9"	Suppressed	138784	Suppressed
+	"New Mexico"	"35"	"10-14 years"	"10-14"	Suppressed	138823	Suppressed
+	"New Mexico"	"35"	"15-19 years"	"15-19"	Suppressed	138701	Suppressed
+	"New Mexico"	"35"	"20-24 years"	"20-24"	Suppressed	145767	Suppressed
+	"New Mexico"	"35"	"25-34 years"	"25-34"	14	279900	5.00 (Unreliable)
+	"New Mexico"	"35"	"35-44 years"	"35-44"	23	242692	9.48
+	"New Mexico"	"35"	"45-54 years"	"45-54"	55	251742	21.85
+	"New Mexico"	"35"	"55-64 years"	"55-64"	185	273230	67.71
+	"New Mexico"	"35"	"65-74 years"	"65-74"	402	203298	197.74
+	"New Mexico"	"35"	"75-84 years"	"75-84"	590	99532	592.77
+	"New Mexico"	"35"	"85+ years"	"85+"	532	39596	1343.57
+"Total"	"New Mexico"	"35"			1813	2081015	87.12
+	"New York"	"36"	"< 1 year"	"1"	30	233692	12.84
+	"New York"	"36"	"1-4 years"	"1-4"	11	926365	1.19 (Unreliable)
+	"New York"	"36"	"5-9 years"	"5-9"	13	1144642	1.14 (Unreliable)
+	"New York"	"36"	"10-14 years"	"10-14"	12	1151632	1.04 (Unreliable)
+	"New York"	"36"	"15-19 years"	"15-19"	15	1237380	1.21 (Unreliable)
+	"New York"	"36"	"20-24 years"	"20-24"	37	1391899	2.66
+	"New York"	"36"	"25-34 years"	"25-34"	62	2890773	2.14
+	"New York"	"36"	"35-44 years"	"35-44"	105	2462561	4.26
+	"New York"	"36"	"45-54 years"	"45-54"	373	2706129	13.78
+	"New York"	"36"	"55-64 years"	"55-64"	1342	2567707	52.26
+	"New York"	"36"	"65-74 years"	"65-74"	2788	1713040	162.75
+	"New York"	"36"	"75-84 years"	"75-84"	4036	881069	458.08
+	"New York"	"36"	"85+ years"	"85+"	5453	438400	1243.84
+"Total"	"New York"	"36"			14277	19745289	72.31
+	"North Carolina"	"37"	"< 1 year"	"1"	21	120842	17.38
+	"North Carolina"	"37"	"1-4 years"	"1-4"	Suppressed	485468	Suppressed
+	"North Carolina"	"37"	"5-9 years"	"5-9"	Suppressed	640169	Suppressed
+	"North Carolina"	"37"	"10-14 years"	"10-14"	Suppressed	652704	Suppressed
+	"North Carolina"	"37"	"15-19 years"	"15-19"	Suppressed	669708	Suppressed
+	"North Carolina"	"37"	"20-24 years"	"20-24"	11	696063	1.58 (Unreliable)
+	"North Carolina"	"37"	"25-34 years"	"25-34"	38	1335454	2.85
+	"North Carolina"	"37"	"35-44 years"	"35-44"	105	1290237	8.14
+	"North Carolina"	"37"	"45-54 years"	"45-54"	359	1385750	25.91
+	"North Carolina"	"37"	"55-64 years"	"55-64"	1102	1300928	84.71
+	"North Carolina"	"37"	"65-74 years"	"65-74"	2228	941813	236.57
+	"North Carolina"	"37"	"75-84 years"	"75-84"	2763	449842	614.22
+	"North Carolina"	"37"	"85+ years"	"85+"	2685	177810	1510.04
+"Total"	"North Carolina"	"37"			9332	10146788	91.97
+	"North Dakota"	"38"	"< 1 year"	"1"	Suppressed	11505	Suppressed
+	"North Dakota"	"38"	"1-4 years"	"1-4"	Suppressed	43731	Suppressed
+	"North Dakota"	"38"	"5-9 years"	"5-9"	Suppressed	49799	Suppressed
+	"North Dakota"	"38"	"10-14 years"	"10-14"	Suppressed	45468	Suppressed
+	"North Dakota"	"38"	"15-19 years"	"15-19"	Suppressed	48352	Suppressed
+	"North Dakota"	"38"	"20-24 years"	"20-24"	Suppressed	68568	Suppressed
+	"North Dakota"	"38"	"25-34 years"	"25-34"	Suppressed	113553	Suppressed
+	"North Dakota"	"38"	"35-44 years"	"35-44"	Suppressed	86414	Suppressed
+	"North Dakota"	"38"	"45-54 years"	"45-54"	10	85555	11.69 (Unreliable)
+	"North Dakota"	"38"	"55-64 years"	"55-64"	50	95008	52.63
+	"North Dakota"	"38"	"65-74 years"	"65-74"	105	59210	177.33
+	"North Dakota"	"38"	"75-84 years"	"75-84"	183	32642	560.63
+	"North Dakota"	"38"	"85+ years"	"85+"	263	18147	1449.28
+"Total"	"North Dakota"	"38"			625	757952	82.46
+	"Ohio"	"39"	"< 1 year"	"1"	32	137896	23.21
+	"Ohio"	"39"	"1-4 years"	"1-4"	Suppressed	560027	Suppressed
+	"Ohio"	"39"	"5-9 years"	"5-9"	Suppressed	712455	Suppressed
+	"Ohio"	"39"	"10-14 years"	"10-14"	Suppressed	738023	Suppressed
+	"Ohio"	"39"	"15-19 years"	"15-19"	11	768057	1.43 (Unreliable)
+	"Ohio"	"39"	"20-24 years"	"20-24"	12	771199	1.56 (Unreliable)
+	"Ohio"	"39"	"25-34 years"	"25-34"	56	1506910	3.72
+	"Ohio"	"39"	"35-44 years"	"35-44"	115	1380120	8.33
+	"Ohio"	"39"	"45-54 years"	"45-54"	428	1547688	27.65
+	"Ohio"	"39"	"55-64 years"	"55-64"	1429	1605369	89.01
+	"Ohio"	"39"	"65-74 years"	"65-74"	2713	1081030	250.96
+	"Ohio"	"39"	"75-84 years"	"75-84"	3512	551452	636.86
+	"Ohio"	"39"	"85+ years"	"85+"	3619	254147	1423.98
+"Total"	"Ohio"	"39"			11943	11614373	102.83
+	"Oklahoma"	"40"	"< 1 year"	"1"	Suppressed	52409	Suppressed
+	"Oklahoma"	"40"	"1-4 years"	"1-4"	Suppressed	214501	Suppressed
+	"Oklahoma"	"40"	"5-9 years"	"5-9"	Suppressed	270565	Suppressed
+	"Oklahoma"	"40"	"10-14 years"	"10-14"	Suppressed	265766	Suppressed
+	"Oklahoma"	"40"	"15-19 years"	"15-19"	Suppressed	262106	Suppressed
+	"Oklahoma"	"40"	"20-24 years"	"20-24"	Suppressed	279362	Suppressed
+	"Oklahoma"	"40"	"25-34 years"	"25-34"	18	545460	3.30 (Unreliable)
+	"Oklahoma"	"40"	"35-44 years"	"35-44"	33	478784	6.89
+	"Oklahoma"	"40"	"45-54 years"	"45-54"	135	476602	28.33
+	"Oklahoma"	"40"	"55-64 years"	"55-64"	546	487868	111.92
+	"Oklahoma"	"40"	"65-74 years"	"65-74"	980	341890	286.64
+	"Oklahoma"	"40"	"75-84 years"	"75-84"	1264	177678	711.40
+	"Oklahoma"	"40"	"85+ years"	"85+"	991	70570	1404.28
+"Total"	"Oklahoma"	"40"			3998	3923561	101.90
+	"Oregon"	"41"	"< 1 year"	"1"	Suppressed	46900	Suppressed
+	"Oregon"	"41"	"1-4 years"	"1-4"	Suppressed	188900	Suppressed
+	"Oregon"	"41"	"5-9 years"	"5-9"	Suppressed	242871	Suppressed
+	"Oregon"	"41"	"10-14 years"	"10-14"	Suppressed	241512	Suppressed
+	"Oregon"	"41"	"15-19 years"	"15-19"	Suppressed	246356	Suppressed
+	"Oregon"	"41"	"20-24 years"	"20-24"	Suppressed	267766	Suppressed
+	"Oregon"	"41"	"25-34 years"	"25-34"	13	574842	2.26 (Unreliable)
+	"Oregon"	"41"	"35-44 years"	"35-44"	28	531899	5.26
+	"Oregon"	"41"	"45-54 years"	"45-54"	96	515568	18.62
+	"Oregon"	"41"	"55-64 years"	"55-64"	345	547973	62.96
+	"Oregon"	"41"	"65-74 years"	"65-74"	787	415647	189.34
+	"Oregon"	"41"	"75-84 years"	"75-84"	925	187977	492.08
+	"Oregon"	"41"	"85+ years"	"85+"	914	85254	1072.09
+"Total"	"Oregon"	"41"			3129	4093465	76.44
+	"Pennsylvania"	"42"	"< 1 year"	"1"	16	140495	11.39 (Unreliable)
+	"Pennsylvania"	"42"	"1-4 years"	"1-4"	10	571270	1.75 (Unreliable)
+	"Pennsylvania"	"42"	"5-9 years"	"5-9"	Suppressed	731623	Suppressed
+	"Pennsylvania"	"42"	"10-14 years"	"10-14"	Suppressed	754496	Suppressed
+	"Pennsylvania"	"42"	"15-19 years"	"15-19"	Suppressed	823097	Suppressed
+	"Pennsylvania"	"42"	"20-24 years"	"20-24"	11	841422	1.31 (Unreliable)
+	"Pennsylvania"	"42"	"25-34 years"	"25-34"	47	1677711	2.80
+	"Pennsylvania"	"42"	"35-44 years"	"35-44"	80	1481167	5.40
+	"Pennsylvania"	"42"	"45-54 years"	"45-54"	353	1735172	20.34
+	"Pennsylvania"	"42"	"55-64 years"	"55-64"	1093	1804053	60.59
+	"Pennsylvania"	"42"	"65-74 years"	"65-74"	2385	1237006	192.80
+	"Pennsylvania"	"42"	"75-84 years"	"75-84"	3712	652247	569.11
+	"Pennsylvania"	"42"	"85+ years"	"85+"	4641	334468	1387.58
+"Total"	"Pennsylvania"	"42"			12359	12784227	96.67
+	"Rhode Island"	"44"	"< 1 year"	"1"	Suppressed	10846	Suppressed
+	"Rhode Island"	"44"	"1-4 years"	"1-4"	Suppressed	43862	Suppressed
+	"Rhode Island"	"44"	"5-9 years"	"5-9"	Suppressed	55833	Suppressed
+	"Rhode Island"	"44"	"10-14 years"	"10-14"	Suppressed	59854	Suppressed
+	"Rhode Island"	"44"	"15-19 years"	"15-19"	Suppressed	73110	Suppressed
+	"Rhode Island"	"44"	"20-24 years"	"20-24"	Suppressed	79252	Suppressed
+	"Rhode Island"	"44"	"25-34 years"	"25-34"	Suppressed	143107	Suppressed
+	"Rhode Island"	"44"	"35-44 years"	"35-44"	Suppressed	122946	Suppressed
+	"Rhode Island"	"44"	"45-54 years"	"45-54"	19	146757	12.95 (Unreliable)
+	"Rhode Island"	"44"	"55-64 years"	"55-64"	90	146895	61.27
+	"Rhode Island"	"44"	"65-74 years"	"65-74"	152	96933	156.81
+	"Rhode Island"	"44"	"75-84 years"	"75-84"	222	48671	456.12
+	"Rhode Island"	"44"	"85+ years"	"85+"	345	28360	1216.50
+"Total"	"Rhode Island"	"44"			839	1056426	79.42
+	"South Carolina"	"45"	"< 1 year"	"1"	Suppressed	58245	Suppressed
+	"South Carolina"	"45"	"1-4 years"	"1-4"	Suppressed	234889	Suppressed
+	"South Carolina"	"45"	"5-9 years"	"5-9"	Suppressed	309684	Suppressed
+	"South Carolina"	"45"	"10-14 years"	"10-14"	Suppressed	306759	Suppressed
+	"South Carolina"	"45"	"15-19 years"	"15-19"	Suppressed	319048	Suppressed
+	"South Carolina"	"45"	"20-24 years"	"20-24"	Suppressed	337532	Suppressed
+	"South Carolina"	"45"	"25-34 years"	"25-34"	20	655031	3.05
+	"South Carolina"	"45"	"35-44 years"	"35-44"	53	599410	8.84
+	"South Carolina"	"45"	"45-54 years"	"45-54"	207	652087	31.74
+	"South Carolina"	"45"	"55-64 years"	"55-64"	626	658202	95.11
+	"South Carolina"	"45"	"65-74 years"	"65-74"	1181	513286	230.09
+	"South Carolina"	"45"	"75-84 years"	"75-84"	1398	232798	600.52
+	"South Carolina"	"45"	"85+ years"	"85+"	1212	84148	1440.32
+"Total"	"South Carolina"	"45"			4726	4961119	95.26
+	"South Dakota"	"46"	"< 1 year"	"1"	Suppressed	12217	Suppressed
+	"South Dakota"	"46"	"1-4 years"	"1-4"	Suppressed	49152	Suppressed
+	"South Dakota"	"46"	"5-9 years"	"5-9"	Suppressed	60477	Suppressed
+	"South Dakota"	"46"	"10-14 years"	"10-14"	Suppressed	57842	Suppressed
+	"South Dakota"	"46"	"15-19 years"	"15-19"	Suppressed	56838	Suppressed
+	"South Dakota"	"46"	"20-24 years"	"20-24"	Suppressed	61366	Suppressed
+	"South Dakota"	"46"	"25-34 years"	"25-34"	Suppressed	112266	Suppressed
+	"South Dakota"	"46"	"35-44 years"	"35-44"	Suppressed	98592	Suppressed
+	"South Dakota"	"46"	"45-54 years"	"45-54"	22	102195	21.53
+	"South Dakota"	"46"	"55-64 years"	"55-64"	74	115704	63.96
+	"South Dakota"	"46"	"65-74 years"	"65-74"	147	77464	189.77
+	"South Dakota"	"46"	"75-84 years"	"75-84"	219	39825	549.91
+	"South Dakota"	"46"	"85+ years"	"85+"	322	21516	1496.56
+"Total"	"South Dakota"	"46"			798	865454	92.21
+	"Tennessee"	"47"	"< 1 year"	"1"	18	81020	22.22 (Unreliable)
+	"Tennessee"	"47"	"1-4 years"	"1-4"	Suppressed	326579	Suppressed
+	"Tennessee"	"47"	"5-9 years"	"5-9"	Suppressed	414825	Suppressed
+	"Tennessee"	"47"	"10-14 years"	"10-14"	Suppressed	420383	Suppressed
+	"Tennessee"	"47"	"15-19 years"	"15-19"	Suppressed	421958	Suppressed
+	"Tennessee"	"47"	"20-24 years"	"20-24"	Suppressed	454897	Suppressed
+	"Tennessee"	"47"	"25-34 years"	"25-34"	37	892054	4.15
+	"Tennessee"	"47"	"35-44 years"	"35-44"	84	831284	10.10
+	"Tennessee"	"47"	"45-54 years"	"45-54"	296	894419	33.09
+	"Tennessee"	"47"	"55-64 years"	"55-64"	1007	866723	116.18
+	"Tennessee"	"47"	"65-74 years"	"65-74"	1831	628409	291.37
+	"Tennessee"	"47"	"75-84 years"	"75-84"	2204	302936	727.55
+	"Tennessee"	"47"	"85+ years"	"85+"	1872	115707	1617.88
+"Total"	"Tennessee"	"47"			7374	6651194	110.87
+	"Texas"	"48"	"< 1 year"	"1"	33	405899	8.13
+	"Texas"	"48"	"1-4 years"	"1-4"	25	1613272	1.55
+	"Texas"	"48"	"5-9 years"	"5-9"	17	2038319	0.83 (Unreliable)
+	"Texas"	"48"	"10-14 years"	"10-14"	14	2029062	0.69 (Unreliable)
+	"Texas"	"48"	"15-19 years"	"15-19"	23	1970588	1.17
+	"Texas"	"48"	"20-24 years"	"20-24"	36	2005169	1.80
+	"Texas"	"48"	"25-34 years"	"25-34"	95	4085728	2.33
+	"Texas"	"48"	"35-44 years"	"35-44"	194	3726287	5.21
+	"Texas"	"48"	"45-54 years"	"45-54"	546	3519013	15.52
+	"Texas"	"48"	"55-64 years"	"55-64"	1900	3116019	60.98
+	"Texas"	"48"	"65-74 years"	"65-74"	3998	2008449	199.06
+	"Texas"	"48"	"75-84 years"	"75-84"	5357	957001	559.77
+	"Texas"	"48"	"85+ years"	"85+"	5123	387790	1321.08
+"Total"	"Texas"	"48"			17361	27862596	62.31
+	"Utah"	"49"	"< 1 year"	"1"	Suppressed	51162	Suppressed
+	"Utah"	"49"	"1-4 years"	"1-4"	Suppressed	202288	Suppressed
+	"Utah"	"49"	"5-9 years"	"5-9"	Suppressed	263134	Suppressed
+	"Utah"	"49"	"10-14 years"	"10-14"	Suppressed	257113	Suppressed
+	"Utah"	"49"	"15-19 years"	"15-19"	Suppressed	238378	Suppressed
+	"Utah"	"49"	"20-24 years"	"20-24"	Suppressed	252981	Suppressed
+	"Utah"	"49"	"25-34 years"	"25-34"	12	448845	2.67 (Unreliable)
+	"Utah"	"49"	"35-44 years"	"35-44"	30	410933	7.30
+	"Utah"	"49"	"45-54 years"	"45-54"	52	314060	16.56
+	"Utah"	"49"	"55-64 years"	"55-64"	172	291159	59.07
+	"Utah"	"49"	"65-74 years"	"65-74"	327	191202	171.02
+	"Utah"	"49"	"75-84 years"	"75-84"	493	93584	526.80
+	"Utah"	"49"	"85+ years"	"85+"	544	36378	1495.41
+"Total"	"Utah"	"49"			1642	3051217	53.81
+	"Vermont"	"50"	"< 1 year"	"1"	Suppressed	6051	Suppressed
+	"Vermont"	"50"	"1-4 years"	"1-4"	Suppressed	24590	Suppressed
+	"Vermont"	"50"	"5-9 years"	"5-9"	Suppressed	31891	Suppressed
+	"Vermont"	"50"	"10-14 years"	"10-14"	Suppressed	34026	Suppressed
+	"Vermont"	"50"	"15-19 years"	"15-19"	Suppressed	42608	Suppressed
+	"Vermont"	"50"	"20-24 years"	"20-24"	Suppressed	47105	Suppressed
+	"Vermont"	"50"	"25-34 years"	"25-34"	Suppressed	72709	Suppressed
+	"Vermont"	"50"	"35-44 years"	"35-44"	Suppressed	69504	Suppressed
+	"Vermont"	"50"	"45-54 years"	"45-54"	13	86287	15.07 (Unreliable)
+	"Vermont"	"50"	"55-64 years"	"55-64"	74	96891	76.37
+	"Vermont"	"50"	"65-74 years"	"65-74"	100	67676	147.76
+	"Vermont"	"50"	"75-84 years"	"75-84"	142	30973	458.46
+	"Vermont"	"50"	"85+ years"	"85+"	177	14283	1239.24
+"Total"	"Vermont"	"50"			514	624594	82.29
+	"Virginia"	"51"	"< 1 year"	"1"	12	101443	11.83 (Unreliable)
+	"Virginia"	"51"	"1-4 years"	"1-4"	10	409058	2.44 (Unreliable)
+	"Virginia"	"51"	"5-9 years"	"5-9"	Suppressed	519056	Suppressed
+	"Virginia"	"51"	"10-14 years"	"10-14"	Suppressed	522183	Suppressed
+	"Virginia"	"51"	"15-19 years"	"15-19"	Suppressed	540789	Suppressed
+	"Virginia"	"51"	"20-24 years"	"20-24"	Suppressed	589801	Suppressed
+	"Virginia"	"51"	"25-34 years"	"25-34"	28	1172060	2.39
+	"Virginia"	"51"	"35-44 years"	"35-44"	46	1085925	4.24
+	"Virginia"	"51"	"45-54 years"	"45-54"	193	1162384	16.60
+	"Virginia"	"51"	"55-64 years"	"55-64"	638	1080365	59.05
+	"Virginia"	"51"	"65-74 years"	"65-74"	1356	734524	184.61
+	"Virginia"	"51"	"75-84 years"	"75-84"	1835	348893	525.95
+	"Virginia"	"51"	"85+ years"	"85+"	1971	145327	1356.25
+"Total"	"Virginia"	"51"			6102	8411808	72.54
+	"Washington"	"53"	"< 1 year"	"1"	Suppressed	91223	Suppressed
+	"Washington"	"53"	"1-4 years"	"1-4"	Suppressed	364116	Suppressed
+	"Washington"	"53"	"5-9 years"	"5-9"	Suppressed	459773	Suppressed
+	"Washington"	"53"	"10-14 years"	"10-14"	Suppressed	443761	Suppressed
+	"Washington"	"53"	"15-19 years"	"15-19"	Suppressed	443583	Suppressed
+	"Washington"	"53"	"20-24 years"	"20-24"	Suppressed	488236	Suppressed
+	"Washington"	"53"	"25-34 years"	"25-34"	25	1081072	2.31
+	"Washington"	"53"	"35-44 years"	"35-44"	41	941493	4.35
+	"Washington"	"53"	"45-54 years"	"45-54"	145	947910	15.30
+	"Washington"	"53"	"55-64 years"	"55-64"	568	945770	60.06
+	"Washington"	"53"	"65-74 years"	"65-74"	1139	656507	173.49
+	"Washington"	"53"	"75-84 years"	"75-84"	1489	292067	509.81
+	"Washington"	"53"	"85+ years"	"85+"	1740	132489	1313.32
+"Total"	"Washington"	"53"			5169	7288000	70.92
+	"West Virginia"	"54"	"< 1 year"	"1"	Suppressed	19645	Suppressed
+	"West Virginia"	"54"	"1-4 years"	"1-4"	Suppressed	81374	Suppressed
+	"West Virginia"	"54"	"5-9 years"	"5-9"	Suppressed	103260	Suppressed
+	"West Virginia"	"54"	"10-14 years"	"10-14"	Suppressed	105340	Suppressed
+	"West Virginia"	"54"	"15-19 years"	"15-19"	Suppressed	109399	Suppressed
+	"West Virginia"	"54"	"20-24 years"	"20-24"	Suppressed	117685	Suppressed
+	"West Virginia"	"54"	"25-34 years"	"25-34"	Suppressed	219000	Suppressed
+	"West Virginia"	"54"	"35-44 years"	"35-44"	29	222833	13.01
+	"West Virginia"	"54"	"45-54 years"	"45-54"	115	243143	47.30
+	"West Virginia"	"54"	"55-64 years"	"55-64"	370	265906	139.15
+	"West Virginia"	"54"	"65-74 years"	"65-74"	625	203027	307.84
+	"West Virginia"	"54"	"75-84 years"	"75-84"	728	101168	719.60
+	"West Virginia"	"54"	"85+ years"	"85+"	620	39322	1576.73
+"Total"	"West Virginia"	"54"			2501	1831102	136.58
+	"Wisconsin"	"55"	"< 1 year"	"1"	16	65980	24.25 (Unreliable)
+	"Wisconsin"	"55"	"1-4 years"	"1-4"	Suppressed	270926	Suppressed
+	"Wisconsin"	"55"	"5-9 years"	"5-9"	Suppressed	357244	Suppressed
+	"Wisconsin"	"55"	"10-14 years"	"10-14"	Suppressed	367371	Suppressed
+	"Wisconsin"	"55"	"15-19 years"	"15-19"	Suppressed	381178	Suppressed
+	"Wisconsin"	"55"	"20-24 years"	"20-24"	Suppressed	406855	Suppressed
+	"Wisconsin"	"55"	"25-34 years"	"25-34"	10	727719	1.37 (Unreliable)
+	"Wisconsin"	"55"	"35-44 years"	"35-44"	31	686760	4.51
+	"Wisconsin"	"55"	"45-54 years"	"45-54"	143	779989	18.33
+	"Wisconsin"	"55"	"55-64 years"	"55-64"	412	806268	51.10
+	"Wisconsin"	"55"	"65-74 years"	"65-74"	1006	530671	189.57
+	"Wisconsin"	"55"	"75-84 years"	"75-84"	1388	268463	517.02
+	"Wisconsin"	"55"	"85+ years"	"85+"	1771	129284	1369.85
+"Total"	"Wisconsin"	"55"			4796	5778708	82.99
+	"Wyoming"	"56"	"< 1 year"	"1"	Suppressed	7406	Suppressed
+	"Wyoming"	"56"	"1-4 years"	"1-4"	Suppressed	30739	Suppressed
+	"Wyoming"	"56"	"5-9 years"	"5-9"	Suppressed	40249	Suppressed
+	"Wyoming"	"56"	"10-14 years"	"10-14"	Suppressed	38402	Suppressed
+	"Wyoming"	"56"	"15-19 years"	"15-19"	Suppressed	36930	Suppressed
+	"Wyoming"	"56"	"20-24 years"	"20-24"	Suppressed	40363	Suppressed
+	"Wyoming"	"56"	"25-34 years"	"25-34"	Suppressed	81948	Suppressed
+	"Wyoming"	"56"	"35-44 years"	"35-44"	Suppressed	71334	Suppressed
+	"Wyoming"	"56"	"45-54 years"	"45-54"	12	69052	17.38 (Unreliable)
+	"Wyoming"	"56"	"55-64 years"	"55-64"	66	81266	81.21
+	"Wyoming"	"56"	"65-74 years"	"65-74"	123	53240	231.03
+	"Wyoming"	"56"	"75-84 years"	"75-84"	156	24037	649.00
+	"Wyoming"	"56"	"85+ years"	"85+"	156	10535	1480.78
+"Total"	"Wyoming"	"56"			523	585501	89.33
+"Total"					266032	323127513	82.33
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"Age Group: < 1 year; 1-4 years; 5-9 years; 10-14 years; 15-19 years; 20-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64"
+"years; 65-74 years; 75-84 years; 85+ years"
+"ICD-10 Codes: J00-J98 (Diseases of the respiratory system)"
+"Year: 2016"
+"Group By: State; Age Group"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Jul 7, 2021 11:31:39 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No."
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Jul 7, 2021 11:31:39 AM"
+"---"
+Caveats:
+"1. Due to confidentiality constraints, sub-national death counts and rates are suppressed when the number of deaths is less than"
+"10. Figures representing infant deaths and births have additional constraints for national and local data. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated."
