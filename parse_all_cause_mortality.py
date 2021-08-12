@@ -24,3 +24,9 @@ df_county = df_county.groupby(['State ANSI', 'County ANSI', 'Age Group Code']).s
 df_state= df_state.replace({'Deaths': {'Suppressed':np.nan, 'Missing':np.nan}, 'Population': {'Suppressed':np.nan, 'Missing':np.nan}})
 df_state['Deaths'] = df_state['Deaths'].astype(float)
 df_state = df_state.groupby(['State Code', 'Age Group Code'])['Deaths'].sum()
+i = 0
+for i in range(df_county.shape[0]):
+    if df_county.iloc[i, 0] == 0.0:
+        print(df_county.iloc[i, 0])
+
+#df_county.loc[1.0, :, '0-5'].sum()
