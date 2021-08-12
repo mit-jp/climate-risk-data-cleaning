@@ -1,3 +1,5 @@
+'''Access data from Census API'''
+
 from census import Census
 from us import states
 import pandas
