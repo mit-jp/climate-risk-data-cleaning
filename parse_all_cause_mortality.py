@@ -15,7 +15,7 @@ df_state = df_state.dropna(how='all')
 df_state = df_state.drop(['State'], axis=1)
 df_state = df_state.replace({'Age Group Code':{'1': '0-5', '1-4':'0-5', '5-9':'5-25', '10-14':'5-25', '15-19':'5-25', '20-24':'5-25', '25-34':'25+', '35-44':'25+', '45-54':'25+', '55-64':'25+', '65-74':'25+', '75-84':'25+', '85+':'25+'}})
 df_national = df_national.drop(['Notes', 'Age Group', 'Crude Rate'], axis=1)
-df_national = df_county.dropna(how='all')
+df_national = df_national.dropna(how='all')
 df_national = df_national.replace({'Age Group Code':{'1': '0-5', '1-4':'0-5', '5-9':'5-25', '10-14':'5-25', '15-19':'5-25', '20-24':'5-25', '25-34':'25+', '35-44':'25+', '45-54':'25+', '55-64':'25+', '65-74':'25+', '75-84':'25+', '85+':'25+'}})
 df_county= df_county.replace({'Deaths': {'Suppressed':np.nan, 'Missing':np.nan}, 'Population': {'Suppressed':np.nan, 'Missing':np.nan}})
 df_county['Deaths'] = df_county['Deaths'].astype(float)
@@ -23,10 +23,21 @@ df_county['Population'] = df_county['Population'].astype(float)
 df_county = df_county.groupby(['State ANSI', 'County ANSI', 'Age Group Code']).sum()
 df_state= df_state.replace({'Deaths': {'Suppressed':np.nan, 'Missing':np.nan}, 'Population': {'Suppressed':np.nan, 'Missing':np.nan}})
 df_state['Deaths'] = df_state['Deaths'].astype(float)
-df_state = df_state.groupby(['State Code', 'Age Group Code'])['Deaths'].sum()
-i = 0
-for i in range(df_county.shape[0]):
-    if df_county.iloc[i, 0] == 0.0:
-        print(df_county.iloc[i, 0])
-
+df_state = df_state.groupby(['State Code', 'Age Group Code']).sum()
+df_national = df_national.groupby(['Age Group Code']).sum()
+df_county = df_county.unstack(level=2)
+df_county.columns = ['_'.join(col) for col in df_county.columns.values]
+df_county = df_county.reset_index()
+df_state = df_state.unstack(level=1)
+df_state.columns = ['_'.join(col) for col in df_state.columns.values]
+df_state[['CalD0-5', 'CalD5-25', 'CalD25+', 'CalP0-5', 'CalP5-25', 'CalP25+']] = [np.nan, np.nan, np.nan, np.nan, np.nan, np.nan]
+df_state = df_state.reset_index()
+df_county = df_county.sort_values(by=['State ANSI', 'County ANSI'])
+df_county = diff.fix(df_county, 1, 1, 1)
+df_county.to_csv(r'Parsed data/All Cause Mortality.csv', index = False)
+#df_national = df_national.unstack(level=0)
+#df_national.columns = ['_'.join(col) for col in df_national.columns.values]
 #df_county.loc[1.0, :, '0-5'].sum()
+'''i = 0
+for i in range(df_county.shape[0]):
+    df_county.loc[(df_county['Deaths_0-5'] != 0.0) & (df_county['State ANSI'] == df_state.iloc[i, 0])].sum()'''
