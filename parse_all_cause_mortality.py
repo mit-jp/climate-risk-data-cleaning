@@ -37,7 +37,7 @@ df_county = df_county.sort_values(by=['State ANSI', 'County ANSI'])
 df_county['Percent Deaths 0-5'] = df_county['Deaths_0-5']/df_county['Population_0-5']
 df_county['Percent Deaths 5-25'] = df_county['Deaths_5-25']/df_county['Population_5-25']
 df_county['Percent Deaths 25+'] = df_county['Deaths_25+']/df_county['Population_25+']
-#df_county = diff.fix(df_county, 1, 1, 1)
+df_county = diff.fix(df_county, 1, 1, 1)
 #df_county.to_csv(r'Parsed data/All Cause Mortality.csv', index = False)
 #df_national = df_national.unstack(level=0)
 #df_national.columns = ['_'.join(col) for col in df_national.columns.values]
@@ -74,3 +74,5 @@ for i in range(df_county.shape[0]):
         if df_county.iloc[i, j + 8] == 0:
             state = df_state[df_state['State Code'] == df_county.iloc[i, 0]]
             df_county.iloc[i, j + 8] = state.iloc[0, j + 13]
+
+df_county.to_csv(r'Parsed data/All Cause Mortality.csv', index = False)

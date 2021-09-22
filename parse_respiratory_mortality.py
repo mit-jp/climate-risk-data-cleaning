@@ -29,8 +29,44 @@ df_county.columns = ['_'.join(col) for col in df_county.columns.values]
 df_county = df_county.reset_index()
 df_state = df_state.unstack(level=1)
 df_state.columns = ['_'.join(col) for col in df_state.columns.values]
-df_state[['CalD0-5', 'CalD5-25', 'CalD25+', 'CalP0-5', 'CalP5-25', 'CalP25+']] = [np.nan, np.nan, np.nan, np.nan, np.nan, np.nan]
+df_state[['CalD0-5', 'CalD5-25', 'CalD25+', 'CalP0-5', 'CalP5-25', 'CalP25+', 'Per0-5', 'Per5-25', 'Per25+']] = [np.nan, np.nan, np.nan, np.nan, np.nan, np.nan, np.nan, np.nan, np.nan]
 df_state = df_state.reset_index()
 df_county = df_county.sort_values(by=['State ANSI', 'County ANSI'])
+df_county['Percent Deaths 0-5'] = df_county['Deaths_0-5']/df_county['Population_0-5']
+df_county['Percent Deaths 5-25'] = df_county['Deaths_5-25']/df_county['Population_5-25']
+df_county['Percent Deaths 25+'] = df_county['Deaths_25+']/df_county['Population_25+']
 df_county = diff.fix(df_county, 1, 1, 1)
+
+i = 0
+for i in range(df_state.shape[0]):
+    lookatD = df_county[df_county['State ANSI'] == df_state.iloc[i, 0]]
+    j = 0
+    for j in range(3):
+        df_state.iloc[i, j+7] = lookatD.iloc[:, j+2].sum() # different for population sum, fix
+    lookP0_5 = df_county[df_county['State ANSI'] == df_state.iloc[i, 0]]
+    lookatP0_5 = lookP0_5[lookP0_5['Deaths_0-5'] == 0]
+    lookP5_25 = df_county[df_county['State ANSI'] == df_state.iloc[i, 0]]
+    lookatP5_25 = lookP5_25[lookP5_25['Deaths_5-25'] == 0]
+    lookP25 = df_county[df_county['State ANSI'] == df_state.iloc[i, 0]]
+    lookatP25 = lookP25[lookP25['Deaths_25+'] == 0]
+    df_state.iloc[i, 10] = lookatP0_5['Population_0-5'].sum()
+    df_state.iloc[i, 11] = lookatP5_25['Population_5-25'].sum()
+    df_state.iloc[i, 12] = lookatP25['Population_25+'].sum()
+i = 0
+j = 0
+for i in range(df_state.shape[0]):
+    for j in range(3):
+        if df_state.iloc[i, j + 10] == 0:
+            print('help')
+        else:
+            df_state.iloc[i, j + 13] = (df_state.iloc[i, j + 1] - df_state.iloc[i, j + 7]) / df_state.iloc[i, j + 10]
+
+i = 0
+j = 0
+for i in range(df_county.shape[0]):
+    for j in range(3):
+        if df_county.iloc[i, j + 8] == 0:
+            state = df_state[df_state['State Code'] == df_county.iloc[i, 0]]
+            df_county.iloc[i, j + 8] = state.iloc[0, j + 13]
+
 df_county.to_csv(r'Parsed data/Respiratory Mortality.csv', index = False)
