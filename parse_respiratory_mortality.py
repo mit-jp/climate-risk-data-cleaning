@@ -36,6 +36,7 @@ df_county['Percent Deaths 0-5'] = df_county['Deaths_0-5']/df_county['Population_
 df_county['Percent Deaths 5-25'] = df_county['Deaths_5-25']/df_county['Population_5-25']
 df_county['Percent Deaths 25+'] = df_county['Deaths_25+']/df_county['Population_25+']
 df_county = diff.fix(df_county, 1, 1, 1)
+df_county.to_csv(r'Parsed data/Respiratory Mortality.csv', index = False)
 
 i = 0
 for i in range(df_state.shape[0]):
@@ -56,9 +57,7 @@ i = 0
 j = 0
 for i in range(df_state.shape[0]):
     for j in range(3):
-        if df_state.iloc[i, j + 10] == 0:
-            print('help')
-        else:
+        if df_state.iloc[i, j + 10] != 0:
             df_state.iloc[i, j + 13] = (df_state.iloc[i, j + 1] - df_state.iloc[i, j + 7]) / df_state.iloc[i, j + 10]
 
 i = 0
@@ -69,4 +68,16 @@ for i in range(df_county.shape[0]):
             state = df_state[df_state['State Code'] == df_county.iloc[i, 0]]
             df_county.iloc[i, j + 8] = state.iloc[0, j + 13]
 
-df_county.to_csv(r'Parsed data/Respiratory Mortality.csv', index = False)
+df_national['Percent Deaths'] = df_national['Deaths']/df_national['Population']
+i = 0
+j = 0
+for i in range(df_county.shape[0]):
+    for j in range(3):
+        if df_county.iloc[i, j + 8] == 0:
+            df_county.iloc[i, j + 8] = df_national.iloc[j, 2]
+
+df_county.round(5)
+df_state.round(5)
+df_national.round(5)
+
+df_county.to_csv(r'Parsed data/Respiratory Mortality with estimates.csv', index = False)
