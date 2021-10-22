@@ -2,7 +2,9 @@ import pandas as pd
 import numpy as np
 import us
 import fix_differences as diff
-pd.set_option('display.max_columns', None)
+# pd.set_option('display.max_columns', None)
+
+# Import all datasets
 df_county = pd.read_csv(r'CDC Wonder Data/All-cause mortality at county level 2016.txt', sep='\t', engine='python')
 df_state = pd.read_csv(r'CDC Wonder Data/All-cause mortality at state level 2016.txt', sep='\t', engine='python')
 df_national = pd.read_csv(r'CDC Wonder Data/All-cause mortality at national level 2016.txt', sep='\t', engine='python')
@@ -38,6 +40,7 @@ df_county = df_county.sort_values(by=['State ANSI', 'County ANSI'])
 df_county['Percent Deaths 0-5'] = df_county['Deaths_0-5']/df_county['Population_0-5']
 df_county['Percent Deaths 5-25'] = df_county['Deaths_5-25']/df_county['Population_5-25']
 df_county['Percent Deaths 25+'] = df_county['Deaths_25+']/df_county['Population_25+']
+
 df_county = diff.fix(df_county, 1, 1, 1)
 df_county.to_csv(r'Parsed data/All Cause Mortality.csv', index = False)
 
@@ -80,7 +83,6 @@ for i in range(df_county.shape[0]):
             df_county.iloc[i, j + 8] = df_national.iloc[j, 2]
 
 
-'''
 regional_groupings = {'northeast': ['Maine', 'New Hampshire', 'Vermont', 'Massachusetts', 'Rhode Island', 'Connecticut', 'New York',
 'New Jersey', 'Pennsylvania'], 'midwest': ['Ohio', 'Indiana', 'Illinois', 'Michigan', 'Wisconsin', 'Minnesota', 'Iowa', 'Missouri', 'North Dakota',
 'South Dakota', 'Nebraska', 'Kansas'], 'south': ['Delaware', 'Maryland', 'District of Columbia', 'Virginia', 'West Virginia', 'North Carolina', 'South Carolina', 'Georgia', 'Florida', 'Kentucky', 'Tennessee', 'Alabama', 'Mississippi', 'Arkansas',
@@ -93,7 +95,86 @@ for k in regional_groupings.keys():
         state = regional_groupings[k][i].lower()
         regional_groupings[k][i] = int(us.states.lookup(state).fips)
 
-'''
+
+df_county_sub_20_state0_5 = df_county[(df_county['Deaths_0-5'] < 20) & (df_county['Deaths_0-5'] > 0)]
+df_county_sub_20_state5_25 = df_county[(df_county['Deaths_5-25'] < 20) & (df_county['Deaths_5-25'] > 0)]
+df_county_sub_20_state25 = df_county[(df_county['Deaths_25+'] < 20) & (df_county['Deaths_25+'] > 0)]
+
+
+df_county_sub_20_regional0_5 = df_county_sub_20_state0_5
+df_county_sub_20_regional5_25 = df_county_sub_20_state5_25
+df_county_sub_20_regional25 = df_county_sub_20_state25
+i = 0
+for i in range(df_state.shape[0]):
+    state0_5 = df_county_sub_20_regional0_5[df_county_sub_20_regional0_5['State ANSI'] == df_state.iloc[i, 0]]
+    state5_25 = df_county_sub_20_regional5_25[df_county_sub_20_regional5_25['State ANSI'] == df_state.iloc[i, 0]]
+    state25 = df_county_sub_20_regional25[df_county_sub_20_regional25['State ANSI'] == df_state.iloc[i, 0]]
+    if state0_5.shape[0] != 1:
+        df_county_sub_20_regional0_5 = df_county_sub_20_regional0_5[df_county_sub_20_regional0_5['State ANSI'] != df_state.iloc[i, 0]]
+    if state5_25.shape[0] != 1:
+        df_county_sub_20_regional5_25 = df_county_sub_20_regional5_25[
+            df_county_sub_20_regional5_25['State ANSI'] != df_state.iloc[i, 0]]
+    if state25.shape[0] != 1:
+        df_county_sub_20_regional25 = df_county_sub_20_regional25[
+            df_county_sub_20_regional25['State ANSI'] != df_state.iloc[i, 0]]
+
+df_county_sub_20_state0_5 = df_county_sub_20_state0_5.drop(df_county_sub_20_regional0_5.index)
+df_county_sub_20_state5_25 = df_county_sub_20_state5_25.drop(df_county_sub_20_regional5_25.index)
+df_county_sub_20_state25 = df_county_sub_20_state25.drop(df_county_sub_20_regional25.index)
+
+i = 0
+for i in range(df_county.shape[0]):
+    j = 0
+    for j in range(3):
+        if (df_county.iloc[i, j+2] < 20) & (df_county.iloc[i, j+2] > 0):
+            if j == 0:
+                if df_county.iloc[i, 0] in list(df_county_sub_20_state0_5['State ANSI']):
+                    df_county.iloc[i, j + 8] = df_county_sub_20_state0_5.iloc[:, j+2].sum() / df_county_sub_20_state0_5.iloc[:, j+5].sum()
+                elif df_county.iloc[i, 0] in list(df_county_sub_20_regional0_5['State ANSI']):
+                    region = ''
+                    if df_county.iloc[i, 0] in regional_groupings['northeast']:
+                        region = 'northeast'
+                    elif df_county.iloc[i, 0] in regional_groupings['midwest']:
+                        region = 'midwest'
+                    elif df_county.iloc[i, 0] in regional_groupings['south']:
+                        region = 'south'
+                    elif df_county.iloc[i, 0] in regional_groupings['west']:
+                        region = 'west'
+                    subregiontable = df_county_sub_20_regional0_5[df_county_sub_20_regional0_5['State ANSI'].isin(regional_groupings[region])]
+                    df_county.iloc[i, j + 8] = subregiontable.iloc[:,
+                                               j + 2].sum() / subregiontable.iloc[:, j + 5].sum()
+            elif j == 1:
+                if df_county.iloc[i, 0] in list(df_county_sub_20_state5_25['State ANSI']):
+                    df_county.iloc[i, j + 8] = df_county_sub_20_state5_25.iloc[:, j + 2].sum() / df_county_sub_20_state5_25.iloc[:, j + 5].sum()
+                elif df_county.iloc[i, 0] in list(df_county_sub_20_regional5_25['State ANSI']):
+                    region = ''
+                    if df_county.iloc[i, 0] in regional_groupings['northeast']:
+                        region = 'northeast'
+                    elif df_county.iloc[i, 0] in regional_groupings['midwest']:
+                        region = 'midwest'
+                    elif df_county.iloc[i, 0] in regional_groupings['south']:
+                        region = 'south'
+                    elif df_county.iloc[i, 0] in regional_groupings['west']:
+                        region = 'west'
+                    subregiontable = df_county_sub_20_regional5_25[df_county_sub_20_regional5_25['State ANSI'].isin(regional_groupings[region])]
+                    df_county.iloc[i, j + 8] = subregiontable.iloc[:,
+                                               j + 2].sum() / subregiontable.iloc[:, j + 5].sum()
+            elif j == 2:
+                if df_county.iloc[i, 0] in list(df_county_sub_20_state25['State ANSI']):
+                    df_county.iloc[i, j + 8] = df_county_sub_20_state25.iloc[:, j + 2].sum() / df_county_sub_20_state25.iloc[:, j + 5].sum()
+                elif df_county.iloc[i, 0] in list(df_county_sub_20_regional25['State ANSI']):
+                    region = ''
+                    if df_county.iloc[i, 0] in regional_groupings['northeast']:
+                        region = 'northeast'
+                    elif df_county.iloc[i, 0] in regional_groupings['midwest']:
+                        region = 'midwest'
+                    elif df_county.iloc[i, 0] in regional_groupings['south']:
+                        region = 'south'
+                    elif df_county.iloc[i, 0] in regional_groupings['west']:
+                        region = 'west'
+                    subregiontable = df_county_sub_20_regional25[df_county_sub_20_regional25['State ANSI'].isin(regional_groupings[region])]
+                    df_county.iloc[i, j + 8] = subregiontable.iloc[:,
+                                               j + 2].sum() / subregiontable.iloc[:, j + 5].sum()
 
 df_county.round(5)
 df_state.round(5)
