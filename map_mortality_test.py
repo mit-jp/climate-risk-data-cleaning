@@ -70,3 +70,4 @@ measured_data = pd.read_csv("Parsed data/All Cause Mortality.csv")
 measured_plot = plot(measured_data, "Percent Deaths 25+")
 measured_plot.save("Plots/measured_mortality.html")
 measured_plot
+
