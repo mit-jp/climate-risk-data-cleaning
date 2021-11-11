@@ -76,4 +76,7 @@ def organize(county_data, state_data, national_data):
     df_county['Percent Deaths 25+'] = df_county['Deaths_25+'] / df_county['Population_25+']
     df_county['Percent Deaths 5-25'] = df_county['Deaths_5-25'] / df_county['Population_5-25']
 
+    # Calculate the national death rate
+    df_national['Percent Deaths'] = df_national['Deaths'] / df_national['Population']
+
     return [df_county, df_state, df_national]
