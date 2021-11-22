@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import fix_differences as diff
+import useful_analysis_functions as fns
 #pd.set_option('display.max_rows', None)
 df = pd.read_csv(r'Project data/GDP by county.csv', low_memory=False, dtype={'GeoType': str})
 df = df.iloc[1:3245, :] # cut off end of data
@@ -19,14 +20,7 @@ df.iloc[3221:3244, 0] = [x + '_' + df.iloc[start+1, 0] for x in df.iloc[3221:324
 df = df[df['GeoType '].str.contains(r'[_]')] # remove empty rows
 
 # format counties
-df['GeoType '] = df['GeoType '].str.lower()
-df['GeoType '] = df['GeoType '].str.replace(' county', '')
-df['GeoType '] = df['GeoType '].str.replace(' city and', '')
-df['GeoType '] = df['GeoType '].str.replace(' borough', '')
-df['GeoType '] = df['GeoType '].str.replace(' municipality', '')
-df['GeoType '] = df['GeoType '].str.replace(' census area', '')
-df['GeoType '] = df['GeoType '].str.replace(' parish', '')
-df['GeoType '] = df['GeoType '].str.replace(' city', '')
+df = fns.remove_confusing_words(df, 'GeoType ')
 
 # create separate tables for virginia
 ref = pd.read_csv(r'Parsed data/ID match resorted.csv')
@@ -55,5 +49,5 @@ df_virginia = df_virginia.sort_values(by = ['STATEFP', 'COUNTYFP'], axis=0) #res
 df_virginia = df_virginia.drop(['STATEFP', 'COUNTYFP'], axis=1) #drop columns
 df = pd.concat([df.iloc[0:2820], df_virginia, df.iloc[2952:,:]], axis=0, ignore_index=True) #add back in
 
-df = diff.fix(df, 0, 2, 1)
-df.to_csv(r'Parsed data/GDP.csv', index = False)
+#df = diff.fix(df, 0, 2, 1)
+#df.to_csv(r'Parsed data/GDP.csv', index = False)

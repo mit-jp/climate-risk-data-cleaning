@@ -1,11 +1,14 @@
 import pandas as pd
 import numpy as np
 import fix_differences as diff
+import useful_analysis_functions as fns
 
 pd.set_option('display.max_rows', None)
 df = pd.read_csv(r'Project data/Per Capita Income.csv', low_memory=False, dtype={'GeoType': str})
+
 df = df.iloc[1:3244, :] # cut off end of data
 df = df.replace(np.nan, '') # replace nan with empty string
+
 i = 1
 start = 0
 end = 0
@@ -19,27 +22,20 @@ while i < df.shape[0]:
 df.iloc[3221:3244, 0] = [x + '_' + df.iloc[start+1, 0] for x in df.iloc[3221:3244, 0]] # concatenate county and state name for wyoming
 df = df[df['GeoType '].str.contains(r'[_]')]# remove empty rows
 
-# format counties
-df['GeoType '] = df['GeoType '].str.lower()
-df['GeoType '] = df['GeoType '].str.replace(' county', '')
-df['GeoType '] = df['GeoType '].str.replace(' city and', '')
-df['GeoType '] = df['GeoType '].str.replace(' borough', '')
-df['GeoType '] = df['GeoType '].str.replace(' municipality', '')
-df['GeoType '] = df['GeoType '].str.replace(' census area', '')
-df['GeoType '] = df['GeoType '].str.replace(' parish', '')
-df['GeoType '] = df['GeoType '].str.replace(' city', '')
+df = fns.remove_confusing_words(df, 'GeoType ')
 
 # create separate tables for virginia
 ref = pd.read_csv(r'Parsed data/ID match resorted.csv')
 ref_virginia = ref.loc[ref["county_State"].str.endswith("_virginia")]
 df_virginia = df.loc[df["GeoType "].str.endswith("_virginia")]
 df_virginia = df_virginia.sort_values(by = ['GeoType '], axis=0)
+
 # add code columns
 df_virginia[['STATEFP', 'COUNTYFP']] = [np.nan, np.nan]
 df_copy = df_virginia.copy()
 # fix outlier in ordering
 df_virginia.iloc[64,:],df_virginia.iloc[65,:], df_virginia.iloc[66,:]=df_copy.iloc[65,:],df_copy.iloc[66,:],df_copy.iloc[64,:]
-df_virginia = pd.concat([df_virginia[0:69], pd.DataFrame([], index=[69]), df_virginia[69:]])
+df_virginia = pd.concat([df_virginia[0:69], pd.DataFrame([], index=[69]), df_virginia[69:]]) #add empty row
 i = 0
 # check for differneces
 while i < ref_virginia.shape[0] - 1:

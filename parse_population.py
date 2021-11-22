@@ -1,31 +1,26 @@
 import pandas as pd
 import re
 import fix_differences as diff
-#pd.set_option('display.max_rows', None)
-#pd.set_option('display.max_columns', None)
+import useful_analysis_functions as fns
+
+# import
 df = pd.read_csv(r'Project data/Population.csv')
+
 # remove state rows
-df['CTYNAME'] = df['CTYNAME'].str.lower()
-state_names = ['Alaska', 'Alabama', 'Arkansas', 'American Samoa', 'Arizona', 'California', 'Colorado', 'Connecticut', 'District of Columbia', 'Delaware', 'Florida', 'Georgia', 'Guam', 'Hawaii', 'Iowa', 'Idaho', 'Illinois', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Massachusetts', 'Maryland', 'Maine', 'Michigan', 'Minnesota', 'Missouri', 'Mississippi', 'Montana', 'North Carolina', 'North Dakota', 'Nebraska', 'New Hampshire', 'New Jersey', 'New Mexico', 'Nevada', 'New York', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Puerto Rico', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Virginia', 'Virgin Islands', 'Vermont', 'Washington', 'Wisconsin', 'West Virginia', 'Wyoming']
-state_names = [x.lower() for x in state_names]
-df = df[~df['CTYNAME'].isin(state_names)]
+df = fns.remove_state_rows(df, 'CTYNAME')
 
 # reformat county names
-df['CTYNAME'] = df['CTYNAME'].str.replace(' county', '')
-df['CTYNAME'] = df['CTYNAME'].str.replace(' city and', '')
-df['CTYNAME'] = df['CTYNAME'].str.replace(' borough', '')
-df['CTYNAME'] = df['CTYNAME'].str.replace(' municipality', '')
-df['CTYNAME'] = df['CTYNAME'].str.replace(' census area', '')
-df['CTYNAME'] = df['CTYNAME'].str.replace(' parish', '')
-df['CTYNAME'] = df['CTYNAME'].str.replace(' city', '')
+df = fns.remove_confusing_words(df, 'CTYNAME')
+
 prev_col = df['POPESTIMATE2010']
-# calculate percent change from pervious year
-for col in df.columns:
+# calculate percent change from previous year
+for col in df.columns: # loop through all columns
     if col != 'CTYNAME' and col != 'POPESTIMATE2010':
-        year = re.findall(r'\d+', col)[0]
-        name = 'pctchange' + str(int(year) - 1) + '-' + str(year)
-        df[name] = df[col]/prev_col
+        year = re.findall(r'\d+', col)[0] #extract year
+        name = 'pctchange' + str(int(year) - 1) + '-' + str(year) # create column name
+        df[name] = ((df[col]-prev_col)/prev_col)*100 # calculate percent difference
         prev_col = df[col]
-print(df)
+df['AVGPOPCNG2010-2019'] = df.iloc[:, 11:].sum(axis=1, min_count=1)/9 # calculate average percent change
+
 df = diff.fix(df, 0, 0, 3)
 df.to_csv(r'Parsed data/Population.csv', index=False)
