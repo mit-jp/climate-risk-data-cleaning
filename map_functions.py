@@ -14,7 +14,7 @@ def convert_ids(df):
     return df
 
 
-def plot_counties(df, variable, color_scheme="blueorange", domain=None):
+def plot_counties(df, variable, color_scheme="blueorange", domain=None, show_pdf=True):
     """Plot a map of variable 'variable' in dataframe 'df'"""
     counties = alt.topo_feature(data.us_10m.url, "counties")
 
@@ -49,7 +49,10 @@ def plot_counties(df, variable, color_scheme="blueorange", domain=None):
         )
         .transform_lookup(lookup="id", from_=alt.LookupData(df, "id", [variable]))
     )
-    return map_chart | pdf_chart
+    if show_pdf:
+        return map_chart | pdf_chart
+    else:
+        return map_chart
 
 
 def plot_states(df, variable, color_scheme="blueorange", domain=None):
