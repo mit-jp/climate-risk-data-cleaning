@@ -6,5 +6,6 @@
         "iloc",
         "inplace",
         "topojson"
-    ]
+    ],
+    "python.formatting.provider": "black"
 }
