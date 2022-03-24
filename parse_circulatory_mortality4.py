@@ -4,10 +4,10 @@ import numpy as np
 import cdc_estimation_functions as rg
 
 # Import all datasets
-df_county = pd.read_csv(r'CDC Wonder Data/All-cause mortality at county level 2016.txt', sep='\t',
+df_county = pd.read_csv(r'CDC Wonder Data/Circulatory mortality at county level 2016.txt', sep='\t',
                         engine='python')
-df_state = pd.read_csv(r'CDC Wonder Data/All-cause mortality at state level 2016.txt', sep='\t', engine='python')
-df_national = pd.read_csv(r'CDC Wonder Data/All-cause mortality at national level 2016.txt', sep='\t',
+df_state = pd.read_csv(r'CDC Wonder Data/Circulatory mortality at state level 2016.txt', sep='\t', engine='python')
+df_national = pd.read_csv(r'CDC Wonder Data/Circulatory mortality at national level 2016.txt', sep='\t',
                           engine='python')
 
 # Organize the data
@@ -130,5 +130,4 @@ df_county = pd.concat([df_county.iloc[:,0:2], df_county.iloc[:, 28:]], axis=1)
 
 df_county = diff.fix(df_county, 1, 1, 1) # fill in missing counties
 df_county = df_county.round(5) # round data
-df_county.to_csv(r'Parsed data/All Cause Mortality with Estimates.csv', index = False)
-
+df_county.to_csv(r'Parsed data/Circulatory Mortality with Estimates.csv', index = False)
