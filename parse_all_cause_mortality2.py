@@ -60,6 +60,24 @@ df_state = df_state.reset_index()
 
 df_national['Percent Deaths'] = df_national['Deaths']/df_national['Population']
 
+df_temp = df_county
+
+df_temp[['Percent Deaths_0-5', 'Percent Deaths_5-25', 'Percent Deaths_25+']] = [np.nan, np.nan, np.nan]
+
+df_temp = pd.concat([df_temp.iloc[:, 0:4], df_temp.iloc[:, 10], df_temp.iloc[:, 4:10], df_temp.iloc[:, 11:17], df_temp.iloc[:, 23], df_temp.iloc[:, 17:23], df_temp.iloc[:, 24:]], axis=1)
+
+df_temp[df_temp==0] = np.nan
+
+df_temp['Percent Deaths_0-5'] = df_temp.iloc[:, 2:4].sum(axis=1, skipna=False)/df_temp.iloc[:, 15:17].sum(axis=1, skipna=False)
+df_temp['Percent Deaths_5-25'] = df_temp.iloc[:, 4:8].sum(axis=1, skipna=False)/df_temp.iloc[:, 17:21].sum(axis=1, skipna=False)
+df_temp['Percent Deaths_25+'] = df_temp.iloc[:, 8:15].sum(axis=1, skipna=False)/df_temp.iloc[:, 21:28].sum(axis=1, skipna=False)
+
+df_temp = pd.concat([df_temp.iloc[:,0:2], df_temp.iloc[:, 28:]], axis=1)
+
+df_temp = diff.fix(df_county, 1, 1, 1) # fill in missing counties
+df_temp = df_temp.round(5) # round data
+df_temp.to_csv(r'Parsed data/All Cause Mortality without Estimates.csv', index = False)
+
 for age in ages:
     df_county['Percent Deaths ' + age] = df_county['Deaths_' + age]/df_county['Population_' + age]
     df_state[['CalDt' + age, 'CalPop' + age, 'CalPer' + age]] = [np.nan, np.nan, np.nan]
