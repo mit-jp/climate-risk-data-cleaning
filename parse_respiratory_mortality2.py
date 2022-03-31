@@ -74,7 +74,7 @@ df_temp['Percent Deaths_25+'] = df_temp.iloc[:, 8:15].sum(axis=1, skipna=False)/
 
 df_temp = pd.concat([df_temp.iloc[:,0:2], df_temp.iloc[:, 28:]], axis=1)
 
-df_temp = diff.fix(df_county, 1, 1, 1) # fill in missing counties
+df_temp = diff.fix(df_temp, 1, 1, 1) # fill in missing counties
 df_temp = df_temp.round(5) # round data
 df_temp.to_csv(r'Parsed data/Respiratory Mortality without Estimates.csv', index = False)
 
