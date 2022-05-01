@@ -59,6 +59,10 @@ df_state.columns = ['_'.join(col) for col in df_state.columns.values]
 df_state = df_state.reset_index()
 
 df_national['Percent Deaths'] = df_national['Deaths']/df_national['Population']
+'''
+df_county.to_csv(r'Parsed data/All Cause Mortality reference county.csv', index = False)
+df_state.to_csv(r'Parsed data/All Cause Mortality reference state.csv', index = False)
+df_national.to_csv(r'Parsed data/All Cause Mortality reference national.csv', index = False)
 
 df_temp = df_county
 
@@ -77,7 +81,7 @@ df_temp = pd.concat([df_temp.iloc[:,0:2], df_temp.iloc[:, 28:]], axis=1)
 df_temp = diff.fix(df_temp, 1, 1, 1) # fill in missing counties
 df_temp = df_temp.round(5) # round data
 df_temp.to_csv(r'Parsed data/All Cause Mortality without Estimates.csv', index = False)
-
+'''
 for age in ages:
     df_county['Percent Deaths ' + age] = df_county['Deaths_' + age]/df_county['Population_' + age]
     df_state[['CalDt' + age, 'CalPop' + age, 'CalPer' + age]] = [np.nan, np.nan, np.nan]
@@ -102,6 +106,9 @@ for age in ages:
             else:
                 df_county.loc[i, 'Percent Deaths ' + age] = df_national.loc[age, 'Percent Deaths']
 
+df_temp2 = df_county.round(5) # round data
+df_temp2.to_csv(r'Parsed data/All Cause Mortality with r1 Estimates.csv', index = False)
+
 regional_groupings = rg.create_regional_hashmap()
 
 for age in ages:
@@ -122,8 +129,12 @@ for age in ages:
             else:
                 region = rg.get_region_from_state(df_county.loc[i, 'State ANSI'], regional_groupings)
                 current = df_county_sub_20_regional[df_county_sub_20_regional['State ANSI'].isin(regional_groupings[region])]
+                if (region == 'northeast') & (age == '25-34'):
+                    print(current)
                 df_county.loc[i, 'Percent Deaths ' + age] = current.loc[:, 'Deaths_' + age].sum() / current.loc[:, 'Population_' + age].sum()
 
+df_temp3 = df_county.round(5) # round data
+df_temp3.to_csv(r'Parsed data/All Cause Mortality with r2 Estimates.csv', index = False)
 
 for age in ages:
     i = 0
@@ -145,8 +156,8 @@ df_county['Percent Deaths_5-25'] = df_county.iloc[:, 4:8].sum(axis=1, skipna=Fal
 df_county['Percent Deaths_25+'] = df_county.iloc[:, 8:15].sum(axis=1, skipna=False)/df_county.iloc[:, 21:28].sum(axis=1, skipna=False)
 
 df_county = pd.concat([df_county.iloc[:,0:2], df_county.iloc[:, 28:]], axis=1)
-
+'''
 df_county = diff.fix(df_county, 1, 1, 1) # fill in missing counties
 df_county = df_county.round(5) # round data
 df_county.to_csv(r'Parsed data/All Cause Mortality with Estimates.csv', index = False)
-
+'''
